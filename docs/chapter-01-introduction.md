@@ -17,10 +17,11 @@ En SportEase, nos esforzamos por brindar un soporte excepcional y una solución 
 | Foto                   |                                    |
 
 
-| Integrante             |                                    |
+| Integrante             | Piero Abel Tarazona Medina         |
 |------------------------|------------------------------------|
-| Codigo del Estudiante  |                                    |
-| Carrera                |                                    |
+| Codigo del Estudiante  | U202217633                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            |  Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi pensamiento crítico y capacidad de encontrar soluciones viables para los distintos problemas. Tengo conocimientos en HTML, CSS, C++. |
 | Foto                   |                                    |
 
 
