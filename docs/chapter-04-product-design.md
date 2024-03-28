@@ -136,7 +136,7 @@ Nuestro equipo ha llegado a la conclusión de que implementar una jerarquía vis
 
 Hemos diseñado nuestra página web con una estructura clara y una jerarquía bien definida para garantizar una experiencia de usuario eficiente y efectiva. A continuación, presentamos el orden jerárquico de nuestras secciones:
 
-(IMAGEN)
+(IMAGEN DE UNA TABLA)
 
 ### 4.2.3 SEO Tags and Meta Tags
 
