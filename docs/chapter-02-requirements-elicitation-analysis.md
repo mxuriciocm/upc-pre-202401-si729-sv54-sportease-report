@@ -398,21 +398,13 @@ Datos principales:
 
 ### 2.2.3 Análisis de entrevistas
 
-(SEGMENTO OBEJTIVO 1)
+Dueño de Academia
 
-Entrevista N°1:
 
-Entrevista N°2:
 
-Entrevista N°3:
+Deportista
 
-(SEGMENTO OBEJTIVO 2)
 
-Entrevista N°1:
-
-Entrevista N°2:
-
-Entrevista N°3:
 
 ## 2.3 Needfinding
 
@@ -420,7 +412,14 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
  
 ### 2.3.1 User Personas
 
+Dueño de Academia
 
+![Dueño de Academia](http://drive.google.com/uc?export=view&id=14y-93O04t5sSj5CeWE8wrXDIBcHLq2KW)
+
+
+Deportista
+
+![Deportista](http://drive.google.com/uc?export=view&id=1nmznDy5ti6GafA20RZ9ONoWpP98YOXtw)
 
 ### 2.3.2 User Task Matrix
 
