@@ -308,11 +308,136 @@ Después de un análisis exhaustivo del mercado y la competencia, SportEase ha i
 10. ¿Qué deportes se practican principalmente en su academia?
 
 ### 2.2.2 Registro de entrevistas
+
+(SEGMENTO OBEJTIVO 1)
+
+Entrevista N°1:
+
+IMAGEN (CAPTURA DEL LA ENTREVISTA)
+
+Datos principales:
+
+- Nombre completo del entrevistado:
+- Edad:
+- Distrito:
+- Link:
+- Inicio de entrevista:
+- Duracion:
+
+
+Entrevista N°2:
+
+IMAGEN (CAPTURA DEL LA ENTREVISTA)
+
+Datos principales:
+
+- Nombre completo del entrevistado:
+- Edad:
+- Distrito:
+- Link:
+- Inicio de entrevista:
+- Duracion:
+
+
+Entrevista N°3:
+
+IMAGEN (CAPTURA DEL LA ENTREVISTA)
+
+Datos principales:
+
+- Nombre completo del entrevistado:
+- Edad:
+- Distrito:
+- Link:
+- Inicio de entrevista:
+- Duracion:
+
+
+(SEGMENTO OBEJTIVO 2)
+
+Entrevista N°1:
+
+IMAGEN (CAPTURA DEL LA ENTREVISTA)
+
+Datos principales:
+
+- Nombre completo del entrevistado:
+- Edad:
+- Distrito:
+- Link:
+- Inicio de entrevista:
+- Duracion:
+
+
+Entrevista N°2:
+
+IMAGEN (CAPTURA DEL LA ENTREVISTA)
+
+Datos principales:
+
+- Nombre completo del entrevistado:
+- Edad:
+- Distrito:
+- Link:
+- Inicio de entrevista:
+- Duracion:
+
+
+Entrevista N°3:
+
+IMAGEN (CAPTURA DEL LA ENTREVISTA)
+
+Datos principales:
+
+- Nombre completo del entrevistado:
+- Edad:
+- Distrito:
+- Link:
+- Inicio de entrevista:
+- Duracion:
+
 ### 2.2.3 Análisis de entrevistas
+
+(SEGMENTO OBEJTIVO 1)
+
+Entrevista N°1:
+
+Entrevista N°2:
+
+Entrevista N°3:
+
+(SEGMENTO OBEJTIVO 2)
+
+Entrevista N°1:
+
+Entrevista N°2:
+
+Entrevista N°3:
+
 ## 2.3 Needfinding
+
+Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primero, segmentamos a los usuarios en diferentes categorías y generamos perfiles que representan a nuestro público objetivo, mediante la creación de User Persona. Esto nos permitió agrupar las necesidades específicas de cada tipo de usuario. Luego, para corroborar y validar las necesidades que habíamos determinado previamente para cadcategoría de usuario, realizamos entrevistas con representantes de los dos conjuntos de usuarios que habíamos identificado utilizando los User Persona.
+ 
 ### 2.3.1 User Personas
+
+
+
 ### 2.3.2 User Task Matrix
+
+
+
 ### 2.3.3 User Journey Mapping
+
+
+
 ### 2.3.4 Empathy Mapping
+
+
+
 ### 2.3.5 As-is Scenario Mapping
+
+
+
 ## 2.4 Ubiquitous Language
+
+
