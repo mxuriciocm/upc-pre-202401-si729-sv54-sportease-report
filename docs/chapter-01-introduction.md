@@ -72,6 +72,29 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Foto                   |                                    |
 
 ## 1.2 Solution Profile
+
+(Esto lo vi en varios otros proyectos, pero no sé si es correcto)
+
+En Juniors Team, nuestro objetivo es proporcionar productos de alta calidad que permitan a nuestros usuarios aprovechar de manera más efectiva todos los servicios ofrecidos por las academias deportivas con las que están afiliados, al mismo tiempo que puedan mantenerse mejor organizados e informados. Para lograr este objetivo, hemos desarrollado una estrategia avanzada para nuestra aplicación principal: SportEase.
+
+SportEase es una aplicación única en el mercado que ofrece una interfaz completa y adecuada para la gestión y organización de los servicios ofrecidos por las academias deportivas, así como el acceso a estos servicios por parte de sus estudiantes. Con un programa escalable y sólido, y una interfaz intuitiva y fácil de usar, SportEase cuenta con una serie de características destacadas que benefician a todos los usuarios:
+
+1. Gestión de Reservas de Clases: Una interfaz intuitiva que permite a los usuarios reservar y pagar clases de diversas disciplinas deportivas de manera sencilla.
+
+2. Seguimiento de Desempeño: Una herramienta que permite a los entrenadores registrar el progreso de los estudiantes, incluyendo asistencias, rendimiento y logros.
+
+3. Administración de Horarios: Funcionalidad para definir horarios de clases y eventos deportivos, gestionando la disponibilidad de instructores de manera eficiente.
+
+4. Sistema de Pagos y Facturación: Integración de un sistema de pagos seguro que facilita el procesamiento de reservas de clases y la generación automática de facturas.
+
+5. Comunicación con Estudiantes: Una plataforma de mensajería interna y notificaciones automáticas que simplifica la comunicación entre instructores y estudiantes.
+
+6. Gestión de Usuarios y Roles: Registro de usuarios con asignación de roles según sus funciones, como administradores, instructores y estudiantes.
+
+7. Integración con Servicios de Fitness: Conexión con aplicaciones de seguimiento de actividad física o nutrición para ofrecer una experiencia completa y personalizada.
+
+Con SportEase, nos esforzamos por proporcionar una solución integral que mejore la experiencia tanto de las academias deportivas como de sus estudiantes, brindando herramientas efectivas para la gestión, organización y comunicación en el ámbito deportivo.
+
 ### 1.2.1 Antecedentes y problemática
 La startup SportEase surge como respuesta a las crecientes necesidades de las academias deportivas en el Perú para mejorar su gestión interna. Con la evolución de la tecnología y las nuevas demandas del mercado, las academias deportivas se enfrentan a desafíos en la organización eficiente de sus operaciones. La falta de herramientas especializadas y la adopción limitada de soluciones tecnológicas han llevado a una gestión ineficiente de las actividades deportivas, incluyendo la asignación de canchas, el seguimiento de asistencias y pagos, y la comunicación con estudiantes y entrenadores.
 
