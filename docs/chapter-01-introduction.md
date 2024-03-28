@@ -1,13 +1,44 @@
 # Capítulo 1: Introducción
+
 ## 1.1 Startup Profile
+
+Según el Ministerio de Educación (2023), tras la flexibilización de las medidas de salud y cuarentena impuestas por el gobierno peruano en respuesta a la pandemia del Covid-19, muchas academias deportivas en todo el país reanudaron sus servicios, aprovechando nuevas tecnologías como la virtualidad mediante la creación de páginas web, plataformas y aplicaciones para sus usuarios. Sin embargo, con el tiempo, surgieron una serie de problemas en los programas utilizados, siendo el rendimiento deficiente el más reportado, seguido de una interfaz incómoda y la falta de información. Todos estos causados por los cambios bruscos y la falta de personal de software trabajando en áreas deportivas.
+
+Motivado por estas dificultades, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas fundó Juniors Team, una startup innovadora especializada en el desarrollo de soluciones tecnológicas disruptivas para la creciente industria deportiva en nuestro país. Nuestro propósito es presentar ideas innovadoras para optimizar los procesos de gestión y organización relacionados con las áreas deportivas, proporcionando aplicativos que permitan a los estudiantes y personal de las instituciones acceder y utilizar los servicios de manera más rápida, formal y cómoda.
+
+Con esa motivación, hemos desarrollado y patentado una aplicación llamada SportEase, la cual está transformando y mejorando la experiencia de todos los usuarios en el ámbito deportivo. Esta aplicación ofrece un programa con una interfaz ordenada y de fácil uso, diseñada para agilizar la organización y planificación de actividades deportivas en academias por parte de los instructores. A su vez, proporciona a los estudiantes una interfaz intuitiva y sencilla para acceder a esta información de manera clara y rápida.
+
 ### 1.1.1 Descripción de la Startup
-SportEase es una innovadora startup peruana que tiene como objetivo revolucionar la gestión de academias deportivas en el país. Nuestra plataforma proporciona una solución integral y fácil de usar que permite a las academias deportivas de fútbol, voleibol y baloncesto gestionar eficientemente todos los aspectos de su operación, desde el entrenamiento y la asignación de canchas hasta el seguimiento de asistencias y pagos.
-SportEase ofrece modelos de suscripción flexibles que permiten a las academias deportivas acceder a las funcionalidades y características avanzadas de la plataforma. Los planes de suscripción básicos y premium brindan acceso a diferentes niveles de funcionalidades, desde la gestión de entrenamientos y asistencias hasta la asignación de canchas y la administración de pagos. Además, estamos explorando la posibilidad de ofrecer un plan empresarial que incluya características personalizadas y soporte dedicado para las necesidades específicas de las grandes academias deportivas.
-En SportEase, nos esforzamos por brindar un soporte excepcional y una solución tecnológica de vanguardia que permita a las academias deportivas optimizar sus operaciones y ofrecer una experiencia inigualable a sus estudiantes y entrenadores. Estamos en una misión para impulsar el éxito de las academias deportivas en el Perú, y estamos emocionados de ser parte de esta transformación en el mundo del deporte.
 
-**Visión:** Aspiramos a ser la plataforma líder en gestión de academias deportivas en Perú, reconocida por nuestra innovación tecnológica, compromiso con la excelencia y mejora continua. Buscamos impulsar el éxito y el crecimiento de las academias deportivas en el país, proporcionando soluciones integrales que mejoren la eficiencia operativa y la experiencia del usuario.
+- **Misión:** 
+Proporcionar una plataforma tecnológica innovadora, que permita a estudiantes, instructores y administradores optimizar sus actividades académicas deportivas, promoviendo el bienestar y el desarrollo físico y mental de la comunidad deportiva a través de mejoras de rendimiento, calidad y comodidad.
 
-**Misión:** Nuestra misión es proporcionar una solución tecnológica integral y fácil de usar que permita a las academias deportivas optimizar sus operaciones y ofrecer una experiencia excepcional a estudiantes y entrenadores. Nos esforzamos por ofrecer un rendimiento sólido, una interfaz intuitiva y un soporte excepcional, para contribuir al éxito y crecimiento de las academias deportivas en el Perú.
+- **Visión:** 
+Aspiramos a integrar las mejores soluciones tecnológicas suramericanas para respaldar el desarrollo y crecimiento de la industria deportiva al brindar soluciones integrales que demuestren calidad, escalabilidad y mejora continua, siguiendo nuestro objetivo de excelencia tecnológica.
+
+- **Valores:**
+  
+En Juniors Team, estamos comprometidos con una serie de valores fundamentales que guían nuestra cultura organizacional. Estos valores reflejan quiénes somos y cómo nos comportamos como equipo. Ante esto, nosotros creemos firmemente en:
+
+1. **Accesibilidad:** Priorizamos el diseño y la usabilidad específica de la plataforma para garantizar que sea accesible para usuarios de todas las edades y niveles de habilidad.
+
+2. **Aprendizaje:** Promovemos el aprendizaje continuo de nuestros usuarios sobre las áreas e industria deportiva, fomentando la expansión de las actividades deportivas entre la sociedad junto a sus beneficios y oportunidades.
+
+3. **Colaboración y trabajo en equipo:** Valoramos la colaboración entre nuestros equipos internos y con nuestros clientes, reconociendo que el éxito se logra mejor cuando trabajamos juntos hacia un objetivo común.
+
+4. **Compromiso con el cliente:** Posicionamos los deseos y necesidades de nuestros clientes en el centro de todo lo que hacemos en nuestro trabajo, esforzándonos por superar sus expectativas en cada oportunidad posible.
+  
+5. **Eficiencia y Excelencia:** Nos esforzamos por ofrecer un servicio de la más alta calidad en todo momento, buscando la perfección en cada aspecto de nuestro trabajo y manteniendo altos estándares de profesionalismo.
+
+6. **Equidad:** Promovemos la equidad entre todos nuestros usuarios al presentar las mismas funcionalidades a todos. Asimismo, fomentamos la entrega de oportunidades a todos los usuarios e instituciones que lo merezcan.
+
+7. **Innovación Continua:** Estamos a la vanguardia de las tendencias tecnológicas y deportivas, incorporando nuevas características y funcionalidades basadas en retroalimentación de usuarios y avances en la industria del deporte.
+
+8. **Respeto:** Mantenemos un ambiente amigable y respetuoso de forma interna y externa en todo momento, tanto para nuestros trabajadores como para nuestros clientes.
+
+9. **Transparencia:** Mantenemos una comunicación clara y transparente con los usuarios en cuanto a horarios, disponibilidad de clases, políticas de cancelación y precios, para generar confianza y lealtad hacia la plataforma.
+
+
 ### 1.1.2 Perfiles de integrantes del equipo
 | Integrante             | Mauricio Sebastián Chacon Martinez |
 |------------------------|------------------------------------|
@@ -25,11 +56,11 @@ En SportEase, nos esforzamos por brindar un soporte excepcional y una solución 
 | Foto                   |                                    |
 
 
-| Integrante             |                                    |
+| Integrante             | Flavio Eduardo Trigueros Chumacero |
 |------------------------|------------------------------------|
-| Codigo del Estudiante  |                                    |
-| Carrera                |                                    |
-| Descripcion            |                                    |
+| Codigo del Estudiante  | U202210190                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            |  Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 19 años. Me caracterizo por mi pensamiento crítico, actitud trabajadora y detallista, y responsabilidad. Tengo conocimientos en programación con HTML, CSS y JS, además de lenguajes de programación como C ++ y Python. Asimismo, puedo trabajar con normalidad en bases de datos en MySQL y MongoDB. |
 | Foto                   |                                    |
 
 
