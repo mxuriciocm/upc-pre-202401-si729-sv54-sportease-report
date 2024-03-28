@@ -2,13 +2,13 @@
 
 ## 1.1 Startup Profile
 
+### 1.1.1 Descripción de la Startup
+
 Según el Ministerio de Educación (2023), tras la flexibilización de las medidas de salud y cuarentena impuestas por el gobierno peruano en respuesta a la pandemia del Covid-19, muchas academias deportivas en todo el país reanudaron sus servicios, aprovechando nuevas tecnologías como la virtualidad mediante la creación de páginas web, plataformas y aplicaciones para sus usuarios. Sin embargo, con el tiempo, surgieron una serie de problemas en los programas utilizados, siendo el rendimiento deficiente el más reportado, seguido de una interfaz incómoda y la falta de información. Todos estos causados por los cambios bruscos y la falta de personal de software trabajando en áreas deportivas.
 
 Motivado por estas dificultades, un equipo de estudiantes de la Universidad Peruana de Ciencias Aplicadas fundó Juniors Team, una startup innovadora especializada en el desarrollo de soluciones tecnológicas disruptivas para la creciente industria deportiva en nuestro país. Nuestro propósito es presentar ideas innovadoras para optimizar los procesos de gestión y organización relacionados con las áreas deportivas, proporcionando aplicativos que permitan a los estudiantes y personal de las instituciones acceder y utilizar los servicios de manera más rápida, formal y cómoda.
 
 Con esa motivación, hemos desarrollado y patentado una aplicación llamada SportEase, la cual está transformando y mejorando la experiencia de todos los usuarios en el ámbito deportivo. Esta aplicación ofrece un programa con una interfaz ordenada y de fácil uso, diseñada para agilizar la organización y planificación de actividades deportivas en academias por parte de los instructores. A su vez, proporciona a los estudiantes una interfaz intuitiva y sencilla para acceder a esta información de manera clara y rápida.
-
-### 1.1.1 Descripción de la Startup
 
 - **Misión:** 
 Proporcionar una plataforma tecnológica innovadora, que permita a estudiantes, instructores y administradores optimizar sus actividades académicas deportivas, promoviendo el bienestar y el desarrollo físico y mental de la comunidad deportiva a través de mejoras de rendimiento, calidad y comodidad.
