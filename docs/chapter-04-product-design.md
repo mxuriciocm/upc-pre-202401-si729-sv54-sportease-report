@@ -14,9 +14,15 @@ El color base principal que utilizarán todas las páginas de nuestro aplicativo
 
 Con el fin de mantener contrastes concretos y establecidos durante todo el proceso de diseño, hemos seleccionado la siguiente escala de paleta de colores con respecto al tono azulado deseado. Para representarlos, hemos utilizado colores comunes y una escala basada en código RGB:
 
-(INSERTAR IMAGEN)
-(INSERTAR IMAGEN)
-(INSERTAR IMAGEN)
+![Paleta Colores 1](http://drive.google.com/uc?export=view&id=1aRtOIoNjbAdDGPDKrLP3n5mE8L5UvcIK)
+
+Con el fin de otorgarle una mejor consistencia al color azul, agregaremos tonos morados y púrpuras para mejorar la consistencia del color azul en fondos y cuadros, creando una mezcla sólida y exótica. Estos tonos no tendrán un significado subjetivo completo; simplemente acompañarán al azul para mejorar su consistencia. Aquí están los colores RGB que utilizaremos:
+
+![Paleta Colores 2](http://drive.google.com/uc?export=view&id=1m7Gi5OnhIrkjwG6C0ZYWAbH1L4ZsrpCJ)
+
+Finalmente, añadiremos una paleta de colores que incluye tonos de blanco, gris y negro para mejorar la comprensión y comodidad visual de la interfaz para los usuarios. Esto también agregará una mezcla de colores con tonos azulados. El blanco aportará sensaciones de pureza, simplicidad, modernidad y paz, complementando bien al azul. Esta paleta experimentará más cambios en los niveles de transparencia y brillo, ya que el blanco es altamente versátil y puede aplicarse en varias secciones de la aplicación. Aquí están los colores RGB que usaremos:
+
+![Paleta Colores 3](http://drive.google.com/uc?export=view&id=1lOVZ0TkB7tu4Gyj3qp3qEHcY8Dsz2irr)
 
 * Tipografia:
 
@@ -37,7 +43,7 @@ Centrado: Ideal para textos llamativos, títulos o encabezados.
 Derecha: Se usa en combinación con alineación a la izquierda y nunca como alineación principal.
 Los modelos de grosor de la letra pueden variar según la página y la sección. Para la fuente "Poppins", se pueden identificar los siguientes modelos de grosor:
 
-(IMAGEN)
+![Tipografia](http://drive.google.com/uc?export=view&id=10FBr3Ccivp3drP3yr9DdMlbRzla2VjtG)
 
 * Tono de comunicación y lenguaje aplicado:
 
@@ -57,25 +63,26 @@ Para fondos:
 
 Los tipos de fondo que tendrán las pantallas de nuestro aplicacion, principalmente serán modelos degradados que saldrán de combinaciones entre los siguientes colores mostrados:
 
-(IMAGEN)
+![Fondos 4.1.2](http://drive.google.com/uc?export=view&id=1KRIFZynZFW9KVC0g4dHHK0k0Gp2i40uG)
 
 Para tipografia:
 
 La elección de colores para el texto puede cambiar dependiendo del fondo utilizado en las páginas, botones o cuadros de texto. Se ha optado por sustituir el tradicional color negro por tonos grisáceos, ya que armoniza mejor con los fondos. Además, el color azulado se reservará exclusivamente para resaltar palabras que contengan enlaces internos.
 
-(IMAGEN)
+![Tipografia 4.1.2](http://drive.google.com/uc?export=view&id=1PvawXHiJRla9L3mmYc2MT0nWL5P7baFV)
 
 Para botones:
 
 La mayoría de los botones en las páginas web llevan el color negro como base, aunque se les agrega varios niveles de transparencia para que puedan combinar bien con los fondos y la tipográfia dada. Asimismo, también hay botones con tonos azulados y grisáceos, aunque son una cierta minoría.
 
-(IMAGEN)
+![Botones 4.1.2](http://drive.google.com/uc?export=view&id=1xdoyJD4vN9rIAdGmAG8RaWw8Z6idNtba)
 
 Para cuadros de texto:
 
 Los cuadros de texto presentes en la aplicación se encuentran, en su mayoría, en la sección de inicio de sesión. Con el fin de que combine adecuadamente con los botones y los fondos, se usaron los siguientes colores y tonos de transparencia:
 
-(IMAGEN)
+![Cuadros 4.1.2](http://drive.google.com/uc?export=view&id=1P0hIarBhLDwK-gnrJRn7AHP3qRRsrnP5)
+
 
 * Tipografia:
 
@@ -96,7 +103,7 @@ Centrado: Ideal para textos llamativos, títulos o encabezados.
 Derecha: Se usa en combinación con alineación a la izquierda y nunca como alineación principal.
 Los modelos de grosor de la letra pueden variar según la página y la sección. Para la fuente "Poppins", se pueden identificar los siguientes modelos de grosor:
 
-(IMAGEN)
+![Tipografia](http://drive.google.com/uc?export=view&id=10FBr3Ccivp3drP3yr9DdMlbRzla2VjtG)
 
 Para titulos:
 
@@ -116,7 +123,7 @@ Para parrafos:
 
 Todos los párrafos siempre se escribirán con un grosor “normal”, sin importar el contexto dado. Siempre serán de tamaño 12px. y su color principal es el “black1”. En caso vaya a escribir un párrafo, debe asegurarse que cada uno contenga menos de doscientas cincuenta (250) palabras.
 
-(IMAGEN)
+![Parrafo](http://drive.google.com/uc?export=view&id=1TCMQJXbuYfozrg6VqjAd9qgbR9GYXCER)
 
 ## 4.2 Information Architecture
 ### 4.2.1 Organization Systems
