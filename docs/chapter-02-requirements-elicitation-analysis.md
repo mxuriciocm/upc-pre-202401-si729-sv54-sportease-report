@@ -423,7 +423,19 @@ Deportista
 
 ### 2.3.2 User Task Matrix
 
-
+| Tarea                                 | Descripción                                                                                               | Frecuencia (1-5) | Importancia (1-5) |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------|------------------|
+| **Dueños de Academia**                |                                                                                                           |                   |                  |
+| Filtrar por categorías de edad        | Los propietarios pueden definir diferentes categorías de edad para los alumnos.                           |        5          |         5        |
+| Gestionar horarios de clases          | Establecer y ajustar los horarios de las clases ofrecidas por la academia, asignando fecha y hora.        |        4          |         5        |
+| Pagos de alumnos                      | Recibir y administrar pagos de los alumnos por inscripciones ofrecidos por la academia.                   |        3          |         5        |
+| Pagos a profesores                    | Gestionar los pagos a los profesores o entrenadores por sus servicios de enseñanza y entrenamiento.       |        3          |         5        |
+| Mantenimiento de canchas deportivas   | Programación y seguimiento de tareas de mantenimiento para garantizar un lugar optimo.                    |        3          |         4        |
+| **Deportistas**                       |                                                                                                           |                   |                  |
+| Ver horarios de clases                | Acceder a la aplicación para ver los horarios de las clases disponibles.                                  |        5          |         5        |
+| Realizar pagos                        | Realizar pagos por inscripciones a la academia a través de la plataforma.                                 |        3          |         5        |
+| Progreso deportivo                    | Hacer un seguimiento de su progreso deportivo utilizando la app,registros de asistencia, evaluaciones de desempeño, logros alcanzados, etc.|    3    |    4    |
+| Reporte de incidentes y problemas     | Comunicación de problemas operativos y situaciones inesperadas.                                           |         2         |         4        |
 
 ### 2.3.3 User Journey Mapping
 
@@ -431,7 +443,7 @@ Deportista
 
 ### 2.3.4 Empathy Mapping
 
-![Empathy Dueño Academia](http://drive.google.com/uc?export=view&id=1A5aCv_cnLJttNMXIhb9338d440SN-j9Q)
+![Empathy Dueño Academia](http://drive.google.com/uc?export=view&id=13stPRvdRsKBwKJ6P79bwvWuduzv6u481)
 
 ![Empathy Deportista](http://drive.google.com/uc?export=view&id=1pQe9dphAJW1JrkJkfa1YsNRUz8LY6W6M)
 
@@ -441,4 +453,16 @@ Deportista
 
 ## 2.4 Ubiquitous Language
 
+* Academia: Establecimiento ofrece entrenamiento e instrucción deportiva a deportistas de diferentes edades y niveles de habilidad. Las academias pueden ofrecer clases, sesiones de entrenamiento y programas en deportes específicos o múltiples deportes.
 
+* Entrenador: Persona responsable de proporcionar entrenamiento, orientación e instrucción a los deportistas dentro de una academia deportiva.
+
+* Deportista: Participa en entrenamientos y actividades deportivas proporcionadas por una academia deportiva. Los deportistas pueden variar en edad y nivel de habilidad, y participan en programas de entrenamiento estructurados para mejorar su rendimiento en su deporte elegido.
+
+* Sesión de Entrenamiento: Período de tiempo programado durante el cual los deportistas reciben instrucción y practican habilidades específicas relacionadas con su deporte.
+
+* Horario: Un calendario o plan que detalla las fechas, horas y ubicaciones de las sesiones de entrenamiento, clases, competiciones y otros eventos organizados por una academia deportiva. Los horarios ayudan a los deportistas, entrenadores y miembros del personal a coordinar actividades y administrar su tiempo de manera efectiva.
+
+* Seguimiento del Progreso: El proceso de monitorear y evaluar el desarrollo y rendimiento de los deportistas a lo largo del tiempo. El seguimiento del progreso puede implicar evaluar habilidades, registrar logros, establecer metas y proporcionar retroalimentación a los deportistas para apoyar su crecimiento y mejora.
+
+* Pago: La compensación a cambio de servicios proporcionados por una academia deportiva.
