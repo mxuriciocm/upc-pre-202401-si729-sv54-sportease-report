@@ -431,7 +431,9 @@ Deportista
 
 ### 2.3.4 Empathy Mapping
 
+![Empathy Dueño Academia](http://drive.google.com/uc?export=view&id=1A5aCv_cnLJttNMXIhb9338d440SN-j9Q)
 
+![Empathy Deportista](http://drive.google.com/uc?export=view&id=1pQe9dphAJW1JrkJkfa1YsNRUz8LY6W6M)
 
 ### 2.3.5 As-is Scenario Mapping
 
