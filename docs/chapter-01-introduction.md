@@ -77,17 +77,15 @@ En Juniors Team, nuestro objetivo es proporcionar productos de alta calidad que 
 
 SportEase es una aplicación única en el mercado que ofrece una interfaz completa y adecuada para la gestión y organización de los servicios ofrecidos por las academias deportivas, así como el acceso a estos servicios por parte de sus estudiantes. Con un programa escalable y sólido, y una interfaz intuitiva y fácil de usar, SportEase cuenta con una serie de características destacadas que benefician a todos los usuarios:
 
-1. Seguimiento de Desempeño: Una herramienta que permite a los entrenadores registrar el progreso de los estudiantes, incluyendo asistencias, rendimiento y logros a lo largo de todo un curso deportivo ya designado. También es usado por los administradores para seguir el rendimiento de los entrenadores de la academia respectiva.
+1. **Seguimiento de Desempeño:** Una herramienta que permite a los entrenadores registrar el progreso de los estudiantes, incluyendo asistencias, rendimiento y logros a lo largo de todo un curso deportivo ya designado. También es usado por los administradores para seguir el rendimiento de los entrenadores de la academia respectiva.
 
-2. Administración de Horarios: Una funcionalidad para que los entrenadores puedan definir los horarios de clases con sus alumnos de forma eficiente, además de que los administradores podran organizar eventos y anuncios en su institución, además de revisar la disponibilidad de su personal educativo.
+2. **Administración de Horarios:** Una funcionalidad para que los entrenadores puedan definir los horarios de clases con sus alumnos de forma eficiente, además de que los administradores podran organizar eventos y anuncios en su institución, además de revisar la disponibilidad de su personal educativo.
 
-3. Sistema de Pagos y Facturación: Integración de un sistema de pagos seguro que facilita el procesamiento de reservas de clases y la generación automática de facturas.
+3. **Comunicación directa y sencilla:** Una plataforma de mensajería interna y notificaciones automáticas que simplifica la comunicación entre instructores y estudiantes y entre administradores e instructores.
 
-4. Comunicación directa y sencilla: Una plataforma de mensajería interna y notificaciones automáticas que simplifica la comunicación entre instructores y estudiantes y entre administradores e instructores.
+4. **Gestión de Usuarios con información:** Registro de usuarios con asignación de roles según sus funciones, como administradores e instructores. Asimismo, se les podrá agregar información variada desde su campo de acción, su especialización, su edad, sus logros, etc.
 
-5. Gestión de Usuarios con información: Registro de usuarios con asignación de roles según sus funciones, como administradores e instructores. Asimismo, se les podrá agregar información variada desde su campo de acción, su especialización, su edad, sus logros, etc.
-
-6. Integración con Servicios de Fitness: Conexión con aplicaciones de seguimiento de actividad física o nutrición para ofrecer una experiencia completa y personalizada para los entrenadores y administradores, además de vincularlo directamente con el desempeño de los estudiantes.
+5. **Integración con Servicios de Fitness:** Conexión con aplicaciones de seguimiento de actividad física o nutrición para ofrecer una experiencia completa y personalizada para los entrenadores y administradores, además de vincularlo directamente con el desempeño de los estudiantes.
 
 Con SportEase, nos esforzamos por proporcionar una solución integral que mejore la experiencia tanto de las academias deportivas como de sus estudiantes, brindando herramientas efectivas para la gestión, organización y comunicación en el ámbito deportivo.
 
@@ -100,6 +98,10 @@ Ya después, en el 2022, la mayoría de las academias registradas volvieron a of
 Con la evolución de la tecnología y las nuevas demandas del mercado, las academias deportivas se enfrentan a desafíos en la organización eficiente de sus operaciones. La falta de herramientas especializadas y la adopción limitada de soluciones tecnológicas han llevado a una gestión ineficiente de la logística en los servicios proporcionados, incluyendo la asignación de canchas, el seguimiento de asistencias y facturación, y la comunicación entre estudiantes y entrenadores (Salgado, 2017).
 
 Para analizar a más detalle los antecedentes y la problemática a la que nuestro proyecto se afronta, vamos a utilizar el modelo práctico de las 5Ws y 2Hs, con el fin de idear un sistema más estructurado y que se centre en las causas del problema principalmente.
+
+###### Tabla 1.
+
+Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
 
 | Las 5Ws y 2Hs| Pregunta    | Descripción       |
 |--------------|-------------|-------------------|
@@ -124,23 +126,43 @@ Hemos identificado un aspecto negativo que afecta la gestión y organización de
 ¿De qué manera se pueden mejorar los programas y/o aplicativos utilizados en las academias actuales para así permitir que los usuarios tengan una mejor experiencia y puedan optimizar sus procesos de organización y coordinación?
 
 #### 1.2.2.2 Lean UX Assumption
-1. Los usuarios de las academias deportivas están dispuestos a adoptar nuevas tecnologías para mejorar la gestión interna y la experiencia del usuario.
-2. Una interfaz de usuario intuitiva y fácil de usar es fundamental para la aceptación y adopción del producto por parte de los usuarios.
-3. Las características y funcionalidades que estamos diseñando para la plataforma de SportEase son las que los usuarios realmente necesitan 
-para abordar sus desafíos de gestión
-interna.
-4. Mejorar la eficiencia operativa de las academias deportivas a través de nuestra plataforma conducirá a una mejor experiencia del usuario y una mayor satisfacción del cliente.
-5. Los usuarios percibirán un alto valor en las características y beneficios proporcionados por SportEase en comparación con las soluciones existentes en el mercado.
-6. La plataforma de SportEase será accesible y estará disponible para usuarios de diferentes niveles de habilidad técnica y dispositivos, incluidos dispositivos móviles y de escritorio.
-7. SportEase se integrará fácilmente con los sistemas y procesos existentes en las academias deportivas, minimizando la fricción en la adopción y el uso.
+
+1. **Las necesidades de los usuarios pueden ser cumplidas a través** de una aplicación tecnológica de calidad, la cual les permita organizar y gestionar mejor todas las actividades relacionadas con las academias deportivas. En el caso de los instructores, les puede ser útil para poder medir el desempeño de sus estudiantes y organizar sus horarios y las zonas donde se van a jugar los distintos deportes. Para los administradores hay funciones rápidas de gestionamiento de actividades y anuncios.
+
+2. **La demanda principal que los clientes tienen de mi servicio es** la capacidad de organizar mejor sus clases y metodologías de forma rápida, sencilla y óptima para así poder brindar la mejor educación a sus estudiantes y seguir su desempeño a corto y largo plazo. Los entrenadores podrán utilizar las funcionalidades respectivas al seguimiento y coordinación de horarios y alumnos para así poder brindar mejor retroalimentación y seguir adecuadamente con todo el aprendizaje. Los administradores podrán utilizar las funcionalidades para seguir el desempeño de los entrenadores, mandar comunicados y anuncios, y mantener información actualizada sobre todo su personal y sus futuras actividades programadas.
+
+3. **Generará ingresos** mediante dos tipos de membresías distintas ofrecidas a nuestros clientes, las cuales tendrán cambios entre funcionalides y también ofertaran posibles descuentos según método de pago, facturas o cuotas.
+
+4. **El problema central que podría afectar a mi producto es** la presencia de fallos en el propio programa, los que pueden ser provocados por un mal rendimiento o escalabilidad, además de mala gestión o planeación con la concurrencia o con el modelo de pruebas. Asimismo, pueden haber fallos en las funcionalidades de organización, gestión y seguimiento de desempeño, causando perdida de datos, ineficiencia y, en general, molestia de parte de todos nuestros usuarios.
+
+5. **Abordaremos esta circunstancia mediante** un mantenimiento constante del código utilizado en nuestra aplicación y el uso de un grupo de prueba para encontrar errores durante las fases del proyecto. Además de eso, proporcionaremos actualizaciones periódicas para mejorar la seguridad y seguir innovando con nuevas funcionalidades u otras tecnologías propuestas en el mercado. Finalmente, también agregaremos parches periódicos y rápidos para atender los problemas reportados por los usuarios.
+
+6. **Tengo la idea de que mis clientes requieren** de un aplicativo de software de alta calidad y buen rendimiento que optimice todas las funciones de organización, coordinación, comunicación y gestión de la estructura educativa de las academias deportivas.
+
+7. **Los clientes iniciales serán** aquellas personas que trabajen como instructores o entrenadores en una academia deportiva, y que quieren o necesitan de algún método tecnológico con el que puedan organizar y gestionar mejor sus clases y zonas de entrenamiento, además de poder comunicarse de forma más rápida y efectiva con sus estudiantes y seguir su desempeño a corto y largo plazo. Asimismo, otro cliente inicial pueden ser las personas que administren las academias de deporte, quienes podrán utilizar nuestras funcionalides para gestionar de forma más óptima a los entrenadores, integrar información y raealizar comunicados o anuncios.
+
+8. **Adquiriré la gran mayoría de mis clientes mediante** estrategias de marketing digital, entrevistas relacionadas con nuestra aplicación y a través de colaboraciones. Nuestro producto debe verse bastante atractivo para los usuarios, con el fin de que destaque entre todos nuestros demás competidores potenciales. Debe mantener una descripción de compra bastante concreta, directa y rápida, pero llamativa y deslumbrante a la vez. Asimismo, debe tener un logo colorido, memorable y nada complejo para que pueda ser recordado y avistado fácilmente en la mente de nuestros clientes.
+
 #### 1.2.2.2 Lean UX Hypothesis Statements
-1. `Creemos que` los usuarios de las academias deportivas están dispuestos a adoptar nuevas tecnologías para mejorar la gestión interna y la experiencia del usuario. `Sabremos que` nuestra hipótesis es válida `cuando` observemos una alta tasa de adopción del producto y una participación activa por parte de los usuarios en su uso diario.
-2. `Creemos que` una interfaz de usuario intuitiva y fácil de usar es fundamental para la aceptación y adopción del producto por parte de los usuarios. `Sabremos que` nuestra hipótesis es válida `cuando` recibamos retroalimentación positiva de los usuarios sobre la facilidad de uso de la plataforma y observemos una baja tasa de abandono durante la navegación.
-3. `Creemos que` las características y funcionalidades que estamos diseñando para la plataforma de SportEase son las que los usuarios realmente necesitan para abordar sus desafíos de gestión interna. `Sabremos que` nuestra hipótesis es válida `cuando` los usuarios muestren un alto nivel de compromiso y satisfacción con las características implementadas, medida a través de encuestas de satisfacción y métricas de uso.
-4. `Creemos que` mejorar la eficiencia operativa de las academias deportivas a través de nuestra plataforma conducirá a una mejor experiencia del usuario y una mayor satisfacción del cliente. `Sabremos que` nuestra hipótesis es válida `cuando `las academias deportivas que utilizan SportEase reporten una reducción en el tiempo dedicado a tareas administrativas, junto con un aumento en la satisfacción del cliente y la retención de estudiantes/atletas.
-5. `Creemos que` los usuarios percibirán un alto valor en las características y beneficios proporcionados por SportEase en comparación con las soluciones existentes en el mercado. `Sabremos que` nuestra hipótesis es válida `cuando` los usuarios expresen una mayor disposición a pagar por nuestro producto y se observen tasas de retención y lealtad superiores en comparación con los competidores.
-6. `Creemos que` la plataforma de SportEase será accesible y estará disponible para usuarios de diferentes niveles de habilidad técnica y dispositivos, incluidos dispositivos móviles y de escritorio. `Sabremos que` nuestra hipótesis es válida `cuando` los usuarios informen una experiencia consistente en todos los dispositivos y se observen tasas de uso similares en dispositivos móviles y de escritorio.
+
+1. `Creemos que` los usuarios de las academias deportivas están dispuestos a adoptar nuevas tecnologías para mejorar la gestión interna y la experiencia del usuario. `Sabremos que` nuestra hipótesis es válida `cuando` observemos un aumento del 50% en la tasa de adopción de nuestro producto de software por parte de varias academias deportivas formales al paso de 6 meses después de sacar el producto al mercado.
+2. `Creemos que` una interfaz de usuario intuitiva y fácil de usar es fundamental para la aceptación y adopción del producto por parte de los usuarios. `Sabremos que` nuestra hipótesis es válida `cuando` recibamos retroalimentación positiva de un 20% de nuestros usuarios sobre la facilidad de uso de la plataforma debido a la interfaz al paso de 6 meses después de sacar el producto al mercado.
+3. `Creemos que` las características y funcionalidades que estamos diseñando para la plataforma de SportEase son las que los usuarios realmente necesitan para abordar sus desafíos de gestión interna. `Sabremos que` nuestra hipótesis es válida `cuando` después de 1 año de sacado nuestro producto al mercado, el 50% de las academias que utilicen nuestro envien retroalimentación positiva sobre nuestro producto y muestren un aumento en sus ganancias económicas.
+4. `Creemos que` mejorar la eficiencia operativa de las academias deportivas a través de nuestra plataforma conducirá a una mejor experiencia del usuario y una mayor satisfacción del cliente. `Sabremos que` nuestra hipótesis es válida `cuando `las academias deportivas que utilizan SportEase reporten un aumento del 50% en satisfacción del usuario junto a una mejora en su excelencia deportiva después de 1 año de que nuestro producto salga al mercado.
+5. `Creemos que` la plataforma de SportEase será accesible y estará disponible para usuarios de diferentes niveles de habilidad técnica y dispositivos, incluidos dispositivos móviles y de escritorio. `Sabremos que` nuestra hipótesis es válida `cuando` el 25% de nuestros usuarios informen una experiencia consistente en todos los dispositivos y se observen tasas de uso similares en dispositivos móviles y de escritorio 6 meses después de que nuestro producto salga al mercado.
+6. `Creemos que`la plataforma de SportEase permitira a las academias identificar a los mejores alumnos y entrenadores para cada una de sus secciones siguiendo las funcionalidades de desempeño. `Sabremos que`nuestra hipótesis es válida `cuando` se reporte una mejora deportiva en las academias que usan nuestra app con una mejora general del desempeño en los alumnos en un 35% pasado 1 año después de que nuestra aplicación salga al mercado.
+
 #### 1.2.2.4 Lean UX Canvas
+
+
+
 ## 1.3 Segmentos objetivos
+
+Según Kingsnorth (2019), un segmento objetivo se refiere a un grupo específico de consumidores dentro de un mercado más amplio que comparten características o necesidades similares. Estas características pueden incluir variables demográficas, geográficas, psicográficas o conductuales. 
+
+El proceso de segmentación de mercados implica identificar y dividir el mercado total en segmentos más pequeños y homogéneos con el objetivo de diseñar estrategias de marketing más efectivas y dirigidas. Al enfocarse en segmentos específicos, las empresas pueden adaptar sus productos, mensajes y canales de marketing para satisfacer las necesidades y preferencias de esos grupos de consumidores de manera más precisa.
+
+En el caso de las secciones y la problemática que abarca nuestro proyecto, después de un proceso de análisis, hemos conseguido determinar los siguientes segmentos objetivos:
+
 Nuestro segmento objetivo se compone principalmente de academias deportivas ubicadas en Perú que buscan mejorar la gestión interna de sus actividades. Estas academias pueden variar en tamaño y especialización, desde pequeñas escuelas locales hasta grandes centros deportivos. Los administradores, entrenadores y personal administrativo de estas academias son los principales usuarios de nuestra plataforma. La eficiente gestión de estas instituciones es crucial para optimizar el rendimiento de los estudiantes/atletas y garantizar un ambiente de aprendizaje efectivo y seguro.
 Estadísticamente hablando, Perú tiene una rica oferta de academias deportivas, con un crecimiento constante en los últimos años según datos del Instituto Nacional de Estadística e Informática (INEI). Además, más del 60% de los peruanos practican algún deporte regularmente, lo que sugiere un mercado potencial considerable para nuestra plataforma. El aumento en la matrícula de estudiantes en instituciones de educación superior también indica una demanda continua de soluciones tecnológicas en el ámbito académico.
