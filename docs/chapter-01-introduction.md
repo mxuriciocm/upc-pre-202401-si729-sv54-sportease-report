@@ -64,11 +64,11 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Foto                   |                                    |
 
 
-| Integrante             |                                    |
+| Integrante             | Moises Rodolfo Donayre Peña        |
 |------------------------|------------------------------------|
-| Codigo del Estudiante  |                                    |
-| Carrera                |                                    |
-| Descripcion            |                                    |
+| Codigo del Estudiante  | U202216021                         |
+| Carrera                | Ingeniería de Software             |
+| Descripcion            | Soy estudiante de 5to ciclo de la carrera ed Ingeniería de Software. Tengo 18 años. Me considero una persona empática y solidaria, además de apoyar a mis compañeros de equipo cuando requieren ayuda. Tengo conocimientos en HTML, CSS y C++ aparte de concimientos básicos en base de datos. |
 | Foto                   |                                    |
 
 ## 1.2 Solution Profile
