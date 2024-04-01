@@ -19,12 +19,35 @@ Finalmente, para el control de versiones, optaremos por GitHub, donde establecer
 ## 5.2 Landing Page, Services & Applications Implementation.
 
 ### 5.2.1 Sprint 1
-
 ### 5.2.1.1 Sprint Planning 1
+
+El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+| Sprint #                             | Sprint 1           |
+|--------------------------------------|--------------------|
+| Sprint Planning Background                                |
+| Date                                 |  2024-04-01        |
+| Time                                 |  04:06 PM          |
+| Location                             |  Google Meet       |
+| Prepared By                          |  Piero Tarazona    |
+| Attendees (to planning meeting)      |  Piero Tarazona, Mauricio Chacon, Flavio Trigueros, Moises Donayre |
+| Sprint 1 – 1 Review Summary          |  El Sprint 1 fue un éxito en términos de avance del producto de software y colaboración efectiva del equipo. Los logros alcanzados y la retroalimentación recopilada durante esta revisión proporcionan una base sólida para el siguiente sprint y refuerzan el compromiso del equipo con la calidad y la entrega oportuna del producto.  |
+| Sprint 1 – 1 Retrospective Summary   |  Para la retrospectiva del Sprint 1 nos sirvio para reflexionar sobre el desempeño del equipo y identificar áreas de mejora. Esto nos servira como base para impulsar la mejora continua y optimizar el trabajo del equipo en los próximos sprints.  |
+| Sprint Goal & User Stories                                |
+| Sprint 1 Goal                        | Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 1              |
+| Sprint 1 Velocity                    | Con el equipo para este sprint 1 decidimos aceptar 5 Story Points      |
+| Sum of Story Points                  | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1.) |
+
 
 ### 5.2.1.2 Sprint Backlog 1
 
+IMAGEN EN DOCUMENTO DE LA TABLA
+
 ### 5.2.1.3 Development Evidence for Sprint Review.
+
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
@@ -35,13 +58,3 @@ Finalmente, para el control de versiones, optaremos por GitHub, donde establecer
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
-
-## 5.3 Validation Interviews.
-
-### 5.3.1 Diseño de Entrevistas. 
-
-### 5.3.2 Registro de Entrevistas.
-
-### 5.3.3 Evaluaciones según heurísticas.
-
-## 5.4 Video About-the-Product
