@@ -295,21 +295,20 @@ Después de un análisis exhaustivo del mercado y la competencia, SportEase ha i
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
-1. ¿Cuál es su edad?
-2. ¿Cuál es su nombre?
-2. ¿Cuál es su ocupación?
-3. ¿Cuáles son las principales necesidades y desafíos que enfrenta su academia deportiva en términos de gestión y organización?
-4. ¿Qué herramientas o soluciones utiliza actualmente para gestionar las actividades deportivas en su academia?
-5. ¿Qué características considera más importantes al elegir una plataforma de gestión para su academia deportiva?
-6. ¿Cómo cree que una plataforma tecnológica podría mejorar la eficiencia y la experiencia en su academia deportiva?
-7. ¿Qué aspectos valoraría más en una plataforma de gestión deportiva: facilidad de uso, funcionalidades específicas, soporte al cliente, etc.?
-8. ¿Cuál es el tamaño de su academia deportiva y cuántos estudiantes entrena en promedio?
-9. ¿Cuál es el rango de edades de los estudiantes en su academia?
-10. ¿Qué deportes se practican principalmente en su academia?
+1. ¿Cuál es su nombre y cuál es su función específica en la academia deportiva?
+2. ¿Cuál es su edad y cuánto tiempo ha estado involucrado en la gestión de la academia deportiva?
+3. ¿Cuál es el tamaño de su academia deportiva y cuántos estudiantes entrena en promedio?
+4. ¿Cuál es el rango de edades de los estudiantes en su academia y qué deportes se practican principalmente?
+5. ¿Cuáles son las principales necesidades y desafíos que enfrenta su academia deportiva en términos de gestión y organización?
+6. ¿Qué herramientas o soluciones utiliza actualmente para gestionar las actividades deportivas en su academia y cuáles son los aspectos positivos y negativos de cada una?
+7. ¿Qué características considera más importantes al elegir una plataforma de gestión para su academia deportiva? ¿Hay alguna característica específica que no encuentre actualmente en las soluciones existentes?
+8. ¿Cómo cree que una plataforma tecnológica podría mejorar la eficiencia y la experiencia en su academia deportiva?
+9. ¿Podría proporcionar ejemplos específicos?
+10. ¿Qué aspectos valoraría más en una plataforma de gestión deportiva además de las características mencionadas? ¿Hay algo más que le gustaría ver en una solución ideal?
 
 ### 2.2.2 Registro de entrevistas
 
-(SEGMENTO OBEJTIVO 1)
+(SEGMENTO OBJETIVO 1)
 
 Entrevista N°1:
 
@@ -353,7 +352,7 @@ Datos principales:
 - Duracion:
 
 
-(SEGMENTO OBEJTIVO 2)
+(SEGMENTO OBJETIVO 2)
 
 Entrevista N°1:
 
