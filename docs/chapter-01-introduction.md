@@ -77,15 +77,17 @@ En Juniors Team, nuestro objetivo es proporcionar productos de alta calidad que 
 
 SportEase es una aplicación única en el mercado que ofrece una interfaz completa y adecuada para la gestión y organización de los servicios ofrecidos por las academias deportivas, así como el acceso a estos servicios por parte de sus estudiantes. Con un programa escalable y sólido, y una interfaz intuitiva y fácil de usar, SportEase cuenta con una serie de características destacadas que benefician a todos los usuarios:
 
-1. **Seguimiento de Desempeño:** Una herramienta que permite a los entrenadores registrar el progreso de los estudiantes, incluyendo asistencias, rendimiento y logros a lo largo de todo un curso deportivo ya designado. También es usado por los administradores para seguir el rendimiento de los entrenadores de la academia respectiva.
+1. **Seguimiento de Desempeño:** Una herramienta que permite a los entrenadores registrar el progreso de los estudiantes, incluyendo asistencias, rendimiento y logros a lo largo de todo un curso deportivo ya designado.
 
-2. **Administración de Horarios:** Una funcionalidad para que los entrenadores puedan definir los horarios de clases con sus alumnos de forma eficiente, además de que los administradores podran organizar eventos y anuncios en su institución, además de revisar la disponibilidad de su personal educativo.
+2. **Administración de Horarios:** Una funcionalidad para que los entrenadores puedan definir los horarios de clases con sus alumnos de forma eficiente y adecuada, además de que se puedan organizar eventos y anuncios en la institución.
 
-3. **Comunicación directa y sencilla:** Una plataforma de mensajería interna y notificaciones automáticas que simplifica la comunicación entre instructores y estudiantes y entre administradores e instructores.
+3. **Comunicación directa y sencilla:** Una plataforma de mensajería interna y notificaciones automáticas que simplifica, asegura y optimiza la comunicación entre los instructores y sus estudiantes.
 
-4. **Gestión de Usuarios con información:** Registro de usuarios con asignación de roles según sus funciones, como administradores e instructores. Asimismo, se les podrá agregar información variada desde su campo de acción, su especialización, su edad, sus logros, etc.
+4. **Gestión de Usuarios con información:** Registro de usuarios con asignación de roles según sus funciones, como estudiantes e instructores. Asimismo, se les podrá agregar información variada desde su campo de acción, su especialización, su edad, sus logros, etc.
 
-5. **Integración con Servicios de Fitness:** Conexión con aplicaciones de seguimiento de actividad física o nutrición para ofrecer una experiencia completa y personalizada para los entrenadores y administradores, además de vincularlo directamente con el desempeño de los estudiantes.
+5. **Integración con Servicios de Fitness:** Conexión con aplicaciones de seguimiento de actividad física o nutrición para ofrecer una experiencia completa y personalizada para los entrenadores y estudiantes.
+
+6. **Gestión de información:** Un sistema que permita la organización rápida y óptima de toda la información referente a los deportes que se practican en la institución deportiva, los horarios, la información de los entrenadores y alumnos, información de los centros deportivos y recreativos, etc.
 
 Con SportEase, nos esforzamos por proporcionar una solución integral que mejore la experiencia tanto de las academias deportivas como de sus estudiantes, brindando herramientas efectivas para la gestión, organización y comunicación en el ámbito deportivo.
 
@@ -121,7 +123,7 @@ Según Gothelf y Seiden (2021), el Lean UX Process es, como tal, una propia evol
 
 La industria del deporte engloba una amplia gama de actividades comerciales, desde la venta de alimentos y souvenirs deportivos hasta la comercialización de derechos de transmisión y acuerdos de patrocinio. En el ámbito de la educación deportiva, se enfoca en fomentar la práctica deportiva entre la población y en enseñar diversas disciplinas deportivas que promuevan valores y salud entre las personas (Leando & Inga, 2019).
 
-Hemos identificado un aspecto negativo que afecta la gestión y organización de las academias deportivas junto a sus estudiantes e instructores, así como el acceso adecuado de los usuarios a sus servicios: la mala gestión, calidad, alcance y el mal uso del software en las aplicaciones y páginas web de las academias. Esta deficiencia genera malestar entre los usuarios, quienes se enfrentan a problemas derivados de la desinformación, la falta de organización, la falta de una interfaz cómoda y el mal rendimiento. Estos inconvenientes pueden generar una sensación generalizada de molestia entre los usuarios y reducir los incentivos de la población para participar en actividades deportivas en instituciones académicas. Además, pueden obstaculizar el crecimiento de la industria del deporte en diversas regiones o incluso en todo un país (Montalvo, 2020).
+Hemos identificado un aspecto negativo que afecta la gestión y organización de las academias deportivas junto a sus estudiantes e instructores, así como el acceso adecuado de los usuarios a sus servicios: la mala gestión, calidad y alcance del software en las aplicaciones y páginas web de las academias. Esta deficiencia genera malestar entre los usuarios, quienes se enfrentan a problemas derivados de la desinformación, la falta de organización, la falta de una interfaz cómoda y el mal rendimiento. Estos inconvenientes también pueden reducir los incentivos de la población para participar en actividades deportivas en instituciones académicas y obstaculizar el crecimiento de la industria del deporte en diversas regiones o incluso en todo un país (Montalvo, 2020).
 
 ¿De qué manera se pueden mejorar los programas y/o aplicativos utilizados en las academias actuales para así permitir que los usuarios tengan una mejor experiencia y puedan optimizar sus procesos de organización y coordinación?
 
@@ -154,7 +156,7 @@ Hemos identificado un aspecto negativo que afecta la gestión y organización de
 
 #### 1.2.2.4 Lean UX Canvas
 
-
+![Lean UX Canvas](https://drive.google.com/file/d/1w6-87cjAzF2u5VoSxpT7tfYHFaiW25AP/view?usp=sharing)
 
 ## 1.3 Segmentos objetivos
 
