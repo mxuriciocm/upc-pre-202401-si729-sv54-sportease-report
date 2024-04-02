@@ -443,7 +443,13 @@ Deportista
 
 ### 2.3.3 User Journey Mapping
 
+Dueño de academia
 
+![UserJourneyMapDueño](/assets/UserJourneyMap1.png)
+
+Deportista
+
+![UserJourneyMapDeportista](/assets/UserJourneyMap2.png)
 
 ### 2.3.4 Empathy Mapping
 
