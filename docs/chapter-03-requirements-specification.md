@@ -1,6 +1,52 @@
 # Capítulo 3: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 
+Dueño de academia
+
+<table border="1" style="text-align:center;">
+	<tbody>
+		<tr>
+			<td>Phrases</td>
+			<td colspan="2">Registro y administración</td>
+			<td colspan="2">Programación de horarios y clases</td>
+			<td colspan="2">Comunicación con estudiantes y personal</td>
+			<td colspan="2">Gestión de pagos</td>
+		</tr>
+		<tr>
+			<td>Doing</td>
+			<td>Implemento Sportease para que los estudiantes gestionen su información personal e inscripción.</td>
+			<td>Capacito al personal para el uso de Sportease.</td>
+			<td>Sportease permite a los estudiantes reservar clases fácilmente desde sus dispositivos.</td>
+			<td>Con la aplicación puedo enviar recordatorios automáticos de clases y notificar a los estudiantes y a los instructores sobre cambios en los horarios.</td>
+			<td>Uso Sportease como la principal plataforma de comunicación para enviar anuncios, actualizaciones y mensajes importantes a los estudiantes.</td>
+			<td>Capacito al personal para responder consultas de los estudiantes a través de la aplicación de manera efectiva.</td>
+			<td>Implemento Sportease como una plataforma segura para que los estudiantes realicen sus pagos de matrícula.</td>
+			<td>Capacito al personal para administrar los pagos a través de la aplicación para que sea más fluido.</td>
+		</tr>
+		<tr>
+			<td>Thinking</td>
+			<td>Es una buena aplicación que puede personalizarse para adaptarse a las necesidades de mi academia.</td>
+			<td>Esta aplicación puede reducir la carga administrativa.</td>
+			<td>Me ofrece una experiencia sin estrés para coordinar cambios de horarios.</td>
+			<td>Esta aplicación puede mejorar la puntualidad y la asistencia a las clases para mantener a todos comprometidos.</td>
+			<td>Esta aplicación me ayuda a mejorar la accesibilidad de la comunicación entre los estudiantes y el personal.</td>
+			<td>Puede fortalecer la comunidad deportiva al fomentar una comunicación abierta y colaborativa.</td>
+			<td>Me ayuda a simplificar y agilizar el proceso de pagos para reducir el estrés financiero.</td>
+			<td>Puede mejorar la claridad en la gestión financiera de la academia.</td>
+		</tr>
+		<tr>
+			<td>Feeling</td>
+			<td>Me siento aliviado al reducir el estrés asociado con la gestión manual de la información.</td>
+			<td>Tranquilo al saber que la información de los estudiantes está segura.</td>
+			<td>Estoy relajado al conocer la facilidad de gestionar las clases.</td>
+			<td>Me siento tranquilo, ya que evito confusiones y conflictos de horario al proporcionar actualizaciones automáticas.</td>
+			<td>Siento comodidad  al saber que los estudiantes pueden acceder fácilmente a información importante y recibir respuestas rápidas.</td>
+			<td>Me da satisfacción al mejorar la comunicación y la conexión entre todos los miembros de la comunidad deportiva a través de Sportease.</td>
+			<td>Estoy aliviado al eliminar la preocupación por posibles errores en el seguimiento de pagos.</td>
+			<td>Me siento tranquilo al saber que los estudiantes pueden realizar sus pagos de forma segura sin necesidad de visitar la academia en persona.</td>
+		</tr>
+	</tbody>
+</table>
 
 ## 3.2 User Stories
 
