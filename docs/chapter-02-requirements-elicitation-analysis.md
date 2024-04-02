@@ -317,30 +317,30 @@ Deportistas
 
 Entrevista N°1:
 
-IMAGEN (CAPTURA DEL LA ENTREVISTA)
+![Entrevista1](/assets/entrevista1.png)
 
 Datos principales:
 
-- Nombre completo del entrevistado:
-- Edad:
-- Distrito:
+- Nombre completo del entrevistado: Karla Paola Martinez Quiroz
+- Edad: 44
+- Distrito: Chorrillos, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/ESHIRWZeoLFOm1qSJy3ZHQYBEizGoWUlKxgNtvcvdC7OHg?e=g5UOP4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- Inicio de entrevista:
-- Duracion:
+- Inicio de entrevista: 0:01 minutos
+- Duracion: 4:36 minutos
 
 
 Entrevista N°2:
 
-IMAGEN (CAPTURA DEL LA ENTREVISTA)
+![Entrevista2](/assets/entrevista2.png)
 
 Datos principales:
 
-- Nombre completo del entrevistado:
-- Edad:
-- Distrito:
+- Nombre completo del entrevistado: Katherine Del Carmen Martinez Quiroz
+- Edad: 46
+- Distrito: Surco, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/EffjBRAaim5PuFItczdgHWUBD-QXtQA79rQc__lMVKyY7Q?e=G63dJR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-- Inicio de entrevista:
-- Duracion:
+- Inicio de entrevista: 0:01 minutos
+- Duracion: 4:28 minutos
 
 
 Entrevista N°3:
