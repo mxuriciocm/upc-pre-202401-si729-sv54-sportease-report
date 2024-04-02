@@ -294,9 +294,15 @@ Después de un análisis exhaustivo del mercado y la competencia, SportEase ha i
 - Táctica: Implementar estrategias de fidelización de clientes para garantizar una base de usuarios sólida y resistente a la competencia, así como mantenerse ágil y adaptable para responder a cualquier amenaza externa.
 
 ## 2.2 Entrevistas
+
+Según lo aclarado por Folgueiras (2016), la entrevista es un tipo, sistema y/o modelo de técnica de recopilación directa de información, con la cual se busca obtener datos de forma oral y personalizada sobre opiniones, ideas, experiencias y cualquier otro tipo de información relevante para un objetivo especial, el cual normalmente es para un caso de estudio o para el proyecto de solución de alguna problemática presentada. Tanto si se elabora dentro de una investigación, como si se diseña al margen de un estudio sistematizado, tiene unas mismas características y pasos a seguir para mantener la base primordial de obtención de información relevante y utilizable para el trabajo.
+
 ### 2.2.1 Diseño de entrevistas
 
-Administradores
+Con el fin de obtener y separar correctamente toda la información obtenida durante las entrevistas, se optó por definir un banco de preguntas según nuestro segmento de mercado identificado anteriormente. Este grupo de preguntas está especializado para la obtención de información específica según la persona entrevistada y según la problemática investigada para el proyecto y la posible solución en la forma de nuestro producto.
+
+**Para Administradores de Academias Deportivas:**
+
 1. ¿Cuál es su nombre y cuál es su función específica en la academia deportiva?
 2. ¿Cuál es su edad y cuánto tiempo ha estado involucrado en la gestión de la academia deportiva?
 3. ¿Cuál es el tamaño de su academia deportiva y cuántos estudiantes entrena en promedio?
@@ -308,8 +314,18 @@ Administradores
 9. ¿Podría proporcionar ejemplos específicos?
 10. ¿Qué aspectos valoraría más en una plataforma de gestión deportiva además de las características mencionadas? ¿Hay algo más que le gustaría ver en una solución ideal?
 
-Deportistas
+**Para Alumnos o Deportistas:**
 
+1. ¿Qué deporte(s) practicas actualmente en tu academia deportiva?
+2. Cuéntame sobre tu experiencia en tu academia deportiva hasta ahora. ¿Cómo describirías la gestión y organización de las actividades y horarios?
+3. ¿Has experimentado algún problema con la organización de las clases o eventos deportivos en tu academia? ¿Qué tipo de dificultades has enfrentado?
+4. ¿Te resultaría útil tener una herramienta digital que te permita acceder fácilmente a información sobre tus clases, horarios y eventos deportivos?
+5. ¿Qué opinas sobre la idea de utilizar una aplicación como SportEase para gestionar y organizar tus actividades deportivas en la academia?
+6. ¿Qué características crees que serían más importantes para ti en una aplicación diseñada para estudiantes y entrenadores en el ámbito deportivo?
+7. ¿Cómo crees que una aplicación como SportEase podría mejorar tu experiencia en la academia deportiva?
+8. ¿Te gustaría tener la capacidad de realizar un seguimiento de tu progreso deportivo a través de una aplicación? ¿Por qué sí o por qué no?
+9. ¿Cómo te sientes acerca de la idea de tener una herramienta digital que te permita comunicarte de manera más eficiente con tus entrenadores y compañeros de equipo?
+10. ¿Hay algo más que te gustaría compartir sobre tu experiencia en tu academia deportiva y cómo crees que podría mejorarse la gestión y organización de las actividades deportivas?
 
 ### 2.2.2 Registro de entrevistas
 
@@ -327,7 +343,6 @@ Datos principales:
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/ESHIRWZeoLFOm1qSJy3ZHQYBEizGoWUlKxgNtvcvdC7OHg?e=g5UOP4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Inicio de entrevista: 0:01 minutos
 - Duracion: 4:36 minutos
-
 
 Entrevista N°2:
 
