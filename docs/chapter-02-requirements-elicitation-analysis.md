@@ -295,6 +295,8 @@ Después de un análisis exhaustivo del mercado y la competencia, SportEase ha i
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
+
+Administradores
 1. ¿Cuál es su nombre y cuál es su función específica en la academia deportiva?
 2. ¿Cuál es su edad y cuánto tiempo ha estado involucrado en la gestión de la academia deportiva?
 3. ¿Cuál es el tamaño de su academia deportiva y cuántos estudiantes entrena en promedio?
@@ -305,6 +307,9 @@ Después de un análisis exhaustivo del mercado y la competencia, SportEase ha i
 8. ¿Cómo cree que una plataforma tecnológica podría mejorar la eficiencia y la experiencia en su academia deportiva?
 9. ¿Podría proporcionar ejemplos específicos?
 10. ¿Qué aspectos valoraría más en una plataforma de gestión deportiva además de las características mencionadas? ¿Hay algo más que le gustaría ver en una solución ideal?
+
+Deportistas
+
 
 ### 2.2.2 Registro de entrevistas
 
@@ -319,7 +324,7 @@ Datos principales:
 - Nombre completo del entrevistado:
 - Edad:
 - Distrito:
-- Link:
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/ESHIRWZeoLFOm1qSJy3ZHQYBEizGoWUlKxgNtvcvdC7OHg?e=g5UOP4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Inicio de entrevista:
 - Duracion:
 
@@ -333,7 +338,7 @@ Datos principales:
 - Nombre completo del entrevistado:
 - Edad:
 - Distrito:
-- Link:
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/EffjBRAaim5PuFItczdgHWUBD-QXtQA79rQc__lMVKyY7Q?e=G63dJR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Inicio de entrevista:
 - Duracion:
 
