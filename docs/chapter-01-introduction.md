@@ -53,7 +53,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Codigo del Estudiante  | U202217633                         |
 | Carrera                | Ingeniería de Software             |
 | Descripcion            |  Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi pensamiento crítico y capacidad de encontrar soluciones viables para los distintos problemas. Tengo conocimientos en HTML, CSS, C++. |
-| Foto                   | ![Piero](http://drive.google.com/uc?export=view&id=1PTj5Iab1FzMHN_4isLXhCAUYisuHpnPi) |
+| Foto                   | ![Piero](/assets/piero.png) |
 
 
 | Integrante             | Flavio Eduardo Trigueros Chumacero |
@@ -156,7 +156,7 @@ Hemos identificado un aspecto negativo que afecta la gestión y organización de
 
 #### 1.2.2.4 Lean UX Canvas
 
-![Lean UX Canvas](https://drive.google.com/file/d/1w6-87cjAzF2u5VoSxpT7tfYHFaiW25AP/view?usp=sharing)
+![Lean UX Canvas](/assets/leanux.png)
 
 ## 1.3 Segmentos objetivos
 
