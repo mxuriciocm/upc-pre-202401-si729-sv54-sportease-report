@@ -329,7 +329,7 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 ### 2.2.2 Registro de entrevistas
 
-(SEGMENTO OBJETIVO 1)
+Administradores de Academias Deportivas
 
 Entrevista N°1:
 
@@ -372,20 +372,20 @@ Datos principales:
 - Duracion:
 
 
-(SEGMENTO OBJETIVO 2)
+Alumnos o Deportistas
 
 Entrevista N°1:
 
-IMAGEN (CAPTURA DEL LA ENTREVISTA)
+![Deportista](http://drive.google.com/uc?export=view&id=14FY-TeHBFBx2quunbQJCslusICYMfo9s)
 
 Datos principales:
 
-- Nombre completo del entrevistado:
-- Edad:
-- Distrito:
-- Link:
-- Inicio de entrevista:
-- Duracion:
+- Nombre completo del entrevistado: Mia Navarro
+- Edad:18
+- Distrito: Los Olivos, Lima
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EaGiU3ioCtBDtUPCzPgUPswBAHqRvKFJJ514qpWHhoR7CQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ii0bzJ
+- Inicio de entrevista: 0:01 minutos
+- Duracion: 5:16 minutos
 
 
 Entrevista N°2:
@@ -419,11 +419,11 @@ Datos principales:
 
 Dueño de Academia
 
-
+El propietario de una academia deportiva destacó la necesidad de una herramienta efectiva para promover, gestionar y organizar la academia. Señalo problemas de organización en los horarios y la comunicación limitada a través de WhatsApp. Expresó interés en una aplicación dedicada para gestionar horarios de manera eficiente, reconociendo su potencial para mejorar la experiencia del cliente y la eficiencia operativa. La perspectiva del dueño de academia ofrece valiosos insights sobre la importancia de gestion en academias.
 
 Deportista
 
-
+La persona que entrevisto es una chica que se encuentra en actualmente en una academia deportiva. Le realice primero las preguntas sobre el problema y me respondió que para ella es de suma importancia y esencial utilizar una aplicación para promover gestionar y organizar las academias deportivas. Además, nos dijo su opinión sobre los problemas que tuvo en su academia por mala organizacion en horario, tambien que el unico medio por el cual se podian comunicar sobre cualquier cambio en el horario era por whatsapp. Por último, le realice las preguntas sobre la aplicación y dijo que para ella seria de mucha utilidad tener una aplicacion para organizar y coordinar los horarios. La perspectiva de un deportista ofrece valiosos insights sobre la importancia de la gestion en academias.
 
 ## 2.3 Needfinding
 
