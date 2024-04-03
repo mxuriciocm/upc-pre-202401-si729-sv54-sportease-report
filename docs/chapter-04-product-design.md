@@ -6,7 +6,7 @@ En esta parte, presentaremos el plan de diseños, estilos y estéticas que hemos
 
 ### 4.1.1 General Style Guidelines
 
-* Colores:
+**Colores:**
 
 El color desempeña un papel crucial en el diseño de interfaces de usuario, siendo un elemento poderoso para comunicar y evocar emociones en el público objetivo de manera impactante y subjetiva. Además, puede ser fundamental en la construcción de la identidad de una marca. Al seleccionar colores específicos para el logo y el material de marketing, una empresa puede establecer una identidad visual distintiva que facilita a los consumidores reconocer y recordar la marca. En un mercado competitivo, los colores pueden ser la clave para destacar y diferenciarse de la competencia. Un esquema de colores único o poco convencional puede captar la atención de los consumidores y hacer que una marca sea más memorable.
 
@@ -24,7 +24,7 @@ Finalmente, añadiremos una paleta de colores que incluye tonos de blanco, gris 
 
 ![Paleta Colores 3](http://drive.google.com/uc?export=view&id=1lOVZ0TkB7tu4Gyj3qp3qEHcY8Dsz2irr)
 
-* Tipografia:
+**Tipografia:**
 
 La elección de la tipografía de una marca es crucial en su diseño, ya que transmite su personalidad y valores, al tiempo que asegura coherencia, legibilidad y reconocimiento por parte del público.
 
@@ -32,20 +32,22 @@ Principalmente, optaremos por utilizar la fuente "Poppins", diseñada específic
 
 Las características principales de la tipografía varían según el dispositivo en el que se está diseñando, pero ya se han establecido unas bases generales que incluyen:
 
-Tamaño base: 16px
-Interlineado: 1.15
-Color: "negro"
+- Tamaño base: 16px
+- Interlineado: 1.15
+- Color: "negro"
+
 Los modelos de alineación se ajustarán según el tipo de texto, la sección y el grosor. Estas son las normas para diferentes tipos de alineación:
 
-Justificado: Se recomienda para la mayoría de los textos, a menos que se especifique lo contrario.
-Izquierda: Adecuado para textos formales y párrafos largos, especialmente de más de cien palabras, y también puede combinarse con alineación a la derecha.
-Centrado: Ideal para textos llamativos, títulos o encabezados.
-Derecha: Se usa en combinación con alineación a la izquierda y nunca como alineación principal.
+- Justificado: Se recomienda para la mayoría de los textos, a menos que se especifique lo contrario.
+- Izquierda: Adecuado para textos formales y párrafos largos, especialmente de más de cien palabras, y también puede combinarse con alineación a la derecha.
+- Centrado: Ideal para textos llamativos, títulos o encabezados.
+- Derecha: Se usa en combinación con alineación a la izquierda y nunca como alineación principal.
+
 Los modelos de grosor de la letra pueden variar según la página y la sección. Para la fuente "Poppins", se pueden identificar los siguientes modelos de grosor:
 
 ![Tipografia](http://drive.google.com/uc?export=view&id=10FBr3Ccivp3drP3yr9DdMlbRzla2VjtG)
 
-* Tono de comunicación y lenguaje aplicado:
+**Tono de comunicación y lenguaje aplicado:**
 
 El tono de comunicación es un aspecto muy importante en los estilos que planeamos integrar en las página. Estos añaden sentimientos subjetivos a nuestros clientes con respecto a los textos que leen y a las imágenes o elementos gráficos que observan, además de agregar un sentimiento de identidad propia sobre nuestra empresa y/o producto. Asimismo, el uso de un lenguaje claro y comprensible es importante para la optimización de motores de búsqueda, ya que estos valoran el contenido de alta calidad que utiliza palabras claves y relevantes en contextos naturales.
 
@@ -55,36 +57,35 @@ También podemos agregar un tono bastante entusiasta en todas aquellas secciones
 
 ### 4.1.2 Web Style Guidelines
 
-* Colores:
+**Colores:**
 
 Los colores utilizados en las páginas web de nuestra aplicación seguirán las pautas establecidas en el manual de diseño general, aunque habrá ciertas adaptaciones en cuanto a proporción, combinación y contraste. Estas adaptaciones se basarán no solo en el nuevo estilo de formato y pantalla, sino también en la sección o página específica que esté utilizando el usuario en la aplicación. Para abordar estas variaciones, hemos identificado diferentes secciones donde se ajustarán los tipos de color y transparencia según el diseño:
 
-Para fondos:
+**Para fondos:**
 
 Los tipos de fondo que tendrán las pantallas de nuestro aplicacion, principalmente serán modelos degradados que saldrán de combinaciones entre los siguientes colores mostrados:
 
 ![Fondos 4.1.2](http://drive.google.com/uc?export=view&id=1KRIFZynZFW9KVC0g4dHHK0k0Gp2i40uG)
 
-Para tipografia:
+**Para tipografia:**
 
 La elección de colores para el texto puede cambiar dependiendo del fondo utilizado en las páginas, botones o cuadros de texto. Se ha optado por sustituir el tradicional color negro por tonos grisáceos, ya que armoniza mejor con los fondos. Además, el color azulado se reservará exclusivamente para resaltar palabras que contengan enlaces internos.
 
 ![Tipografia 4.1.2](http://drive.google.com/uc?export=view&id=1PvawXHiJRla9L3mmYc2MT0nWL5P7baFV)
 
-Para botones:
+**Para botones:**
 
 La mayoría de los botones en las páginas web llevan el color negro como base, aunque se les agrega varios niveles de transparencia para que puedan combinar bien con los fondos y la tipográfia dada. Asimismo, también hay botones con tonos azulados y grisáceos, aunque son una cierta minoría.
 
 ![Botones 4.1.2](http://drive.google.com/uc?export=view&id=1xdoyJD4vN9rIAdGmAG8RaWw8Z6idNtba)
 
-Para cuadros de texto:
+**Para cuadros de texto:**
 
 Los cuadros de texto presentes en la aplicación se encuentran, en su mayoría, en la sección de inicio de sesión. Con el fin de que combine adecuadamente con los botones y los fondos, se usaron los siguientes colores y tonos de transparencia:
 
 ![Cuadros 4.1.2](http://drive.google.com/uc?export=view&id=1P0hIarBhLDwK-gnrJRn7AHP3qRRsrnP5)
 
-
-* Tipografia:
+**Tipografia:**
 
 La elección de la tipografía de una marca es crucial en su diseño, ya que transmite su personalidad y valores, al tiempo que asegura coherencia, legibilidad y reconocimiento por parte del público.
 
@@ -92,40 +93,45 @@ Principalmente, optaremos por utilizar la fuente "Poppins", diseñada específic
 
 Las características principales de la tipografía varían según el dispositivo en el que se está diseñando, pero ya se han establecido unas bases generales que incluyen:
 
-Tamaño base: 16px
-Interlineado: 1.15
-Color: "negro"
+- Tamaño base: 16px
+- Interlineado: 1.15
+- Color: "negro"
+
 Los modelos de alineación se ajustarán según el tipo de texto, la sección y el grosor. Estas son las normas para diferentes tipos de alineación:
 
-Justificado: Se recomienda para la mayoría de los textos, a menos que se especifique lo contrario.
-Izquierda: Adecuado para textos formales y párrafos largos, especialmente de más de cien palabras, y también puede combinarse con alineación a la derecha.
-Centrado: Ideal para textos llamativos, títulos o encabezados.
-Derecha: Se usa en combinación con alineación a la izquierda y nunca como alineación principal.
+- Justificado: Se recomienda para la mayoría de los textos, a menos que se especifique lo contrario.
+- Izquierda: Adecuado para textos formales y párrafos largos, especialmente de más de cien palabras, y también puede combinarse con alineación a la derecha.
+- Centrado: Ideal para textos llamativos, títulos o encabezados.
+- Derecha: Se usa en combinación con alineación a la izquierda y nunca como alineación principal.
+
 Los modelos de grosor de la letra pueden variar según la página y la sección. Para la fuente "Poppins", se pueden identificar los siguientes modelos de grosor:
 
 ![Tipografia](http://drive.google.com/uc?export=view&id=10FBr3Ccivp3drP3yr9DdMlbRzla2VjtG)
 
-Para titulos:
+**Para titulos:**
 
 Los títulos siempre se escribirán con un grosor de “negrita”, sin importar el contexto dado. Su color siempre será “black1”. Siempre deben encontrarse cerca de un subtítulo o una imagen, manteniendo una distancia no mayor a veinte (20) y no menor a diez (10) milímetros entre estos. Pueden variar su tamaño según la distribución y el espacio disponible en las páginas. Este puede variar entre los siguientes valores:
+
 -	48px, solamente para los títulos que están formados por una palabra y que mantengan una distancia mayor a doscientos (200) milímetros de un encabezado o tope de sección.
+
 -	40px, es una variante para los títulos de 48px y se usarán cuando el título está formado por dos o más palabras o cuando mantenga una distancia menor a doscientos (200) milímetros de un encabezado o tope de sección.
 
-Para botones:
+**Para botones:**
 
 Siempre se escribirán con un tipo de grosor “mediano”, sin importar el contexto dado. Su color siempre será “black1”. El tamaño de letra es de 16px, y la distribución de espacio indica que siempre mantendrán una distancia centrada y no menor a tres (3) milímetros con respecto a todos los bordes del propio botón.
 
-Para subtitulos:
+**Para subtitulos:**
 
 Los subtítulos siempre se escribirán con un grosor de “seminegrita”, sin importar el contexto dado. Siempre serán de tamaño 18px. y su color principal es el “black3”. Pueden encontrarse tanto debajo de un título o debajo de un botón, siempre manteniendo una separación no mayor a quince (15) y no menor a diez (10) milímetros de estos.
 
-Para parrafos:
+**Para parrafos:**
 
 Todos los párrafos siempre se escribirán con un grosor “normal”, sin importar el contexto dado. Siempre serán de tamaño 12px. y su color principal es el “black1”. En caso vaya a escribir un párrafo, debe asegurarse que cada uno contenga menos de doscientas cincuenta (250) palabras.
 
 ![Parrafo](http://drive.google.com/uc?export=view&id=1TCMQJXbuYfozrg6VqjAd9qgbR9GYXCER)
 
 ## 4.2 Information Architecture
+
 ### 4.2.1 Organization Systems
 
 Nuestro equipo ha llegado a la conclusión de que implementar una jerarquía visual es la mejor opción para abordar este punto. Este enfoque de organización nos permitirá comunicar de manera más efectiva el mensaje a nuestros usuarios y, al mismo tiempo, les facilitará la interacción con nuestra aplicación.
