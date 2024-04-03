@@ -48,6 +48,53 @@ Dueño de academia
 	</tbody>
 </table>
 
+Deportistas
+
+<table border="1" style="text-align:center;">
+	<tbody>
+		<tr>
+			<td>Phrases</td>
+			<td colspan="2">Inscripción</td>
+			<td colspan="2">Participación en clases</td>
+			<td colspan="2">Seguimiento de progreso y desempeño</td>
+			<td colspan="2">Interacción con la academia</td>
+		</tr>
+		<tr>
+			<td>Doing</td>
+			<td>Utilizo Sportease para completar mi proceso de inscripción de manera rápida y sencilla.</td>
+			<td>Proporciono detalles personales y de contacto necesarios.</td>
+			<td>En la aplicación reviso horarios de clases, y confirmo la asistencia a las sesiones programadas.</td>
+			<td>Recibo notificaciones sobre cambios de horarios, cancelaciones de sesiones de entrenamiento o actualizaciones importantes.</td>
+			<td>Utilizo las herramientas de Sportease para registrar y analizar datos de rendimiento, como el tiempo, la distancia recorrida o la velocidad.</td>
+			<td> Establezco objetivos personales y realizo un seguimiento de mi progreso a lo largo del tiempo.</td>
+			<td>Utilizo Sportease como mi canal principal de comunicación con la academia, enviando consultas, comentarios o sugerencias.</td>
+			<td>Participo en encuestas para compartir experiencias y opiniones sobre los servicios ofrecidos de la academia.</td>
+		</tr>
+		<tr>
+			<td>Thinking</td>
+			<td>Mejora mi experiencia de inscripción al ofrecer una interfaz amigable para mi.</td>
+			<td>Pienso en como la aplicación reduce el tiempo dedicado a la administración de documentos físicos.</td>
+			<td>Sportease mejora mi planificación y organización de las sesiones de entrenamiento.</td>
+			<td>La integración de esta aplicación aumenta mi flexibilidad y conveniencia al poder gestionar mis clases.</td>
+			<td>Al identificar las áreas de mejora y proporcionar recomendaciones personalizadas, puedo mejorar mi rendimiento.</td>
+			<td>Me ayuda a aumentar mi compromiso al ofrecer una visión clara de mi progreso.</td>
+			<td>Mejora mi interacción y relación con la academia al ofrecer un canal accesible para la comunicación.</td>
+			<td>El uso de Sportease fortalece el vínculo entre la academia y yo al fomentar la participación.</td>
+		</tr>
+		<tr>
+			<td>Feeling</td>
+			<td>Me siento aliviado al completar el proceso de inscripción con menos estrés.</td>
+			<td>La experiencia que proporciona es una inscripción eficiente y moderna que se ajusta a mis necesidades, lo que me causa satisfacción.</td>
+			<td>Siento tranquilidad al saber que me mantendré informado y actualizado sobre cualquier cambio.</td>
+			<td>Estoy contento al disfrutar la experiencia de los entrenamientos y sin estrés gracias a la eficacia de Sportease.</td>
+			<td>Siento satisfacción al ver mejoras en mi rendimiento deportivo gracias al seguimiento regular de la aplicación.</td>
+			<td>Tengo motivación adicional al establecer y alcanzar metas personales, lo que aumenta mi confianza y autoestima.</td>
+			<td>Me siento aliviado al saber que seré escuchado por la academia por si tengo algún problema.</td>
+			<td>Me siento comprometido con la comunidad deportiva al participar en la mejora continua de los servicios de la academia.</td>
+		</tr>
+	</tbody>
+</table>
+
 ## 3.2 User Stories
 
 | Epic / Story ID            | Titulo                                    | Descripcion                               | Criterios de Aceptacion               | Relacionado con (Epic ID)   |
