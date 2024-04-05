@@ -97,25 +97,58 @@ Deportistas
 
 ## 3.2 User Stories
 
-| Epic / Story ID            | Titulo                                    | Descripcion                               | Criterios de Aceptacion               | Relacionado con (Epic ID)   |
-|----------------------------|-------------------------------------------| ------------------------------------------|---------------------------------------|-----------------------------|
-| US01                       | Diseño del Landing Page                   |                                           |                                       |  Epic01(Diseño y Desarrollo del Landing Page de SportEase)                |
-| US02                       |                                           |                                           |                                       |                             |
+<table>
+    <tr>
+        <th>User Stories</th>
+        <th>Titulo</th>
+        <th>Descripcion</th>
+        <th>Criterio de Aceptacion</th>
+        <th>Relacionado con Epic</th>
+    </tr>
+<!-- SEPARACION DE EPIC -->
+    <tr>
+        <td>US01</td>
+        <td> Integración de Redes Sociales y Contenido Útil en el Footer</td>
+        <td> Como usuario, deseo que en el footer del sitio se encuentren enlaces a las redes sociales de la empresa y acceso rápido a contenido útil para facilitar mi interacción con la empresa y encontrar información relevante de manera conveniente.</td>
+        <td>Criterio: Dado que soy usuario, al revisar el footer, encuentro enlaces a redes sociales y contenido útil. Cuando hago clic en redes sociales, soy dirigido a las páginas respectivas. Luego, al acceder al contenido útil, encuentro la información de manera clara y rápida, mejorando mi experiencia de navegación.</td>
+	<td rowspan="5">EPIC01: Funcionalidades Clave y Contenido Relevante del landing page</td>
+    </tr>
+    <tr>
+	<td>US02</td>
+        <td>Navegación eficiente a través de enlaces internos con anclas</td>
+        <td>Como usuario, quiero poder acceder directamente a secciones específicas de la página web mediante enlaces internos con anclas, para mejorar la navegación y encontrar la información deseada de manera eficiente.</td>
+        <td>Criterio: Dado que soy un usuario navegando por el landing page, cuando hago click en un enlace interno con ancla, luego soy llevado directamente a la sección correspondiente de la página para acceder fácilmente a la información deseada.</td>
+    </tr>
+    <tr>
+	<td>US03</td>	    
+        <td>Informacion de los planes que ofrecemos</td>
+        <td>Como usuario interesado en conocer las opciones disponibles, quiero acceder fácilmente a una sección en el sitio web que presente información detallada sobre los planes de suscripción ofrecidos, para poder comparar y tomar una decisión informada sobre cuál plan se adapta mejor a mis necesidades.</td>
+        <td>Criterio: Dado que soy un usuario interesado en conocer los detalles de los planes de suscripción ofrecidos, cuando accedo al sitio web, luego encontrare una sección clara y detallada que me proporcione información completa sobre cada plan.</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+	<td> Implementación de Sección de Contacto</td>
+        <td>Como developer, quiero integrar una sección "Contactanos" que incluya un numero y se puede ingresar el correo, para brindar a los usuarios la posibilidad de comunicarse con nosotros de manera fácil y rápida.</td>
+        <td>Criterio: Dado que soy un usuario, cuando accede a la sección "Contactanos", luego espera encontrar información clara sobre cómo comunicarse con nosotros, lo que garantiza una experiencia de usuario satisfactoria.</td>
+    </tr>
+    <tr>
+	<td>US05</td>
+        <td> Agregar la Sección "Sobre Nosotros"</td>
+        <td>Como developer, quiero integrar seccion de "Sobre nosotros" que incluya informacion sobre nuestro objetivo, para brindar a los usuarios una comprensión clara de quiénes somos, qué hacemos y por qué lo hacemos</td>
+        <td>Criterio: Dado que un usuario visita el landing page, cuando accede a la sección "Sobre nosotros", luego encontrara información clara y detallada sobre los objetivos y valores de la empresa.</td>
+    </tr>
+<!-- SEPARACION DE EPIC -->
+</table>
 
 ## 3.3 Impact Mapping
 
 
 ## 3.4 Product Backlog
 
-| #Orden  | User Story Id  | Titulo                               | Descripcion               | Story Points (1/2/3/5/8)   |
-|---------|----------------|--------------------------------------|---------------------------|----------------------------|
-| 1       | US01           | Diseño del Landing Page              | Como developer, quiero diseñar el esquema básico del landing page de SportEase para establecer su apariencia inicial.   |   8   |
-| 2       | US02           | Implementar Funcionalidades al Landing Page  | Como developer, quiero implementar las funcionalidades específicas del landing page para garantizar una experiencia de usuario completa.  |     8    |
-| 3       | US03           | Inclusión de Información en el Footer y Redes Sociales | Como developer, quiero que el footer del landing page contenga información relevante y enlaces a nuestras redes sociales. |   5   |
-| 4       | US04           | Implementar un Cuadro de "Contáctanos" | Como developer, quiero implementar un cuadro de "Contáctanos" en el landing page para facilitar la comunicación con los usuarios interesados.   |   5   |
-| 5       | US05           | Suscripcion a la aplicacion web  |  Como cliente, quiero tener la opcion de elegir la suscripcion que mas se acomode a mis necesidades para acceder a todas las funcionalidades de SportEase.    |   8   |
-| 6       | US06           | Administración de Horarios para Entrenadores | Como entrenador, quiero poder definir y actualizar los horarios de mis clases y eventos deportivos, así como organizar anuncios importantes para mantener informados a mis alumnos. |   5   |
-| 7       | US07           | Gestión de Información para Administradores  | Como administrador, quiero tener un sistema que me permita organizar rápida y eficientemente toda la información relevante sobre los deportes practicados en la institución, horarios, información de entrenadores y alumnos, y datos sobre los centros deportivos y recreativos.   |   5   |
-| 8       | US08           | Filtrar Estudiantes por Edad para Entrenadores  | Como entrenador, quiero poder filtrar a mis estudiantes por edad, de modo que pueda organizar clases específicas para grupos de edad similares y adaptar mejor mis programas de entrenamiento a las necesidades y habilidades de cada grupo.   |   5   |
-| 9       | US09           | Seguimiento de Desempeño para Entrenadores| Como entrenador, quiero poder registrar el progreso de mis estudiantes, incluyendo asistencias, rendimiento y logros, para realizar un seguimiento efectivo de su desarrollo a lo largo del curso deportivo. |   3   |
-| 10       | US010           | Visualización de Horarios para Estudiantes | Como estudiante, quiero poder ver los horarios de mis clases y eventos deportivos para planificar mi participación de manera eficiente. | 3 |
+| #Orden  | User Story Id  | Titulo                                                       | Descripcion               | Story Points (1/2/3/5/8)   |
+|---------|----------------|--------------------------------------------------------------|---------------------------|----------------------------|
+| 1       | US01           | Integración de Redes Sociales y Contenido Útil en el Footer  | Como usuario, deseo que en el footer del sitio se encuentren enlaces a las redes sociales de la empresa y acceso rápido a contenido útil para facilitar mi interacción con la empresa y encontrar información relevante de manera conveniente.  |   8  |
+| 2       | US02           | Navegación eficiente a través de enlaces internos con anclas | Como usuario, quiero poder acceder directamente a secciones específicas de la página web mediante enlaces internos con anclas, para mejorar la navegación y encontrar la información deseada de manera eficiente. |   8   |
+| 3       | US03           | Informacion de los planes que ofrecemos                      | Como usuario interesado en conocer las opciones disponibles, quiero acceder fácilmente a una sección en el sitio web que presente información detallada sobre los planes de suscripción ofrecidos, para poder comparar y tomar una decisión informada sobre cuál plan se adapta mejor a mis necesidades.   |  8   |
+| 4       | US04           | Implementación de Sección de Contacto                        | Como developer, quiero integrar una sección "Contactanos" que incluya un numero y se puede ingresar el correo, para brindar a los usuarios la posibilidad de comunicarse con nosotros de manera fácil y rápida.   |   5   |
+| 5       | US05           | Agregar la Sección "Sobre Nosotros"                          | Como developer, quiero integrar seccion de "Sobre nosotros" que incluya informacion sobre nuestro objetivo, para brindar a los usuarios una comprensión clara de quiénes somos, qué hacemos y por qué lo hacemos   |   3   |
