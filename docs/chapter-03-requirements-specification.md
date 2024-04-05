@@ -142,6 +142,7 @@ Deportistas
 
 ## 3.3 Impact Mapping
 
+![ImapctMapping](/assets/ImpactMapping.png)
 
 ## 3.4 Product Backlog
 
