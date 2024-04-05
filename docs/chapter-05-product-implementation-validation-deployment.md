@@ -6,9 +6,27 @@ Para la gestión de la configuración de software de nuestra aplicación nos enf
 
 ### 5.1.1 Software Development Environment Configuration
 
-Para llevar a cabo este proyecto, es esencial determinar el entorno de programación del sitio web. Por ello, hemos optado por emplear la suite de herramientas de JetBrains, la cual ofrece una amplia gama de recursos para el desarrollo de software. Nuestra elección se fundamenta en la extensa lista de características que ofrece esta herramienta, su capacidad de integración fluida, el sólido respaldo que brinda y su constante evolución, lo que la convierte en una opción confiable y potente para nuestro proyecto.
-Además, hemos decidido utilizar Angular para desarrollar la aplicación web, dado que presenta diversas ventajas notables. Angular facilita la creación y el mantenimiento de aplicaciones web complejas mediante su arquitectura basada en componentes. Su sistema de enlace de datos bidireccional garantiza una sincronización eficiente entre la vista y el modelo de datos, lo que resulta en una experiencia de usuario fluida y receptiva.
-Finalmente, para el control de versiones, optaremos por GitHub, donde estableceremos un repositorio colaborativo para mantener y actualizar nuestro proyecto de manera eficiente.
+En esta sección especificaremos, describiremos e indicaremos los nombres de productos, el propósito de uso en el proyecto, la ruta de referencia o ruta de descarga de cada uno de los productos de software que se utilizaron para colaborar en el ciclo de vida de nuestro producto digital.
+
+* **Project Management**
+Para las reuniones de equipo utilizamos aplicaciones como Google Meet y Discord. Ademas, para el control de versiones creamos un repositorio colaborativo en GitHub, para mantener y realizar cambios a nuestro proyecto de manera eficiente mediante commits.
+
+* **Product UX/UI Design**
+
+En los escenarios As-Is y To-Be, segmetno objetivo y impact mapping se utilizo la herramienta Miro. Con respecto a los wireframes, mock-ups y prototipo de la app web, usamos Figma.
+
+* **Software Development**
+Para el landing page se usaron las siguientes herramientas:
+
+Visual Studio Code: Editor de código redefinido y optimizado para crear y depurar aplicaciones web y en la nube modernas.
+
+HTML: Lenguaje para la creacion de la landing page
+
+CSS: Lenguaje para los estilos y presentar los contenidos de una página de forma atractiva
+
+JavaScript: Lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas.
+
+Git: Sistema de control de versiones distribuido y permite al equipo colaborar en el proyecto.
 
 ### 5.1.2 Source Code Management.
 
