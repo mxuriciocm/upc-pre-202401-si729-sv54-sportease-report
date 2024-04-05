@@ -8,14 +8,19 @@ Para la gestión de la configuración de software de nuestra aplicación nos enf
 
 En esta sección especificaremos, describiremos e indicaremos los nombres de productos, el propósito de uso en el proyecto, la ruta de referencia o ruta de descarga de cada uno de los productos de software que se utilizaron para colaborar en el ciclo de vida de nuestro producto digital.
 
+
 * **Project Management**
+
 Para las reuniones de equipo utilizamos aplicaciones como Google Meet y Discord. Ademas, para el control de versiones creamos un repositorio colaborativo en GitHub, para mantener y realizar cambios a nuestro proyecto de manera eficiente mediante commits.
+
 
 * **Product UX/UI Design**
 
 En los escenarios As-Is y To-Be, segmetno objetivo y impact mapping se utilizo la herramienta Miro. Con respecto a los wireframes, mock-ups y prototipo de la app web, usamos Figma.
 
+
 * **Software Development**
+
 Para el landing page se usaron las siguientes herramientas:
 
 Visual Studio Code: Editor de código redefinido y optimizado para crear y depurar aplicaciones web y en la nube modernas.
@@ -28,9 +33,54 @@ JavaScript: Lenguaje de programación que los desarrolladores utilizan para hace
 
 Git: Sistema de control de versiones distribuido y permite al equipo colaborar en el proyecto.
 
+
+* **Software Testing**
+
+Como usamos el editor de codigo Visual Studio Code podremos hacer uso de la extension Live Server. Con esta extensión, tenemos la capacidad de configurar un servidor local, lo que nos facilita la visualización inmediata de las modificaciones que realizamos en un navegador web como Microsoft Edge o Chrome. Tambien, para las pruebas de aceptacion, usaremos Gherkin para luego subirlos al repositorio.
+
+
+* **Software Deployment**
+
+Usaremos Github Pages para subir nuestro landing page, ya que es una pagina estatica no requiere muchos cambios y esto es bueno porque Github Pages nos deja actualizar el contenido gratis.
+
+
+* **Software Document**
+
+En la documentacion del software, haremos uso del HTML para la creacion de nuestro landig page.
+
+
 ### 5.1.2 Source Code Management.
 
+En esta sección explicaremos de qué forma se implementará GitFlow. Como Workflow de control de versiones, es decir qué branches (ramas) creacion además de main branch (rama principal), por ejemplo, develop branch. Para GitFlow cada Feature requiere su propio branch, por ello se especificara qué convenciones se aplica para nombrar los feature branches.
+
+| *Main: *Esta rama contendrá la versión estable del proyecto, lista para su despliegue.  |
+|-----------------------------------------------------------------------------------------|
+
+Develop: Aquí se agrupan todos los elementos en desarrollo. Una vez que el desarrollo está completo y se considera listo para avanzar al siguiente paso, se fusionará con la rama de lanzamiento (release).
+
+Feature: Cada miembro del equipo trabajará en su propia rama individual, donde cargarán las secciones de código asignadas para una funcionalidad específica. Estas ramas de características se integrarán con la rama "develop".
+
+
+Respecto a la convención para nombrar las ramas de características, se utilizará el formato siguiente:
+
+| feature_<nombre -integrante>/<breve-descripción>    |
+|-----------------------------------------------------|
+
+Para nombrar las versiones de lanzamiento, se seguirá el versionado semántico 2.0.0, que consiste en la estructura 
+
+| Mayor.Menor.Parche. |
+|---------------------|
+
+El último dígito (Parche) se refiere principalmente a corrección de errores compatibles con versiones anteriores..
+El segundo dígito (Menor) aumenta cuando se añaden características compatibles con la versión anterior.
+El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
+
+Por último, se adoptará el uso de Conventional Commits para los mensajes de texto en cada commit. La estructura de estos mensajes será <type>: <description> .
+
+
 ### 5.1.3 Source Code Style Guide & Conventions.
+
+Se tiene la intención de seguir las directrices y normativas de codificación establecidas en una variedad de fuentes, tales como el HTML Style Guide and Coding Conventions, la Guía de Estilo de Codificación de Angular, la Guía de Estilo de Codificación para Java, las Convenciones Gherkin para Especificaciones Legibles, la Guía de Estilo de TypeScript, la Guía de Estilo de Codificación de Angular y las características específicas de Spring Boot.
 
 ### 5.1.4 Software Deployment Configuration.
 
