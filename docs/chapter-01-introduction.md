@@ -85,9 +85,7 @@ SportEase es una aplicación única en el mercado que ofrece una interfaz comple
 
 4. **Gestión de Usuarios con información:** Registro de usuarios con asignación de roles según sus funciones, como estudiantes e instructores. Asimismo, se les podrá agregar información variada desde su campo de acción, su especialización, su edad, sus logros, etc.
 
-5. **Integración con Servicios de Fitness:** Conexión con aplicaciones de seguimiento de actividad física o nutrición para ofrecer una experiencia completa y personalizada para los entrenadores y estudiantes.
-
-6. **Gestión de información:** Un sistema que permita la organización rápida y óptima de toda la información referente a los deportes que se practican en la institución deportiva, los horarios, la información de los entrenadores y alumnos, información de los centros deportivos y recreativos, etc.
+5. **Gestión de información:** Un sistema que permita la organización rápida y óptima de toda la información referente a los deportes que se practican en la institución deportiva, los horarios, la información de los entrenadores y alumnos, información de los centros deportivos y recreativos, etc.
 
 Con SportEase, nos esforzamos por proporcionar una solución integral que mejore la experiencia tanto de las academias deportivas como de sus estudiantes, brindando herramientas efectivas para la gestión, organización y comunicación en el ámbito deportivo.
 
