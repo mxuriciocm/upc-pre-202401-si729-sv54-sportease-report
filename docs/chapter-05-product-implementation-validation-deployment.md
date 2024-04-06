@@ -161,11 +161,33 @@ IMAGEN EN DOCUMENTO DE LA TABLA
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
+
+
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
+
+En este punto explicaremos los logros alcanzados para el Sprint 1
+
+-Creacion de repositorios para el report y el landing page en GitHub.
+-Realizacion del wireframe y mock-ups del landing page.
+-Realizacion del wireframe y mock-ups de la aplicacion web.
+-Implementación del landing page.
+-Diseño del prototipo de la aplicación web.
+-Subir en el GitHub Pages el landing pages.
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
+En este Sprint 1, realizamos el landing page donde no se hizo implementacion de algun servicio, por ese motivo es el que quedara vacio este punto.
+
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
+
+* Primero creamos un repositorio en Github para el landing page
+* Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
+* En la configuración del repositorio, se accede a la sección "Pages".
+* Se ajusta la configuración para indicar la fuente de la landing page.
+* Después de guardar la configuración, se genera un enlace para acceder a la landing page.
+* Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
