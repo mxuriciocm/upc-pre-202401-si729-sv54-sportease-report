@@ -77,14 +77,42 @@ El primer dígito (Mayor) se incrementa para cambios significativos que podrían
 
 Por último, se adoptará el uso de Conventional Commits para los mensajes de texto en cada commit. La estructura de estos mensajes será <type>: <description> .
 
-
 ### 5.1.3 Source Code Style Guide & Conventions.
 
 Se tiene la intención de seguir las directrices y normativas de codificación establecidas en una variedad de fuentes, tales como el HTML Style Guide and Coding Conventions, la Guía de Estilo de Codificación de Angular, la Guía de Estilo de Codificación para Java, las Convenciones Gherkin para Especificaciones Legibles, la Guía de Estilo de TypeScript, la Guía de Estilo de Codificación de Angular y las características específicas de Spring Boot.
 
+**CONNVECIONES QUE USAREMOS**
+
+HTML
+- Usar nombres descriptivos para el archivo HTML
+- Seguir una convención de nomenclatura consistente, como camelCase, para nombres de archivos y carpetas.
+- Utiliza los elementos HTML de manera semántica para describir correctamente el contenido de tu sitio web. Esto incluye el uso apropiado de etiquetas.
+- Mantener una estructura de código clara y legible mediante la indentación adecuada.
+- Utilizar un estilo de formato consistente en todo el código para mejorar la mantenibilidad.
+
+CSS
+- Utiliza nombres de clases descriptivos y significativos para aplicar estilos a tus elementos HTML
+- Prefiere nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
+- Evita el uso de IDs para estilos, ya que pueden causar especificidad excesiva y dificultar la reutilización de estilos.
+
+JavaScript:
+- Para la nomenclatura se usara el camelCase para nombres de variables y funciones en JavaScript.
+- Utiliza espacios o tabulaciones de manera consistente y asegúrate de mantener una línea de código por línea para mejorar la legibilidad.
+
+TypeScript:
+- Aprovecha las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos.
+- Usar el camelCase para nombres de variables y tipos, y el PascalCase para nombres de tipos de datos y clases.
+
+Gherkin:
+- Utiliza las palabras clave de Gherkin como Given, When, Then para estructurar tus escenarios de manera coherente y expresiva.
+
 ### 5.1.4 Software Deployment Configuration.
 
+
+
 ## 5.2 Landing Page, Services & Applications Implementation.
+
+A continuacion explicaremos el enfoque que seguiremos para llevar a cabo la implementación, pruebas y lanzamiento de nuestro landing page, así como también de los servicios web y la interfaz de usuario de la aplicación web en cada ciclo de desarrollo. Con respecto al Sprint 1, nos centraremos únicamente en describir el proceso de implementación del landing page.
 
 ### 5.2.1 Sprint 1
 ### 5.2.1.1 Sprint Planning 1
