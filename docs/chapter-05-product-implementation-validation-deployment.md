@@ -108,7 +108,21 @@ Gherkin:
 
 ### 5.1.4 Software Deployment Configuration.
 
+En esta sección especificaremos la configuración del despliegue de la solución, incluyendo los pasos necesarios para que, a partir de los repositorios de código fuente, se pueda lograr el despliegue de el Landing Page.
 
+Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML, CSS y JavaScript. Luego cada integrante del equipo trabajará en su propia rama "feature" para desarrollar nuestro landing page. Una vez completada una característica, se procederá a hacer el merge con la rama "develop" para que la landing page se encuentre actualizada. estableceremos la configuración en GitHub Pages para publicar la página de destino utilizando la rama "develop". A continuación, detallamos los pasos para llevar a cabo este despliegue en GitHub Pages:
+
+
+1. Comenzaremos creando un repositorio público en GitHub y poniendole un nombre.
+2. Configurar las ramas necesarias conforme al flujo de trabajo Gitflow estándar, que comprende main, release, develop, features y hotfix.
+3. Dirigirse a la sección de ajustes y elegir la pestaña Pages.
+4. Nos dirigimos al apartado de configuración para GitHub Pages.
+5. En el apartado de branch, seleccionamos el branch "develop" donde se realizará el despliegue del landing page, dejando las demás configuraciones con sus valores predeterminados.
+6. Al seleccionar la rama correspondiente, se generará un enlace que permitirá acceder al landing page. Cada modificación efectuada en el "develop" se actualiza automáticamente.
+7. Cada miembro del equipo trabajará en sus propias ramas.
+8. Se realizarán merges entre la develop y los feature para integrar los avances.
+9. Se observarán los cambios reflejados en el enlace provisto por GitHub Pages.
+10. Finalmente, el landing estará desplegada, lista para ser visualizada y utilizada.
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
@@ -154,3 +168,7 @@ IMAGEN EN DOCUMENTO DE LA TABLA
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+Para este Sprint 1, hemos hecho el desarrollo del landing page, colaborado en conjunto en la implementación. Esta colaboración se refleja en los distintos commits realizados en el repositorio, los cuales están documentados en las capturas de pantalla adjuntas.
+
+Con respecto a la colaboracion del equipo, nos reunimos presencial como virtualmente para asignarnos tarea y discutir como elaborar el proyecto. Esto nos ha permitido comprender claramente nuestras responsabilidades individuales y tener un mejor desempeño. Para el desarrollo del código, hemos decidido que cada integrante se encarga de una sección específica del landing page. Esto para avanzar mas rapido y terminarlo antes de la entrega. Finalmente, tuvimos reuniones donde compartimos ideas y resolvemos algunas dudas o problemas que podriamos tener con respecto a la elaboracion del landing page, lo que nos dio resultados positivos en la elaboracion del trabajo.
