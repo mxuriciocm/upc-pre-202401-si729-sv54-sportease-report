@@ -146,12 +146,82 @@ El objetivo principal de esta reunión es establecer un plan claro y realista pa
 | Sprint Goal & User Stories                                |
 | Sprint 1 Goal                        | Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 1              |
 | Sprint 1 Velocity                    | Con el equipo para este sprint 1 decidimos aceptar 5 Story Points      |
-| Sum of Story Points                  | (Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1.) |
+| Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32 |
 
 
 ### 5.2.1.2 Sprint Backlog 1
 
-IMAGEN EN DOCUMENTO DE LA TABLA
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US01</td>
+            <td>Integración de Redes Sociales y Contenido Útil en el Footer</td>
+            <td>T01</td>
+            <td>Diseño del Footer</td>
+            <td>Crear el diseño inicial del footer para integrar redes sociales y enlaces a contenido útil.</td>
+            <td>40 minutos</td>
+            <td>Mauricio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US02</td>
+            <td>Navegación eficiente a través de enlaces internos con anclas</td>
+            <td>T02</td>
+            <td> Implementación de Enlaces Internos con Anclas</td>
+            <td>Implementar enlaces internos con anclas para una navegación más eficiente a través de secciones específicas de la página web.</td>
+            <td>1 hora</td>
+            <td>Moises</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US03</td>
+            <td>Informacion de los planes que ofrecemos</td>
+            <td>T03</td>
+            <td>Creación de Sección de Planes de Suscripción</td>
+            <td>Crear una sección para mostrar información detallada sobre los planes de suscripción ofrecidos, facilitando la comparación y elección por parte de los usuarios.</td>
+            <td>1 hora</td>
+            <td>Flavio</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US04</td>
+            <td>Implementación de Sección de Contacto</td>
+            <td>T04</td>
+            <td>Integración de Sección de Contacto</td>
+            <td>Integrar una sección "Contáctanos" con formulario para correo electrónico y número de teléfono, facilitando la comunicación rápida y sencilla con los usuarios.</td>
+            <td>1 hora</td>
+            <td>Piero</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US05</td>
+            <td>Agregar la Sección "Sobre Nosotros"</td>
+            <td>T05</td>
+            <td>Agregacion de Sección "Sobre Nosotros"</td>
+            <td>Agregar en el sitio web una sección "Sobre Nosotros" que proporcione información sobre nuestro objetivo, mejorando la comprensión de los usuarios sobre quiénes somos y qué hacemos.</td>
+            <td>50 minutos</td>
+            <td>Mauricio</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
 
@@ -159,9 +229,12 @@ IMAGEN EN DOCUMENTO DE LA TABLA
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
 | REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
 
+
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 
-
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
@@ -183,11 +256,17 @@ En este Sprint 1, realizamos el landing page donde no se hizo implementacion de 
 Explicaremos las acciones que realizamos en el sprint 1, como la preparacion y despliegue de nuestro landing page
 
 * Primero creamos un repositorio en Github para el landing page
+* 
 * Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
+* 
 * En la configuración del repositorio, se accede a la sección "Pages".
+* 
 * Se ajusta la configuración para indicar la fuente de la landing page.
+* 
 * Después de guardar la configuración, se genera un enlace para acceder a la landing page.
+* 
 * Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
+
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
