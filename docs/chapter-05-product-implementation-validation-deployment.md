@@ -75,7 +75,10 @@ El último dígito (Parche) se refiere principalmente a corrección de errores c
 El segundo dígito (Menor) aumenta cuando se añaden características compatibles con la versión anterior.
 El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
 
-Por último, se adoptará el uso de Conventional Commits para los mensajes de texto en cada commit. La estructura de estos mensajes será <type>: <description> .
+Por último, se adoptará el uso de Conventional Commits para los mensajes de texto en cada commit. La estructura de estos mensajes será:
+
+| type: description |
+|-------------------|
 
 ### 5.1.3 Source Code Style Guide & Conventions.
 
