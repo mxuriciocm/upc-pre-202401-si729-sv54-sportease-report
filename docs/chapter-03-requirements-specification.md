@@ -110,20 +110,20 @@ Deportistas
         <td>US01</td>
         <td> Integración de Redes Sociales y Contenido Útil en el Footer</td>
         <td> Como usuario, deseo que en el footer del sitio se encuentren enlaces a las redes sociales de la empresa y acceso rápido a contenido útil para facilitar mi interacción con la empresa y encontrar información relevante de manera conveniente.</td>
-        <td>Criterio: Dado que soy usuario, al revisar el footer, encuentro enlaces a redes sociales y contenido útil. Cuando hago clic en redes sociales, soy dirigido a las páginas respectivas. Luego, al acceder al contenido útil, encuentro la información de manera clara y rápida, mejorando mi experiencia de navegación.</td>
+        <td>Criterio: Dado que soy usuario, al revisar el footer, encuentro enlaces a redes sociales y contenido útil. Cuando accedo al footer, encontrare enlaces directos a las redes sociales oficiales. Luego, al acceder al contenido útil, encuentro la información de manera clara y rápida, mejorando mi experiencia de navegación.</td>
 	<td rowspan="5">EPIC01: Funcionalidades Clave y Contenido Relevante del landing page</td>
     </tr>
     <tr>
 	<td>US02</td>
         <td>Navegación eficiente a través de enlaces internos con anclas</td>
         <td>Como usuario, quiero poder acceder directamente a secciones específicas de la página web mediante enlaces internos con anclas, para mejorar la navegación y encontrar la información deseada de manera eficiente.</td>
-        <td>Criterio: Dado que soy un usuario navegando por el landing page, cuando hago click en un enlace interno con ancla, luego soy llevado directamente a la sección correspondiente de la página para acceder fácilmente a la información deseada.</td>
+        <td>Criterio: Dado que soy un usuario navegando por el landing page, Cuando estos enlaces estén disponibles, luego soy llevado directamente a la sección correspondiente de la página para acceder fácilmente a la información deseada.</td>
     </tr>
     <tr>
 	<td>US03</td>	    
         <td>Informacion de los planes que ofrecemos</td>
         <td>Como usuario interesado en conocer las opciones disponibles, quiero acceder fácilmente a una sección en el sitio web que presente información detallada sobre los planes de suscripción ofrecidos, para poder comparar y tomar una decisión informada sobre cuál plan se adapta mejor a mis necesidades.</td>
-        <td>Criterio: Dado que soy un usuario interesado en conocer los detalles de los planes de suscripción ofrecidos, cuando accedo al sitio web, luego encontrare una sección clara y detallada que me proporcione información completa sobre cada plan.</td>
+        <td>Criterio: Dado que soy un usuario interesado en conocer los detalles de los planes de suscripción ofrecidos,Cuando este en la seccion de planes de suscripcion, podré comparar fácilmente los diferentes planes. Luego, podré proceder con confianza en mi elección de suscripción.</td>
     </tr>
     <tr>
         <td>US04</td>
@@ -135,9 +135,8 @@ Deportistas
 	<td>US05</td>
         <td> Agregar la Sección "Sobre Nosotros"</td>
         <td>Como developer, quiero integrar seccion de "Sobre nosotros" que incluya informacion sobre nuestro objetivo, para brindar a los usuarios una comprensión clara de quiénes somos, qué hacemos y por qué lo hacemos</td>
-        <td>Criterio: Dado que un usuario visita el landing page, cuando accede a la sección "Sobre nosotros", luego encontrara información clara y detallada sobre los objetivos y valores de la empresa.</td>
+        <td>Criterio: Dado que soy usuario visita el landing page, cuando me encuentre en a la sección "Sobre nosotros", luego encontrare información clara y detallada sobre los objetivos y valores de la empresa.</td>
     </tr>
-<!-- SEPARACION DE EPIC -->
 </table>
 
 ## 3.3 Impact Mapping
@@ -148,8 +147,8 @@ Deportistas
 
 | #Orden  | User Story Id  | Titulo                                                       | Descripcion               | Story Points (1/2/3/5/8)   |
 |---------|----------------|--------------------------------------------------------------|---------------------------|----------------------------|
-| 1       | US01           | Integración de Redes Sociales y Contenido Útil en el Footer  | Como usuario, deseo que en el footer del sitio se encuentren enlaces a las redes sociales de la empresa y acceso rápido a contenido útil para facilitar mi interacción con la empresa y encontrar información relevante de manera conveniente.  |   8  |
-| 2       | US02           | Navegación eficiente a través de enlaces internos con anclas | Como usuario, quiero poder acceder directamente a secciones específicas de la página web mediante enlaces internos con anclas, para mejorar la navegación y encontrar la información deseada de manera eficiente. |   8   |
-| 3       | US03           | Informacion de los planes que ofrecemos                      | Como usuario interesado en conocer las opciones disponibles, quiero acceder fácilmente a una sección en el sitio web que presente información detallada sobre los planes de suscripción ofrecidos, para poder comparar y tomar una decisión informada sobre cuál plan se adapta mejor a mis necesidades.   |  8   |
-| 4       | US04           | Implementación de Sección de Contacto                        | Como developer, quiero integrar una sección "Contactanos" que incluya un numero y se puede ingresar el correo, para brindar a los usuarios la posibilidad de comunicarse con nosotros de manera fácil y rápida.   |   5   |
+| 1       | US01           | Integración de Redes Sociales y Contenido Útil en el Footer  | Como usuario, deseo que en el footer del sitio se encuentren enlaces a las redes sociales de la empresa y acceso rápido a contenido útil para facilitar mi interacción con la empresa y encontrar información relevante de manera conveniente.  |   5  |
+| 2       | US02           | Navegación eficiente a través de enlaces internos con anclas | Como usuario, quiero poder acceder directamente a secciones específicas de la página web mediante enlaces internos con anclas, para mejorar la navegación y encontrar la información deseada de manera eficiente. |   5   |
+| 3       | US03           | Informacion de los planes que ofrecemos                      | Como usuario interesado en conocer las opciones disponibles, quiero acceder fácilmente a una sección en el sitio web que presente información detallada sobre los planes de suscripción ofrecidos, para poder comparar y tomar una decisión informada sobre cuál plan se adapta mejor a mis necesidades.   |  5   |
+| 4       | US04           | Implementación de Sección de Contacto                        | Como developer, quiero integrar una sección "Contactanos" que incluya un numero y se puede ingresar el correo, para brindar a los usuarios la posibilidad de comunicarse con nosotros de manera fácil y rápida.   |   3   |
 | 5       | US05           | Agregar la Sección "Sobre Nosotros"                          | Como developer, quiero integrar seccion de "Sobre nosotros" que incluya informacion sobre nuestro objetivo, para brindar a los usuarios una comprensión clara de quiénes somos, qué hacemos y por qué lo hacemos   |   3   |
