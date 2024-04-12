@@ -206,3 +206,5 @@ A continuación, describo el propósito de cada clase en el diagrama UML:
 ## 4.8 Database Design
 
 ### 4.8.1 Database Diagram
+
+![Database Diagram](http://drive.google.com/uc?export=view&id=1Xgv9gFe2BOZJb-Yo0FDHyIasaB01_hjB)
