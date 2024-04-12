@@ -189,7 +189,19 @@ Implementaremos una barra de navegación fija en la parte superior de nuestra p�
 
 ### 4.7.1 Class Diagrams
 
+![Class Diagram](http://drive.google.com/uc?export=view&id=1yE7djZt2cZAyODfDR9oApafSmq_5fAfz)
+
 ### 4.7.2 Class Dictionary
+
+A continuación, describo el propósito de cada clase en el diagrama UML:
+
+* Club: Representa un club deportivo o una organización que administra actividades deportivas.
+* Member: Representa a un individuo que es parte del club deportivo.
+* User: Representa un usuario del sistema, como el tesorero o los entrenadores.
+* Event: Representa un evento deportivo organizado por el club.
+* Payment: Representa una transacción de pago, como la cuota de membresía o tarifas de eventos.
+* Notification: Representa una notificación enviada a los miembros o entrenadores.
+* Role: Enumeración que define los roles posibles para los usuarios.
 
 ## 4.8 Database Design
 
