@@ -134,27 +134,71 @@ Todos los párrafos siempre se escribirán con un grosor “normal”, sin impor
 
 ### 4.2.1 Organization Systems
 
-Nuestro equipo ha llegado a la conclusión de que implementar una jerarquía visual es la mejor opción para abordar este punto. Este enfoque de organización nos permitirá comunicar de manera más efectiva el mensaje a nuestros usuarios y, al mismo tiempo, les facilitará la interacción con nuestra aplicación.
+En esta sección, detallaremos cómo organizaremos la información en grupos específicos, aplicando diferentes sistemas según la naturaleza y el propósito del contenido. Explicaremos cuándo y cómo emplearemos la organización visual del contenido, ya sea de forma jerárquica para establecer prioridades visuales (visual hierarchy), secuencial para guiar paso a paso a los usuarios en la realización de tareas (step-by-step to accomplish), o matricial para presentar información de manera estructurada y comparativa.
 
-(IMAGEN)
+1. Organización Visual del Contenido:
+- En la barra de navegación, hemos destacado elementos clave como "Inicio", "Acerca de Nosotros", "Equipo", "Servicios", "Precios" y "Contacto" para proporcionar una jerarquía clara y guiar a los usuarios a través de la página.
+- Implementamos una organización secuencial en procesos importantes, como el registro de usuarios y la solicitud de contacto. Esto se traduce en una experiencia paso a paso que facilita la interacción del usuario y reduce la posibilidad de confusiones.
+
+2. Organización Matricial:
+- En secciones donde se presenta información compleja, utilizamos una organización matricial para una presentación clara y concisa.
+
+3. Esquemas de Categorización de Contenido:
+- En la sección de "Funcionalidades", agrupamos los diferentes servicios ofrecidos en categorías temáticas para una exploración más intuitiva.
+- Adaptamos el contenido según la audiencia en la sección de "Suscripciones", presentando información específica para diferentes grupos de usuarios, para satisfacer mejor sus necesidades y expectativas.
 
 ### 4.2.2 Labeling Systems
 
-Hemos diseñado nuestra página web con una estructura clara y una jerarquía bien definida para garantizar una experiencia de usuario eficiente y efectiva. A continuación, presentamos el orden jerárquico de nuestras secciones:
+En esta sección, definiremos las etiquetas específicas que se emplearán para representar conjuntos de información y sus relaciones en la página web o aplicación. Priorizamos la simplicidad y la claridad en la presentación de datos para optimizar la experiencia del usuario y facilitar la navegación.
 
-(IMAGEN DE UNA TABLA)
+1. **Menú de navegación**:
+- Inicio : Página principal de SportEase, donde los usuarios comienzan su experiencia en la plataforma.
+- Nosotros : Sección que ofrece información sobre SportEase, su historia, misión y visión.
+- Suscripciones : Área donde se muestran los diferentes planes de suscripción disponibles.
+- Funciones : Sección que describe las diversas características y herramientas ofrecidas por SportEase.
+- Contáctanos : Espacio para que los usuarios se pongan en contacto con el equipo de SportEase.
+- Comenzar ahora : Enlace que invita a los usuarios a comenzar a usar la plataforma de inmediato.
+
+2. **Sección Sobre Nosotros**:
+- Sobre Nosotros : Para la sección que describe la empresa y su propósito.
+- Misión": Para la descripción de la misión de SportEase.
+- Visión": Para la descripción de la visión de SportEase.
+
+3. **Sección de suscripciones**: Para la sección que enumera los diferentes planes de suscripción disponibles. Nombres claros para cada plan, como "Plan Gratuito", "Plan Básico" y "Premiun".
+
+4. **Sección de funcionalidades**: Nombres descriptivos para cada funcionalidad ofrecida, como "Gestión de Mensualidades", "Planificación de Entrenamientos", "Análisis de Rendimiento" y "Comunicación Instantánea".
+
+5. **Formulario de contacto**
+- Nombre : Espacio para ingresar el nombre del contacto.
+- Email : Espacio para ingresar el correo electrónico del contacto.
+- Mensaje : Espacio para redactar el mensaje que el contacto desea enviar.
+- Enviar : Botón para enviar el mensaje al equipo de SportEase.
+
+6. **Pie de página**:
+- SportEase : Nombre de la empresa.
+- Teléfono y Correo Electrónico : Información de contacto.
 
 ### 4.2.3 SEO Tags and Meta Tags
+
+Para mejorar la visibilidad y optimizar el rendimiento de nuestra Landing Page en los motores de búsqueda, hemos implementado los siguientes SEO Tags y Meta Tags con sus respectivos valores:
+- **Title**: SportEase - Plataforma de Gestión de Academias Deportivas
+- **Description**: SportEase ofrece una solución completa para la gestión de academias deportivas en Perú. Descubre cómo nuestra plataforma integral optimiza la organización y planificación de actividades deportivas, promoviendo el bienestar y el desarrollo físico y mental de la comunidad deportiva.
+- **Keywords**: SportEase, academia deportiva, gestión deportiva, bienestar, desarrollo físico, desarrollo mental, aplicación deportiva, SportEase, Perú.
+- **Author**: Equipo de Desarrollo de SportEase.
+
+Estas etiquetas se han incorporado en el encabezado de nuestra Landing Page para proporcionar información relevante a los motores de búsqueda y mejorar nuestra clasificación en los resultados de búsqueda. Además, hemos asegurado que nuestro sitio sea indexado y seguido por los motores de búsqueda para garantizar una mayor visibilidad en la web.
 
 ### 4.2.4 Searching Systems
 
 ### 4.2.5 Navigation Systems
 
-* Para el Landing Page:
+En esta sección, se detalla las estrategias clave diseñadas para guiar a los usuarios a través del Landing Page y las aplicaciones de la empresa. Se describe cómo estas acciones y técnicas están destinadas a facilitar a los usuarios el logro de sus objetivos y a garantizar una interacción satisfactoria con el producto. Además, se explora la forma en que los usuarios navegarán por el contenido, proporcionando una visión general de la experiencia de usuario planificada. Para brindar una experiencia fluida y satisfactoria, se implementan las siguientes acciones y técnicas:
 
-Implementaremos una barra de navegación fija en la parte superior de nuestra página web. En esta barra, los usuarios encontrarán enlaces directos a las secciones fundamentales, como Inicio, Nosotros, Galería y Contactos. Esta decisión garantiza que puedan acceder de manera sencilla a las áreas principales del sitio web desde cualquier punto de la página, lo que simplifica la navegación y mejora la experiencia del usuario.
-
-(IMAGEN)
+1. Menú de navegación claro: Implementaremos una barra de navegación en la parte superior de la página para facilitar el acceso a las secciones principales, como "Inicio", "Nosotros", "Suscripciones", "Funciones" y "Contáctanos", en cualquier punto de la página.
+2. Botones de llamada a la acción (CTA): Utilizaremos botones de CTA estratégicamente ubicados para alentar a los usuarios a realizar acciones específicas, como "Comenzar ahora" en la barra de navegación y en secciones relevantes del contenido.
+3. Navegación por desplazamiento: El Landing Page utiliza un diseño de desplazamiento único, lo que permite a los usuarios recorrer el contenido de manera secuencial. Cada sección está claramente marcada y se puede acceder desplazándose hacia abajo.
+4. Enlaces internos: Se han incluido enlaces internos dentro del contenido para facilitar la navegación entre diferentes secciones del Landing Page. Por ejemplo, enlaces a secciones como Nosotros, Funcionalidades y Suscripciones.
+5. Diseño responsive: El diseño del Landing Page es responsive, lo que significa que se adapta automáticamente a diferentes tamaños de pantalla, garantizando una experiencia de usuario consistente en dispositivos móviles y de escritorio.
 
 ## 4.3 Landing Page UI Design
 ### 4.3.1 Landing Page Wireframe
