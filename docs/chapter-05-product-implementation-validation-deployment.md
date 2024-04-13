@@ -471,85 +471,121 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
 
 El Sprint 1 está centrado en la implementación de las funcionalidades clave de la landing page del sitio web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los visitantes una experiencia inicial sólida al presentar de manera clara y concisa las características y beneficios del sitio, junto con una navegación intuitiva y acceso rápido a la información relevante. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto.
 
-URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e758b547d220c4b08a09131B77500/appweb
-![Board Trello](/assets/boardTrello.png)
-
 <table>
-        <tr>
-            <td colspan="2">Sprint #</td>
-            <td colspan="6">Sprint 1</td>
-        </tr>
-        <tr>
-            <td colspan="2">User Story</td>
-            <td colspan="6">Work-Item / Task</td>
-        </tr>
-        <tr>
-            <td>Id</td>
-            <td>Title</td>
-            <td>Id</td>
-            <td>Title</td>
-            <td>Descripcion</td>
-            <td>Estimation (Hours)</td>
-            <td>Assigned To</td>
-            <td>Status (To-do / In / Process / ToReview / Done)</td>
-        </tr>
-        <tr>
-            <td>US01</td>
-            <td>Integración de Redes Sociales y Contenido Útil en el Footer</td>
-            <td>T01</td>
-            <td>Diseño del Footer</td>
-            <td>Crear el diseño inicial del footer para integrar redes sociales y enlaces a contenido útil.</td>
-            <td>40 minutos</td>
-            <td>Mauricio</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US02</td>
-            <td>Navegación eficiente a través de enlaces internos con anclas</td>
-            <td>T02</td>
-            <td> Implementación de Enlaces Internos con Anclas</td>
-            <td>Implementar enlaces internos con anclas para una navegación más eficiente a través de secciones específicas de la página web.</td>
-            <td>1 hora</td>
-            <td>Moises</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US03</td>
-            <td>Informacion de los planes que ofrecemos</td>
-            <td>T03</td>
-            <td>Creación de Sección de Planes de Suscripción</td>
-            <td>Crear una sección para mostrar información detallada sobre los planes de suscripción ofrecidos, facilitando la comparación y elección por parte de los usuarios.</td>
-            <td>1 hora</td>
-            <td>Flavio</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US04</td>
-            <td>Implementación de Sección de Contacto</td>
-            <td>T04</td>
-            <td>Integración de Sección de Contacto</td>
-            <td>Integrar una sección "Contáctanos" con formulario para correo electrónico y número de teléfono, facilitando la comunicación rápida y sencilla con los usuarios.</td>
-            <td>1 hora</td>
-            <td>Piero</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US05</td>
-            <td>Agregar la Sección "Sobre Nosotros"</td>
-            <td>T05</td>
-            <td>Agregacion de Sección "Sobre Nosotros"</td>
-            <td>Agregar en el sitio web una sección "Sobre Nosotros" que proporcione información sobre nuestro objetivo, mejorando la comprensión de los usuarios sobre quiénes somos y qué hacemos.</td>
-            <td>50 minutos</td>
-            <td>Mauricio</td>
-            <td>Done</td>
-        </tr>
-    </table>
+    <tr>
+        <td colspan="2">Sprint #</td>
+        <td colspan="6">Sprint 1</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Descripcion</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In / Process / ToReview / Done)</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Presentación de la página de inicio</td>
+        <td>T01</td>
+        <td>Diseño Atractivo de la Página de Inicio</td>
+        <td>: Crear una página de inicio atractiva y funcional que proporcione un resumen claro de las características principales y los beneficios de SportEase.</td>
+        <td>1 horas</td>
+        <td>Mauricio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US02</td>
+        <td>Resumen de precios</td>
+        <td>T02</td>
+        <td>Información de Planes Detallada</td>
+        <td>Proporcionar una descripción clara y detallada de los planes ofrecidos por SportEase para que los visitantes puedan tomar decisiones informadas.</td>
+        <td>2 horas</td>
+        <td>Moises</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US03</td>
+        <td>Navegación rápida y fluida</td>
+        <td>T03</td>
+        <td>Experiencia de Navegación Optima</td>
+        <td>Optimizar la navegación en la página de inicio para que los visitantes puedan acceder fácilmente a la información y tomar decisiones conscientes sobre el uso de la plataforma.</td>
+        <td>1 hora</td>
+        <td>Flavio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US04</td>
+        <td>Acceso rápido a las secciones clave</td>
+        <td>T04</td>
+        <td>Acceso Directo a Secciones Relevantes</td>
+        <td>Implementar un menú de navegación claro en la página de inicio para que los visitantes puedan acceder rápidamente a las secciones clave de SportEase.</td>
+        <td>1 hora</td>
+        <td>Piero</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US05</td>
+        <td>Descripción detallada de funcionalidades</td>
+        <td>T05</td>
+        <td>Detalles de Funcionalidades de SportEase</td>
+        <td>Agregar una sección detallada que describa las funcionalidades de SportEase para que los visitantes comprendan cómo pueden beneficiarse de la plataforma.</td>
+        <td>1 hora</td>
+        <td>Mauricio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td>Formulario de contacto</td>
+        <td>T06</td>
+        <td>Comunicación Directa con SportEase</td>
+        <td>Incluir un formulario de contacto en la página de inicio para que los visitantes puedan comunicarse fácilmente con el equipo de SportEase y obtener más información sobre la plataforma.</td>
+        <td>1 hora</td>
+        <td>Moises</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US07</td>
+        <td>Diseño responsivo para dispositivos moviles</td>
+        <td>T07</td>
+        <td>Experiencia Móvil Optima</td>
+        <td>Adaptar el diseño de la página de inicio para que se vea correctamente en dispositivos móviles y brinde una experiencia de usuario óptima.</td>
+        <td>2 horas</td>
+        <td>Flavio</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US08</td>
+        <td>Calls to action claro y efectivo</td>
+        <td>T08</td>
+        <td>Llamadas a la Acción Destacadas</td>
+        <td>Diseñar llamadas a la acción claras y efectivas que guíen a los visitantes hacia los pasos necesarios para interactuar con SportEase.</td>
+        <td>1 hora</td>
+        <td>Piero</td>
+        <td>Done</td>
+    </tr>
+        <td>US09</td>
+        <td>Mejora de la interactividad</td>
+        <td>T09</td>
+        <td>Interacción Mejorada en la Página de Inicio</td>
+        <td>Agregar elementos interactivos como animaciones y efectos visuales para mejorar la experiencia de usuario en la página de inicio de SportEase.</td>
+        <td>1 hora</td>
+        <td>Mauricio</td>
+        <td>Done</td>
+    </tr>
+</table>
 
+URL del Board en Trello: https://trello.com/b/NybJnMIm/open-source
+![Board Trello](/assets/trello.png)
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
 Esta sección documenta y presenta la serie de commits realizados en el repositorio del Landing Page. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
-
-![Lista de commits](/assets/commits.png)
 
 | Repository                                         | Branch                       | Commit Id                          | Commit Message                   | Commit Message Body               |Commited on (Date) |
 |----------------------------------------------------|------------------------------|------------------------------------|----------------------------------|-----------------------------------|-------------------|
@@ -560,8 +596,18 @@ Esta sección documenta y presenta la serie de commits realizados en el reposito
 | upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-footer       | b55f787                            | feat: ...                        | add footer section                | 12/04             |
 | upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 42440a2                            | feat: ...                        | add responsive design for desktop | 13/04             |
 | upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-suscription  | 78a41b2                            | feat: ...                        | add suscriptions section          | 13/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 1d4cc00                            | feat: ...                        | add meta tags and seo tags        | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-functionalities | 9bed26e                         | feat: ...                        | add functionalities section       | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-functionalities | 5e513b2                         | fix : ...                        | correct speeling                  | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-functionalities | 7bfebde                         | feat: ...                        | add styles for                    | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-about-us     | aa1ac7d                            | feat: ...                        | add about us section              | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | 7d96968                            | merge                            | merge branch                      | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | a7574a5                            | merge                            | merge branch                      | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | 31ee1b8                            | merge                            | merge branch                      | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | f3d8011                            | merge                            | merge branch                      | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | 0486562                            | merge                            | merge branch                      | 13/04             |
+
+![Lista de commits](/assets/commits.png)
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
 En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
