@@ -114,7 +114,7 @@ Para el desarrollo y la edición del código, se utilizará Visual Studio Code c
 
 **Frontend Web Application:** En el proceso de desarrollo de la aplicación web frontend, se emplearán una variedad de herramientas para garantizar su programación eficiente y una esquematización adecuada, en armonía con el diseño conjunto de múltiples componentes. Para ello, se optará por el Framework proporcionado por Vue, el cual ofrece una sólida base para el desarrollo de software y una estructura de programación eficaz. Este Framework, combinado con la versatilidad y potencia de HTML5, CSS3 y JavaScript, conformará el núcleo de la implementación técnica. Además, se incorporará TypeScript para el desarrollo de los aspectos estáticos de los templates, contribuyendo así a la robustez y mantenibilidad del código.
 
-En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma proporcionada por el grupo de aplicaciones JetBrains Toolbox. Estas herramientas se distinguen por su robustez y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance. JavaScript será el principal lenguaje de programación empleado dentro de esta IDE, permitiendo un desarrollo ágil y eficiente.
+En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma medida y proporcionada por Angular. Estas herramientas se distinguen por su alta resistencia a cambios, depuraciones y actualizaciones de código inmediatas y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance. JavaScript será el principal lenguaje de programación empleado dentro de esta IDE, permitiendo un desarrollo ágil y eficiente.
 
 El enfoque de diseño estará basado en el modelo del Material Design, que proporciona pautas claras y consistentes para la creación de interfaces de usuario atractivas y funcionales. Para materializar este diseño, se recurrirá a la biblioteca de materiales y componentes de UI PrimeVue. Esta elección se fundamenta en su compatibilidad con el Framework de Vue, lo que garantiza una integración fluida y eficaz, así como una rápida implementación de la aplicación web en su totalidad.
 
@@ -122,7 +122,7 @@ El enfoque de diseño estará basado en el modelo del Material Design, que propo
 
 - Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
 
-- Página oficial de Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
+- Página oficial de Angular: https://angular.io/
 
 - Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
 
@@ -276,37 +276,101 @@ donde,
 
 ### 5.1.3 Source Code Style Guide & Conventions.
 
-En esta sección, estableceremos las convenciones y prácticas que seguiremos para nombrar elementos y programar en los lenguajes utilizados en la solución, que incluyen HTML, CSS, JavaScript, TypeScript, Angular, Java y Gherkin para los archivos `.feature`. Todas las convenciones seguirán la nomenclatura en inglés y adoptarán convenciones estándar de codificación.
+En esta sección, nuestro equipo de trabajo explicara e indicar las referencias que adoptaremos para nombrar y programar en los lenguajes de programación que se utilizar para el diseñado de nuestra solución de software mediante la Landing Page y el Web Applications. Ante esto, especificaremos todas las convenciones dadas para los siguientes lenguajes de programación o lenguajes de etiquetas junto a sus guías de seguimiento:
 
-1. **HTML y CSS**:
-- Basado en las recomendaciones de W3C y otras fuentes de la comunidad, se establecerán convenciones para el nombramiento de elemntos hTML y estilo de la codificación CSS.
-- Se seguirán las convenciones recomendadas por Google para HTML y CSS, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
-- Se utilizará la metodologìa BEM para organizar las clases CSS en bloques, elementos y modificadores, lo que facilitará la modularidad y la reutilización del código. 
-- Se debe utilizar los elementos HTML de manera semántica para una correcta descripción del contenido del sitio web, incluyendo el uso adecuado de etiquetas.
-- Para el desarrollo con Vue.js, se adoptarán las convenciones recomendadas por la comunidad de Vue, que incluyen el uso de PascalCase para los nombres y componentes y el uso de camelCase para las propiedades y métodos de los componentes.
+- Guía de Estilos y Convenciones de Codigo para HTML: https://www.w3schools.com/html/html5_syntax.asp 
+- Guía de Estilos de Google para HTML Y CSS: https://google.github.io/styleguide/htmlcssguide.html 
+- Convenciones de Gherkin para especificaciones legibles: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/ 
+- Guía de Google para el Estilo de JavaScript: https://google.github.io/styleguide/jsguide.html
+- Guía de Pautas de Javascript de MDN (Mozilla): https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript}
+- Guía de Estilos de Javascript del consorcio W3: https://www.w3schools.com/js/js_conventions.asp
+- Guía de convenciones de Código para Angular: https://angular.io/guide/styleguide
+- Guía de los Estilos de Spring Boot: https://docs.spring.io/spring-boot/docs/current/reference/html/features.html
 
-2. **JavaScript**:
-- Se tomarán en cuenta las directrices proporcionadas por MDN para la escritura de JavaScript, que incluyen el uso de nombres descriptivos para variables y funciones en camelCase, el uso de declaración de variavles con `let` o `const` en lugar de `var`, y el uso de punto y coma al final de cada declaración.
-- Se seguirán las convenciones de codificación recomendadas por Google para JavaScript, que incluyen el uso de comillas simples para literales de cadena, el uso de comentarios descriptivos y el uso de funciones de flecha para expresiones de función.
+Se tiene la intención de seguir todas estas directrices y normativas de codificación establecidas, además de modelar los diseños de las nomenclaturas y seguir el lenguaje inglés ante la recomendación mayoritaria frente a la codificación de nuestras páginas web. Estableceremos las convenciones y prácticas que seguiremos para nombrar elementos y programar en los lenguajes utilizados en la solución, que incluyen HTML, CSS, JavaScript, TypeScript, Angular, Java y Gherkin para los archivos `.feature`. Todas las convenciones seguirán la nomenclatura en inglés y adoptarán convenciones estándar de codificación.
 
-3. **Typescript**:
-- Se seguirán las convenciones de codificación recomendadas por Microsoft para TypeScript, que incluyen el uso de tipos estáticos, el uso de camelCase para nombres de variables y funciones, y el uso de interfaces y tipos personalizados para mejorar la legibilidad y el mantenimiento del código.
-- Se utilizarán las características específicas de TypeScript, como los tipos de datos estáticos y la inferencia de tipos, para mejorar la robustez y la claridad del código.
+1. **HTML**:
 
-4. **Angular**:
+- Para el guardado y actualización de archivos HTML se deben usar nombres descriptivos y sencillos que resuman adecuadamente todas las estructuras que se realizaron durante el proceso de programación.
+- Seguir una convención de nomenclatura consistente para los archivos y carpetas utilizadas durante todo el ciclo de vida del proyecto, como camelCase o algún otro similar que cumpla con las mismas especificaciones.
+- Utilizar las etiquetas HTML de manera semántica para describir adecuadamente la estructura y el contenido de tu página web. Por ejemplo, utilizar header, nav, main, section, article, footer, etc., en lugar de divs genéricos.
+- Mantener una estructura de código clara y legible mediante la indentación adecuada. Promover la coherencia en el diseño y la presentación en todas las partes del proyecto, garantizando una experiencia de usuario uniforme.
+- Utilizar etiquetas semánticas y atributos como "alt" en las imágenes para mejorar la accesibilidad y la indexación por parte de los motores de búsqueda/browsers.
+- Diseñar el HTML para que sea receptivo y se vea bien en una variedad de dispositivos y tamaños de pantalla, utilizando CSS adaptable y consultas de medios adecuados.
+- Utilizar modelos de accesibilidad para aumentar el alcance del público que interactua con las páginas web. Centrarse en seguir con el diseño para permitir que puedan acceder personas con discapacidades o con otras lenguas y/o creencias y culturas.
+- Se seguirán las convenciones recomendadas por Google para HTML, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
+
+2. **CSS**:
+
+- Se seguirán las convenciones recomendadas por Google para CSS, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
+- Utilizar nombres de clases descriptivos y coherentes para facilitar la comprensión del código y su mantenimiento a largo plazo. Se deben seguir metodologías como BEM (Block Element Modifier) y SMACSS (Scalable and Modular Architecture for CSS).
+- Utilizar nombres descriptivos para las clases CSS que reflejen su propósito o función en lugar de nombres genéricos o abreviaturas difíciles de entender.
+- Preferir nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
+- Diseñar CSS modular para que se pueda reutilizar estilos en diferentes partes de la landing page y la propia aplicación web, lo que facilita la mantenibilidad y la escalabilidad.
+- Utilizar prefijos de proveedores CSS (como -webkit-, -moz-, -ms-, -o-) cuando sea necesario para garantizar la compatibilidad con diferentes navegadores.
+- Evitar aplicar estilos directamente en las etiquetas HTML (style attribute) y en su lugar utiliza clases CSS para mantener la separación entre HTML y CSS.
+- Evitar estilos en línea en HTML, ya que hacen que sea más difícil de mantener y sobrescribir. Es preferible definir estilos en un archivo CSS separado.
+- Realizar pruebas en diferentes navegadores y dispositivos para asegurarte de que tus estilos se vean y funcionen correctamente en todas las situaciones.
+
+3. **JavaScript**:
+
+- Utilizar nombres descriptivos que reflejen el propósito y la función de las variables y funciones para mejorar la comprensión del código a gran escala y durante todo su ciclo de vida.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Utilizar "const" para declarar variables que no cambiarán de valor y "let" para aquellas que sí lo harán, en lugar de "var", para evitar problemas de alcance y mantener la inmutabilidad cuando sea posible.
+- Documentar el código utilizando comentarios para explicar el propósito de las funciones, algoritmos complejos, decisiones de diseño y cualquier otra información relevante. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
+- Limitar el uso de variables globales ya que pueden causar conflictos y dificultar el mantenimiento del código. Preferir encapsular variables y funciones dentro de módulos o funciones autoejecutables para evitar contaminar el espacio global.
+- Implementar un manejo adecuado de errores utilizando bloques try-catch para capturar excepciones y manejar errores de manera apropiada, proporcionando mensajes claros y útiles para facilitar la depuración.
+- Asegurarse de que las comparaciones y operaciones sean explícitas y predecibles para evitar errores de tipo. Utiliza operadores estrictos (=== y !==) en lugar de los operadores de igualdad débil (== y !=) siempre que sea posible.
+- Utilizar la delegación de eventos para manejar eventos en elementos dinámicos y reducir la cantidad de manipuladores de eventos necesarios en el DOM.
+- Aprovechar las funciones de orden superior como "map", "filter", "reduce" y "forEach" para simplificar el código y mejorar su legibilidad.
+
+4. **Typescript**:
+
+- Aprovechar al máximo el sistema de tipos de TypeScript proporcionando tipos explícitos para variables, parámetros de función y valores de retorno. Esto mejora la legibilidad del código y ayuda a detectar errores en etapas tempranas de desarrollo.
+- Utilizar interfaces y tipos para definir la forma de los objetos y estructuras de datos en el código. Esto facilita la comprensión de cómo deben estructurarse los datos y permite la reutilización de tipos en todo el proyecto.
+- Evitar el uso excesivo del tipo "any", ya que elimina los beneficios del sistema de tipos de TypeScript. En su lugar, intentar ser lo más específico posible con los tipos de datos que se utilicen.
+- Utilizar uniones (|) y tipos de intersección (&) para modelar tipos complejos que puedan tener múltiples formas o combinaciones de tipos.
+- Aprovechar las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos. Asimismo, aprovechar la capacidad de TypeScript para inferir tipos cuando sea posible, especialmente en situaciones donde la tipificación explícita podría ser redundante.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Habilitar la configuración "strict" en el archivo de configuración tsconfig.json para aprovechar al máximo las características de seguridad y verificación de TypeScript.
+- Documentar el código TypeScript utilizando comentarios JSDoc para describir el propósito, los parámetros y el valor de retorno de las funciones, clases y métodos. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
+
+5. **Angular**:
+
+- Organizar el proyecto de Angular siguiendo una estructura clara y coherente, como la proporcionada por la CLI de Angular, que separa los archivos por funcionalidad y tipo (componentes, servicios, módulos, etc.).
+- Diseñar componentes Angular que sean reutilizables y modulares, lo que facilita su uso en diferentes partes de la aplicación y fomenta la consistencia en el diseño y la funcionalidad.
+- Utilizar servicios para encapsular la lógica de negocio y compartir datos y funcionalidades entre componentes de manera eficiente, cohesiva y coherente. 
+- Utilizar módulos Angular para organizar y agrupar componentes, servicios y otros elementos relacionados de tu aplicación, lo que facilita la escalabilidad y el mantenimiento.
+- Utilizar directivas y pipes de Angular para manipular el DOM y transformar datos en las plantillas HTML de manera declarativa y eficiente.
+- Utilizar Observables y el Reactive Extensions for JavaScript (RxJS) para manejar la asincronía y la programación reactiva en la aplicación Angular, lo que simplifica la gestión de eventos y el flujo de datos.
+- Utilizar el enrutamiento Angular para gestionar las rutas y la navegación en la aplicación, lo que permite cargar componentes de forma dinámica según la URL y proporcionar una experiencia de navegación fluida.
+- Utilizar formularios reactivos de Angular para crear formularios dinámicos y robustos que puedan adaptarse fácilmente a los cambios en los datos y proporcionar una experiencia de usuario más interactiva.
+- Optimizar el rendimiento de la aplicación Angular utilizando técnicas como la lazy loading de módulos, la minimización de solicitudes HTTP, el preloading de módulos, el uso eficiente de Directivas estructurales y el Change Detection Strategy OnPush.
 - Se adoptarán las convenciones de codificación recomendadas por la comunidad de Angular, que incluyen el uso de camelCase para los nombres de archivos y carpetas, así como para los nombres de componentes, directivas y servicios.
-- Se seguirán las prácticas recomendadas por Angular para la organización de proyectos, que incluyen la separación clara de módulos, componentes y servicios, y el uso de la inyección de dependencias para la gestión de dependencias.
 
-5. **Java**:
-- Se seguirán las convenciones de codificación establecidas por Oracle para el lenguaje Java, que incluyen el uso de camelCase para los nombres de variables, métodos y parámetros, el uso de PascalCase para nombres de clases y el uso de comentarios Javadoc para documentar el código.
-- Se promoverá el uso de la programación orientada a objetos (OOP) y el principio de diseño SOLID para escribir código modular y mantenible.
+6. **Java**:
 
-6. **Gherkin**:
-- Se aplicarán las convenciones recomendadas para escribir especificaciones legibles en Gherkin, que incluyen el uso de palabras clave como Given, When y Then para describir el comportamiento del sistema, el uso de un lenguaje sencillo y claro, y la organización de los escenarios en contextos, acciones y resultados.
-- Se seguirán las mejores prácticas recomendadas por Cucumber para escribir escenarios de prueba en Gherkin, que incluyen la reutilización de pasos de prueba, la modularización de escenarios y la escritura de pruebas autoexplicativas.
+- Utilizar nombres descriptivos y significativos para clases, variables, métodos y paquetes. Seguir las convenciones de nomenclatura de Java para mantener la consistencia en todo el proyecto.
+- Seguir la convención de nomenclatura de Java, que generalmente utiliza CamelCase para nombres de variables y métodos, y PascalCase para nombres de clases e interfaces.
+- Organizar tus clases en paquetes lógicos y bien estructurados que reflejen la arquitectura y la funcionalidad de tu aplicación.
+- Diseñar el código de Java para que sea modular y cohesivo, dividiendo la funcionalidad en clases y métodos pequeños y bien definidos.
+- Utilizar la inyección de dependencias para facilitar la creación y gestión de componentes y servicios en tu aplicación Java. Esto mejora la modularidad, la reutilización y la testabilidad del código. 
+- Implementar un manejo adecuado de excepciones utilizando bloques try-catch-finally para capturar y manejar excepciones de manera adecuada, proporcionando mensajes significativos y tomando acciones apropiadas en caso de error.
+- Documentar el código utilizando comentarios Javadoc para proporcionar información útil sobre la funcionalidad, los parámetros y el valor de retorno de los métodos y clases. Esto facilita la comprensión del código y la generación de documentación automática. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
+- Utilizar interfaces para definir contratos y abstracciones en tu código, lo que facilita la modularidad, la reutilización y la interoperabilidad.
+- Optimizar el rendimiento de tu código Java utilizando técnicas como la optimización de bucles, la minimización del uso de la memoria, la utilización de estructuras de datos eficientes y el caching cuando sea necesario.
 
-Además de estas referencias, se promoverá el uso de buenas prácticas y metodologías estándar en el desarrollo de software, como la modularidad, la reutilización de código, la legibilidad del código, la optimización del rendimiento y la seguridad. 
-Con estas guías de estilo y convenciones de codificación, buscamos asegurar la coherencia, la calidad y la mantenibilidad del código a lo largo de todo el proyecto.
+7. **Gherkin**:
+
+- Utilizar las palabras clave de Gherkin (Given, When, Then, And, But) de manera apropiada para estructurar tus escenarios de acuerdo con el flujo de acción deseado.
+- Escribir escenarios en un lenguaje claro y comprensible para todas las partes interesadas, incluidos los no técnicos. Utilizar un vocabulario simple y evitar la jerga técnica cuando sea posible.
+- Asegurarse de que cada escenario se centre en un único aspecto o funcionalidad de la aplicación. Evitar la superposición de funcionalidades en un solo escenario para mantenerlos simples y fáciles de entender.
+- Mantener los escenarios lo más concisos y directos posible. Evitar la repetición innecesaria y eliminar cualquier detalle que no sea relevante para el objetivo del escenario.
+- Escribir los escenarios en primera persona, desde la perspectiva del usuario o actor que realiza la acción. Esto ayuda a mantener un enfoque centrado en el usuario y facilita la comprensión del comportamiento esperado.
+- Evitar incluir detalles de implementación en los escenarios. En su lugar, uno debe concentrarse en describir el comportamiento esperado de la aplicación sin preocuparse por cómo se logra ese comportamiento.
+- Identificar patrones comunes en los escenarios y buscar oportunidades para reutilizar pasos utilizando escenarios de fondo (Background) o pasos compartidos (Step Definitions).
+
+Además de estas referencias, se promoverá el uso de buenas prácticas y metodologías estándar en el desarrollo de software, como la modularidad, la reutilización de código, la legibilidad del código, la optimización del rendimiento y la seguridad. Con estas guías de estilo y convenciones de codificación, buscamos asegurar la coherencia, la calidad y la mantenibilidad del código a lo largo de todo el proyecto.
 
 ### 5.1.4 Software Deployment Configuration.
 
