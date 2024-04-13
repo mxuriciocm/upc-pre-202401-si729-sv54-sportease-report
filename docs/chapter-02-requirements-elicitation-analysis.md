@@ -476,97 +476,11 @@ Deportista
 
 Dueño de academia
 
-<table border="1" style="text-align:center;">
-	<tbody>
-		<tr>
-			<td>Phrases</td>
-			<td colspan="2">Registro y administracion</td>
-			<td colspan="2">Programación de horarios y clases</td>
-			<td colspan="2">Comunicación con estudiantes y personal</td>
-			<td colspan="2">Gestión de pagos</td>
-		</tr>
-		<tr>
-			<td>Doing</td>
-			<td>Lleno mi formulario de inscripción y organizo documentos físicos con información de los estudiantes.</td>
-			<td>Coordino con mi equipo para recopilar y organizar la información de los estudiantes en diferentes sistemas.</td>
-			<td>Dedico mucho tiempo a revisar los horarios de los instructores y la disponibilidad de las instalaciones para programar clases.</td>
-			<td>Coordino con los instructores para establecer horarios de clases que se ajusten a sus disponibilidades.</td>
-			<td>Dedico tiempo a enviar correos electrónicos y realizar llamadas telefónicas para comunicar cambios en los horarios.</td>
-			<td>Organizo reuniones presenciales con el personal para discutir asuntos importantes.</td>
-			<td>Paso mucho tiempo recopilando pagos en efectivo.</td>
-			<td>Emito facturas y recibos físicos para los pagos de los estudiantes lo que se hace tedioso.</td>
-		</tr>
-		<tr>
-			<td>Thinking</td>
-			<td>Constantemente estoy pensando en cómo podríamos simplificar este proceso, quizás mediante la implementación de un sistema de gestión de datos digital.</td>
-			<td>Me preocupa la posibilidad de errores en los datos debido a nuestros métodos manuales y la falta de una plataforma integrada.</td>
-			<td>Pienso en cómo podemos optimizar nuestros horarios para evitar conflictos y maximizar la utilización de los recursos.</td>
-			<td>Considero la posibilidad de utilizar software de programación para simplificar y agilizar el proceso, pero me preocupa la curva de aprendizaje y el costo asociado.</td>
-			<td>Pienso en cómo podemos mejorar nuestros canales de comunicación para hacerlos más eficientes y accesibles.</td>
-			<td>Me preocupa si ocurren malentendidos o confusiones debido a la comunicación ineficiente.</td>
-			<td>Considero la posibilidad de implementar un sistema de pago en línea para simplificar el proceso.</td>
-			<td>Estoy preocupado por la presencia de errores en la gestión financiera.</td>
-		</tr>
-		<tr>
-			<td>Feeling</td>
-			<td>Me siento abrumado por la cantidad de trabajo administrativo que requiere esta tarea y preocupado por posibles errores que podrían surgir.</td>
-			<td>Experimento frustración debido a la falta de automatización y la lentitud del proceso, lo que consume mucho tiempo y recursos.</td>
-			<td>Siento frustración por la complejidad y laboriosidad de la programación manual, lo que resulta en errores y conflictos de horario.</td>
-			<td>Tengo estrés debido a la presión para programar clases de manera eficiente y evitar conflictos que puedan afectar la experiencia de los estudiantes.</td>
-			<td>Me siento frustrado por la falta de herramientas para facilitar la comunicación.</td>
-			<td>Me siento preocupado porque puede afectar la confianza y satisfacción de los estudiantes y personal</td>
-			<td>Siento nerviosismo por posibles errores lo que puede tener mala reputación en nuestra academia.</td>
-			<td>Me siento agobiado debido a la carga de trabajo en la gestión manual de pagos.</td>
-		</tr>
-	</tbody>
-</table>
+![As-Is_Dueño](/assets/As-Is_Dueño.png)
 
 Deportista
 
-<table  border="1" style="text-align:center;">
-	<tbody>
-		<tr>
-			<td>Phrases</td>
-			<td colspan="2">Inscripción</td>
-			<td colspan="2">Participación en clases</td>
-			<td colspan="2">Seguimiento de progreso y desempeño</td>
-			<td colspan="2">Interacción con la academia</td>
-		</tr>
-		<tr>
-			<td>Doing</td>
-			<td>Dedico tiempo a completar mi formulario de inscripción.</td>
-			<td>Entrego el formulario en persona o por correo electrónico.</td>
-			<td>Asisto a las clases según los horarios de la academia.</td>
-			<td>Intento mantenerme al día por los cambios de horario debido a la mala comunicación.</td>
-			<td>Recibo retroalimentación ocasional de mis instructores, pero es limitada.</td>
-			<td>Mantengo mi propio progreso y rendimiento deportivo por mi cuenta.</td>
-			<td>Me comunico con la academia al finalizar las clases o teléfono.</td>
-			<td>A veces me encuentro luchando por obtener respuestas o información actualizada.</td>
-		</tr>
-		<tr>
-			<td>Thinking</td>
-			<td>Pienso en como este procedimiento pueda ser más fácil.</td>
-			<td>Me preocupa si la información brindada se utilizará adecuadamente.</td>
-			<td>Estoy pensando en como puedo mejorar mi rendimiento deportivo.</td>
-			<td>Me preocupa si estoy recibiendo el apoyo adecuado de mis instructores.</td>
-			<td>Reflexiono en como puedo mejorar y que áreas debo trabajar más.</td>
-			<td>Me preocupa si estoy recibiendo suficiente orientación para mejorar mi rendimiento.</td>
-			<td>Constantemente me preocupo en si de verdad tienen en cuenta mi consulta.</td>
-			<td>Pienso en como involucrarme más activamente con la comunidad de la academia.</td>
-		</tr>
-		<tr>
-			<td>Feeling</td>
-			<td>Siento frustración por la lentitud y complejidad del proceso de inscripción.</td>
-			<td>Tengo ansiedad por la privacidad de mi información personal.</td>
-			<td>Me siento emocionado por participar en las actividades deportivas.</td>
-			<td>Siento frustración cuando no estoy informado sobre los cambios de horario.</td>
-			<td>Me siento enojado al no tener el resultado que quería en mis entrenamientos.</td>
-			<td>Siento frustración cuando no recibo retroalimentación que necesito para crecer como atleta. </td>
-			<td>Me siento parte de la comunidad cuando recibo respuestas claras.</td>
-			<td>Experimento indignación cuando siento que no estoy siendo escuchado.</td>
-		</tr>
-	</tbody>
-</table>
+![As-Is_Deportista](/assets/As-Is_Deportista.png)
 
 ## 2.4 Ubiquitous Language
 
