@@ -414,21 +414,58 @@ En esta sección, documentaremos y explicaremos el progreso tanto en el desarrol
 
 En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
 
-| Sprint #                             | Sprint 1           |
-|--------------------------------------|--------------------|
-| Sprint Planning Background                                |
-| Date                                 |  2024-04-01        |
-| Time                                 |  04:06 PM          |
-| Location                             |  Google Meet       |
-| Prepared By                          |  Piero Tarazona    |
-| Attendees (to planning meeting)      |  Piero Tarazona, Mauricio Chacon, Flavio Trigueros, Moises Donayre |
-| Sprint 1 – 1 Review Summary          |  El Sprint 1 fue un éxito en términos de avance del producto de software y colaboración efectiva del equipo. Los logros alcanzados y la retroalimentación recopilada durante esta revisión proporcionan una base sólida para el siguiente sprint y refuerzan el compromiso del equipo con la calidad y la entrega oportuna del producto.  |
-| Sprint 1 – 1 Retrospective Summary   |  Para la retrospectiva del Sprint 1 nos sirvio para reflexionar sobre el desempeño del equipo y identificar áreas de mejora. Esto nos servira como base para impulsar la mejora continua y optimizar el trabajo del equipo en los próximos sprints.  |
-| Sprint Goal & User Stories                                |
-| Sprint 1 Goal                        | Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 1              |
-| Sprint 1 Velocity                    | Con el equipo para este sprint 1 decidimos aceptar 5 Story Points      |
-| Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32 |
-
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-04-01</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>04:06 PM</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Piero Abel Tarazona Medina</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Moises Rodolfo Donayre Peña, Mauricio Sebastián Chacon Martinez, Flavio Eduardo Trigueros Chumacero, Piero Abel Tarazona Medina</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 – 1 Review Summary</td>
+            <td>l Sprint 1 fue un éxito en términos de avance del producto de software y colaboración efectiva del equipo. Los logros alcanzados y la retroalimentación recopilada durante esta revisión proporcionan una base sólida para el siguiente sprint y refuerzan el compromiso del equipo con la calidad y la entrega oportuna del producto.</td>
+        </tr>
+            <tr>
+            <td>Sprint 1 – 1 Retrospective Summary</td>
+            <td>Para la retrospectiva del Sprint 1 nos sirvio para reflexionar sobre el desempeño del equipo y identificar áreas de mejora. Esto nos servira como base para impulsar la mejora continua y optimizar el trabajo del equipo en los próximos sprints.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 1.</td>
+        </tr>
+              <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points </td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32</td>
+        </tr>
+    </table>
 
 ### 5.2.1.2 Sprint Backlog 1
 
