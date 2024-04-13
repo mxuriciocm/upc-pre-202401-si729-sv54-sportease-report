@@ -614,15 +614,15 @@ En esta sección, presentamos la evidencia de las pruebas realizadas durante el 
 
 | Repository                                         | Branch                       | Commit Id                          | Commit Message                   | Commit Message Body               |Commited on (Date) |
 |----------------------------------------------------|------------------------------|------------------------------------|----------------------------------|-----------------------------------|-------------------|
-| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | 88ff68d                            | chore: ...                       | initial commit                    | 04/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | cb74182                            | chore: ...                       | create structure for landing      | 12/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 8a3a328                            | feat: ...                        | add header section                | 12/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-contact      | cf09f3f                            | feat: ...                        | add contact section               | 12/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-footer       | b55f787                            | feat: ...                        | add footer section                | 12/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 42440a2                            | feat: ...                        | add responsive design for desktop | 13/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-suscription  | 78a41b2                            | feat: ...                        | add suscriptions section          | 13/04             |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
-| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 2e1280d                            | feat: ...                        | add test for header section       | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | f16eef1                            | feat: ...                        | add test for header section       | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-contact      | f4e985a                            | feat: ...                        | add test for contact section      | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-suscriptions | cf09f3f                            | feat: ...                        | add test for contact section      | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-functionalities | 237c920                         | feat: ...                        | add test for functionalities feature | 13/04          |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-footer       | 3869f07                            | feat: ...                        | add test for footer section       | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-about-us     | feb6528                            | feat: ...                        | add test for about-us section     | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | c4cfe38                            | feat: ...                        | add test for develop              | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | develop                      | 8a64c5e                            | feat: ...                        | add test for develop              | 13/04             |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
