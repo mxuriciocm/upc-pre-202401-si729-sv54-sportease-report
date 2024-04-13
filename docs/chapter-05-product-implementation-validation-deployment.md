@@ -630,29 +630,33 @@ Durante el Sprint 1, se logró un progreso significativo en la implementación d
 
 Capturas de pantalla:
 
-- Sección de Resumen:
+- Página de Inicio
 
-![Resumen](/assets/resumen.png)
+![Inicio](/assets/inicio.png)
 
-- Acceso a la Información de Precios:
+- Resumen de precios
 
 ![Precios](/assets/precios.png)
 
-- Resumen al Final:
+- Acceso Rápido a las Secciones Clave
 
-![Footer](/assets/footer.png)
+![Header](/assets/header.png)
 
-- Contenido Informativo:
+- Descripción Detallada de Funcionalidades
 
-![Board Trello](/assets/servicios.png)
+![Funcionalidades](/assets/funcionalidades.png)
 
-- Llamado a la acción
-
-![Board Trello](/assets/calltoAction.png)
-
-- Sección de Información de Contacto:
+- Formulario de Contacto
 
 ![Contacto](/assets/contacto.png)
+
+- Diseño Responsivo para Dispositivos Móviles:
+
+![Responsive](/assets/responsive.png)
+
+- Call to Action Claro y Efectivo
+
+![Call-to-action](/assets/calltoaction.png)
 
 Video: 
 
@@ -666,27 +670,27 @@ Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en Gi
 
 1. Primero creamos un repositorio en Github para el landing page
 
-![Ramas](/assets/branches.png)
+![Ramas](/assets/repo.png)
 
 2. Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
 
-![Ramas](/assets/branches.png) 
+![Ramas](/assets/ramas.png) 
 
 3. En la configuración del repositorio, se accede a la sección "Pages".
 
-![Ramas](/assets/branches.png)
+![Ramas](/assets/pages.png)
 
 4. Se ajusta la configuración para indicar la fuente de la landing page.
 
-![Ramas](/assets/branches.png)
+![Ramas](/assets/fuente.png)
 
 5. Después de guardar la configuración, se genera un enlace para acceder a la landing page.
 
-![Ramas](/assets/branches.png)
+![Ramas](/assets/enlace.png)
 
 6. Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
 
-![Ramas](/assets/branches.png)
+![Ramas](/assets/link.png)
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
@@ -695,12 +699,12 @@ Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestr
 En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica del landing page. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega.
 Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto.
 A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
-![Ramas](/assets/branches.png)
+![Ramas](/assets/ramas.png)
 
-![Mauricio](/assets/miguel.png)
+![Mauricio](/assets/mauricio.png)
 
-![Piero](/assets/mauricio.png)
+![Piero](/assets/piero.png)
 
-![Flavio](/assets/piero.png)
+![Flavio](/assets/flavio.png)
 
-![Moises](/assets/elias.png)
+![Moises](/assets/moises.png)
