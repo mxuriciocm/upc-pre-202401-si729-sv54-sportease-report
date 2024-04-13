@@ -241,21 +241,41 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
 
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
+Esta sección documenta y presenta la serie de commits realizados en el repositorio del Landing Page. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
 
-| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
-|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+![Lista de commits](/assets/commits.png)
 
+| Repository                                         | Branch                       | Commit Id                          | Commit Message                   | Commit Message Body               |Commited on (Date) |
+|----------------------------------------------------|------------------------------|------------------------------------|----------------------------------|-----------------------------------|-------------------|
+| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | 88ff68d                            | chore: ...                       | initial commit                    | 04/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | cb74182                            | chore: ...                       | create structure for landing      | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 8a3a328                            | feat: ...                        | add header section                | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-contact      | cf09f3f                            | feat: ...                        | add contact section               | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-footer       | b55f787                            | feat: ...                        | add footer section                | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 42440a2                            | feat: ...                        | add responsive design for desktop | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-suscription  | 78a41b2                            | feat: ...                        | add suscriptions section          | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
 
-| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
-|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| Repository                                         | Branch                       | Commit Id                          | Commit Message                   | Commit Message Body               |Commited on (Date) |
+|----------------------------------------------------|------------------------------|------------------------------------|----------------------------------|-----------------------------------|-------------------|
+| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | 88ff68d                            | chore: ...                       | initial commit                    | 04/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | cb74182                            | chore: ...                       | create structure for landing      | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 8a3a328                            | feat: ...                        | add header section                | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-contact      | cf09f3f                            | feat: ...                        | add contact section               | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-footer       | b55f787                            | feat: ...                        | add footer section                | 12/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 42440a2                            | feat: ...                        | add responsive design for desktop | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-suscription  | 78a41b2                            | feat: ...                        | add suscriptions section          | 13/04             |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/loremipsum           | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT                | FECHA DEL COMMIT  |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
 Durante el Sprint 1, se logró un progreso significativo en la implementación de las características clave de la página de inicio del sitio web. El equipo completó con éxito todas las historias de usuario asignadas para este sprint, que incluyeron el desarrollo de un resumen claro de las características y beneficios del sitio web, la integración de acceso visible a información detallada de precios, la adición de un resumen conciso al final de la página de inicio, la inclusión de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto visible en la página de inicio. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+
 Capturas de pantalla:
 
 - Sección de Resumen:
