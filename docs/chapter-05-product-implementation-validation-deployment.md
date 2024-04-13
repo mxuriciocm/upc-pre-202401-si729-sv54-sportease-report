@@ -6,28 +6,74 @@ Para la gestión de la configuración de software de nuestra aplicación nos enf
 
 ### 5.1.1 Software Development Environment Configuration
 
-En esta sección, detallaremos y explicaremos los productos utilizados en el proyecto digital, así como su propósito y cómo se accede a cada uno de ellos y siguiendo las restricciones establecidas.
+En esta sección nuestro equipo de trabajo va a especificar, describir e indicar los nombres de productos, el propósito de uso en el proyecto, la ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software que deben utilizar los miembros del equipo para colaborar en el ciclo de vida del producto digital.
 
-1. Project Management:
-Para gestionar el proyecto, se utilizaron herramientas de comunicación y control de versiones. Se estableció una organización en GitHub para gestionar el código y las versiones del proyecto. Además, para las reuniones de equipo y la comunicación interna, se utilizaron plataformas como Google Meet y Discord.
-- Github: https://github.com/
-- Google Meet: https://meet.google.com/
-- Discord: https://discord.com/download
+#### Project Management:
 
-2. Requirements Management:
-Para la gestión de requisitos se llevó a cabo mediante el uso de herramientas personalizadas que permitieron recopilar, organizar y priorizar los requisitos del proyecto de manera eficiente. Se utilizó Trello, una herramienta visual para la gestión de requisitos, permitiendo la creación tableros personalizados para organizar y priorizar las tareas del proyecto que permitió realizar los Task board y Pivotal Tracker, utilizado para gestionar y realizar un seguimiento del Product Backlog del proyecto.
-- Trello: https://trello.com/es
-- Pivotal Tracker: https://www.pivotaltracker.com/
+Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre tres puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
 
-3. Product UX/UI Design:
-Para el diseño de la experiencia de usuario (UX) y diseño de interfaz de usuario (UI) del producto se utilizo la herramienta Figma, esta herrmienta permitio al equipo crear wireframes, mockups y prototipos interactivos para visualizar y validad el diseño del producto antes de la implementación.
-Por otro lado, para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps se utilizó UXPressia y para la creación de As-Is y To-Be Scenario Maps se utilizó Miro.
-- Figma: https://www.figma.com/downloads/
-- UXPressia: https://uxpressia.com/
-- Miro: https://miro.com/es/
+**Reuniones de trabajo:** Con respecto a las reuniones organizadas para el equipo de trabajo, nuestro grupo ha decidido de forma unanime que el mejor medio de reunión mediante videoconferencia era con el uso de las herramientas de la aplicación "Discord" junto a la aplicación "Google Meet". Esto debido a que todos tenemos conocimiento sobre el uso de ambas aplicaciones y las consideramos más cómodas y rápidas en comparación de otras aplicaciones de videoconferencia. Aunque Discord no tiene las mismas herramientas que otras aplicaciones tienen, consideramos que es mejor porque mantiene un acceso y comunicación más eficiente, tiene una interfaz más simple y directa, y porque no presenta limites de tiempo durante las reuniones. Por parte de Google Meet, aunque esta tiene varias limitaciones con respecto a los modelos de grabaciones, aún posee varias funciones que la vuelven una buena opción para el uso en videoconferencias de larga duración, como su modelo de compartir pantalla, chat directo y pizarra.
+
+- Página oficial de Discord: https://discord.com/ 
+- Página oficial de Google Meet: https://meet.google.com/
+
+**Control de Versiones:** Con respecto al control de versiones que presentara nuestro equipo de trabajo, nuestro grupo a utilizado las propias herramientas de "Github" dentro de la organización de todo el proyecto. A través del uso de commits y pull request, cada miembro del equipo puede apoyar en el desarrollo y, a través del historial, revisar las antiguas versiones antes de los cambios propuestos.
+
+- Página oficial de Github: https://github.com/
+
+---
+
+#### Requirements Management:
+
+Con respecto a la organización del trabajo para cada miembro del equipo, nuestro grupo a utilizado las herramientas provistas por la aplicación web "Trello" junto a la aplicación "PivotalTracker". Esto debido a que estas aplicaciones permiten la separación de actividades entre varios miembros de trabajo junto al uso de fechas límite, apoyos y el estado de cada actividad, midiendo requisitos y requerimientos rapidamente. Trello permite revisar todo el rendimiento en conjunto y las actividades realizadas por cada usuario, además de seguir horarios fijos en todo momento con los Task Board. PivotalTracker utiliza grupos centralizados con notas utilizando medidas de rendimiento conjunto junto a modelos de guía sobre lo que hizo cada miembro del equipo en cada sección con respecto al Product Backlog.
+
+- Página oficial de Trello: https://trello.com/es
+
+- Página oficial de PivotalTracker: https://www.pivotaltracker.com/ 
+
+---
+
+#### Product UX/UI Design:
+
+Esta sección respecta al desarrollo y diseñado de las secciones basadas en el UX y UI correspondientes a nuestro proyecto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan modificar la estetica de todas las páginas que vamos a programar y como estas se verían para nuestros clientes finales, siguiendo las historias de usuario y toda metodologia de desarrollo web. Asimismo, estas herramientas también deben permitir la estructuración y diagramación de todas las tablas y organizadores necesarios.
+
+**Mapas:** Con respecto al diseñado de todos los diagramas referentes a mapas con seguimientos, como el Empathy Map, el Journey Map y el Impact Map, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta mantiene un estilo de diseñado mucho más cómodo en comparación con otras aplicaciones. Asimismo, permite el desarrollo en colaboración de forma rápida y precisa.
+
+**User Personas:** Con respecto al diseñado de nuestros User Persona para cada segmento objetivo identificado para nuestra startup y nuestro producto, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta posee herramientas que, aunque no son muy cómodas en el desarrollo de gráficos grandes y diagramas, sí mantiene formatos agradables con modelos ya realizados con los que guiarnos para nuestros User Persona.
+
+- Página oficial de UXPressia: https://uxpressia.com/ 
+
+**Escenarios:** Con respecto al modelado de todos los escenarios AS-IS y TO-BE y a todo el camino de acciones que realiza el cliente para poder cumplir sus necesidades con o sin la aplicación de SportEase, hemos utilizado la aplicación de diseño de Miro. Esta herramienta posee varios modelos de los que guiarnes para realizar todas las tablas, además de que permite el trabajo colaborativo y mantiene una interfaz bastante cómoda y sencilla de manipular.
+
+- Página oficial de Miro: https://miro.com/ 
+
+**Wireframes, Mock-ups y Prototypes:** Con respecto al diseñado de los wireframes y mock-ups referentes a la landing page de nuestra startup junto a todas las pestañas de la aplicación web con sus modelos de Responsive Design y a los modelos especializados para los Prototypes, nuestro grupo ha decidido utilizar la plataforma de "Figma", la cual esta especializada en el diseño de aplicaciones y páginas web junto a la forma en la que se verían para nuestros clientes, además de realizar un seguimiento entre cada página. Asimismo, permite el desarrollo colaborativo y ya trae muchos modelos para landing page y aplicaciones que nuestro equipo puede usar para guiarse.
+
+- Página oficial de Figma: https://figma.com/ 
+
+---
+
+#### Product Architecture Design:
+
+Esta sección respecta al desarrollo y diseñado de las secciones basadas en la arquitectura del producto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan la diagramación de esquemas complejos y completos sobre cada una de las capas de la arquitectura que mostrara nuestra solución, identificando todos sus componentes junto a los framework, IDEs y lenguajes de programación a utilizar.
+
+**Diagramas C4:** Con respecto al diseñado de todos los diagramas C4 referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para personas tanto técnicas como no técnicas en el área, nuestro grupo de trabajo ha decidido utilizar "Structurizr", puesto que esta plataforma tiene modelos muy optimizados y especializados en el desarrollo de diagramas C4 en comparación a otros programas ya visualizados. Asimismo, el equipo de trabajo tiene más experiencia en este programa.
+
+- Página oficial de Structurizr: https://structurizr.com/
+
+**Diagrama UML:** Con respecto al diseñado de todos los diagramas UML referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para programadores expertos, nuestro grupo de trabajo ha decidido utilizar "LucidChart", puesto que esta es una plataforma especializada en el desarrollo de diagramas de este estilo, mostrando instrumentos adecuadas para toda la diagramación y separación de partes con grupos de trabajo.
+
+- Página oficial de LucidChart: https://lucidchart.com/
+
+**Database Design:**  Con respecto al diseñado de la base de datos referente a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para nuestro equipo de gestión y desarrollo de bases de datos, nuestro grupo ha decidido utilizar "Vertabelo", debido a que esta aplicación web cumple con todos los requisitos necesarios para el diseñado de bases de datos sencillas y de forma bastante rápida en comparación con otros programas.
+
+- Página oficial de Vertabelo: https://vertabelo.com/
 
 4. Software Development:
+
+   
 Para el desarrollo de software se utilizó HTML5, CSS3 y JavaScript para el desarrollo de la Landing Page de la startup, por otro lado, para la creación del Web Application de la startup se utilizarán el framework de Vue por el lado del Frontend y en el Backend se utilizará ASP.NET Core Framework y C#.
+
 Para trabajar con estas tecnologías, se emplearon los siguientes IDEs:
 Visual Studio Code: Herramienta principal para el desarrollo Frontend y Backend, que ofrece una amplia gama de extensiones para mejorar la productividad del equipo. (En nuestro caso solo fue utilizado para la Landing Page).
 JetBrains Toolbox: Proporciona un entorno integrado para el desarrollo web, con características avanzadas de edición y depuración que faciitan la creación de aplicaciones web robustas.
