@@ -10,11 +10,16 @@ En esta sección nuestro equipo de trabajo va a especificar, describir e indicar
 
 #### Project Management:
 
-Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre tres puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
+Esta sección respecta a la organización y control del proyecto durante todo su ciclo de vida en el sentido de control del personal que trabaja en este, junto a sus acciones y colaboraciones a lo largo del tiempo y a sus asignaciones ya estipuladas. Ante esto, hemos separado esta sección entre puntos distintos que funcionan como distintos métodos de comunicación y gestión del equipo de trabajo.
 
-**Reuniones de trabajo:** Con respecto a las reuniones organizadas para el equipo de trabajo, nuestro grupo ha decidido de forma unanime que el mejor medio de reunión mediante videoconferencia era con el uso de las herramientas de la aplicación "Discord" junto a la aplicación "Google Meet". Esto debido a que todos tenemos conocimiento sobre el uso de ambas aplicaciones y las consideramos más cómodas y rápidas en comparación de otras aplicaciones de videoconferencia. Aunque Discord no tiene las mismas herramientas que otras aplicaciones tienen, consideramos que es mejor porque mantiene un acceso y comunicación más eficiente, tiene una interfaz más simple y directa, y porque no presenta limites de tiempo durante las reuniones. Por parte de Google Meet, aunque esta tiene varias limitaciones con respecto a los modelos de grabaciones, aún posee varias funciones que la vuelven una buena opción para el uso en videoconferencias de larga duración, como su modelo de compartir pantalla, chat directo y pizarra.
+**Reuniones de Trabajo:** En cuanto a la organización de las reuniones para nuestro equipo de trabajo, hemos llegado a una decisión unánime sobre los medios de videoconferencia más adecuados: hemos optado por utilizar tanto la aplicación "Discord" como "Google Meet". Esta elección se basa en varios factores que consideramos importantes para garantizar reuniones eficientes y productivas.
+
+En primer lugar, "Discord" ha sido seleccionado por su accesibilidad y familiaridad para todos los miembros del equipo. Todos estamos familiarizados con esta plataforma, lo que facilita la comunicación y el acceso a las reuniones de manera rápida y sencilla. Aunque Discord puede carecer de algunas herramientas avanzadas presentes en otras aplicaciones de videoconferencia, su interfaz simple y directa nos permite mantener una comunicación eficiente sin complicaciones. Además, su flexibilidad en cuanto a la duración de las reuniones, al no tener límites de tiempo, nos brinda la libertad de discutir temas en profundidad sin interrupciones.
 
 - Página oficial de Discord: https://discord.com/ 
+
+Por otro lado, "Google Meet" ha sido seleccionado por su conjunto de características que complementan nuestras necesidades durante las videoconferencias. A pesar de algunas limitaciones en cuanto a la grabación de reuniones, Google Meet ofrece herramientas útiles como el intercambio de pantalla, el chat directo y la función de pizarra, que son esenciales para colaborar y compartir información de manera efectiva durante las reuniones de larga duración. Estas características adicionales compensan las limitaciones y hacen que Google Meet sea una opción sólida para nuestras necesidades de videoconferencia.
+
 - Página oficial de Google Meet: https://meet.google.com/
 
 **Control de Versiones:** Con respecto al control de versiones que presentara nuestro equipo de trabajo, nuestro grupo a utilizado las propias herramientas de "Github" dentro de la organización de todo el proyecto. A través del uso de commits y pull request, cada miembro del equipo puede apoyar en el desarrollo y, a través del historial, revisar las antiguas versiones antes de los cambios propuestos.
@@ -25,9 +30,15 @@ Esta sección respecta a la organización y control del proyecto durante todo su
 
 #### Requirements Management:
 
-Con respecto a la organización del trabajo para cada miembro del equipo, nuestro grupo a utilizado las herramientas provistas por la aplicación web "Trello" junto a la aplicación "PivotalTracker". Esto debido a que estas aplicaciones permiten la separación de actividades entre varios miembros de trabajo junto al uso de fechas límite, apoyos y el estado de cada actividad, midiendo requisitos y requerimientos rapidamente. Trello permite revisar todo el rendimiento en conjunto y las actividades realizadas por cada usuario, además de seguir horarios fijos en todo momento con los Task Board. PivotalTracker utiliza grupos centralizados con notas utilizando medidas de rendimiento conjunto junto a modelos de guía sobre lo que hizo cada miembro del equipo en cada sección con respecto al Product Backlog.
+Esta sección respecta a la organización eficiente del trabajo de cada miembro del equipo con tareas y modelos ya estipulados para cada sección del trabajo que les sea respectiva. De esta forma podemos seguir el rendimiento y desempeño de cada miembro del equipo de trabajo, junto a las funciones que cumplieron adecuadamente.
+
+Para garantizar una organización eficiente del trabajo de cada miembro del equipo, hemos optado por utilizar herramientas específicas que faciliten la asignación de tareas, el seguimiento del progreso y la gestión de los requisitos y requerimientos del proyecto.
+
+En primer lugar, hemos integrado la aplicación web "Trello" en nuestra metodología de trabajo. Trello proporciona una interfaz intuitiva que permite la separación clara de actividades entre varios miembros del equipo. Mediante la creación de tableros personalizados y la asignación de tarjetas a cada tarea, podemos definir fechas límite, asignar responsables y seguir el estado de cada actividad de manera efectiva. Esto nos permite medir rápidamente el progreso en relación con los requisitos y requerimientos del proyecto. Además, Trello nos brinda la capacidad de revisar el rendimiento en conjunto y las actividades realizadas por cada usuario, lo que fomenta la transparencia y la colaboración dentro del equipo.
 
 - Página oficial de Trello: https://trello.com/es
+
+Además de Trello, hemos incorporado la aplicación "PivotalTracker" en nuestro proceso de organización del trabajo. PivotalTracker utiliza un enfoque centrado en el Product Backlog, permitiéndonos crear y gestionar historias de usuario y tareas de manera centralizada. Esta herramienta nos proporciona notas detalladas sobre las actividades realizadas por cada miembro del equipo en cada sección del backlog, lo que nos permite mantener un registro claro de los avances y contribuciones individuales. Además, PivotalTracker utiliza medidas de rendimiento conjunto para evaluar el progreso general del proyecto y garantizar que se cumplan los objetivos establecidos.
 
 - Página oficial de PivotalTracker: https://www.pivotaltracker.com/ 
 
@@ -37,17 +48,23 @@ Con respecto a la organización del trabajo para cada miembro del equipo, nuestr
 
 Esta sección respecta al desarrollo y diseñado de las secciones basadas en el UX y UI correspondientes a nuestro proyecto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan modificar la estetica de todas las páginas que vamos a programar y como estas se verían para nuestros clientes finales, siguiendo las historias de usuario y toda metodologia de desarrollo web. Asimismo, estas herramientas también deben permitir la estructuración y diagramación de todas las tablas y organizadores necesarios.
 
-**Mapas:** Con respecto al diseñado de todos los diagramas referentes a mapas con seguimientos, como el Empathy Map, el Journey Map y el Impact Map, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta mantiene un estilo de diseñado mucho más cómodo en comparación con otras aplicaciones. Asimismo, permite el desarrollo en colaboración de forma rápida y precisa.
+**Mapas y User Personas:** En relación al diseño de los diagramas relacionados con el seguimiento de mapas, como el Empathy Map, el Journey Map y el Impact Map, hemos llegado a la conclusión unánime de que la plataforma "UXPressia" es la opción más adecuada para llevar a cabo esta tarea. Esta decisión se basa en varios aspectos que consideramos esenciales para un diseño eficaz y colaborativo.
 
-**User Personas:** Con respecto al diseñado de nuestros User Persona para cada segmento objetivo identificado para nuestra startup y nuestro producto, hemos decidido desarrollarlos en la plataforma de "UXPressia", puesto que esta posee herramientas que, aunque no son muy cómodas en el desarrollo de gráficos grandes y diagramas, sí mantiene formatos agradables con modelos ya realizados con los que guiarnos para nuestros User Persona.
+"UXPressia" se destaca por ofrecer un estilo de diseño más cómodo y amigable en comparación con otras aplicaciones disponibles en el mercado. Su interfaz intuitiva y sus herramientas integradas facilitan la creación de mapas con seguimientos de manera rápida y precisa. Además, la plataforma permite el desarrollo colaborativo, lo que nos permite trabajar en equipo de manera eficiente y coordinada, garantizando la coherencia y la calidad de nuestros mapas.
+
+En cuanto al diseño de User Personas para cada segmento objetivo identificado para nuestra startup y producto, también hemos optado por utilizar la plataforma "UXPressia". Aunque reconocemos que otras herramientas pueden ofrecer características más avanzadas, encontramos que "UXPressia" proporciona modelos predefinidos y formatos agradables que nos permiten crear User Personas de manera efectiva y visualmente atractiva. Aunque puede haber algunas limitaciones en el desarrollo de gráficos grandes y diagramas complejos, las características y la usabilidad general de la plataforma compensan estos aspectos.
 
 - Página oficial de UXPressia: https://uxpressia.com/ 
 
-**Escenarios:** Con respecto al modelado de todos los escenarios AS-IS y TO-BE y a todo el camino de acciones que realiza el cliente para poder cumplir sus necesidades con o sin la aplicación de SportEase, hemos utilizado la aplicación de diseño de Miro. Esta herramienta posee varios modelos de los que guiarnes para realizar todas las tablas, además de que permite el trabajo colaborativo y mantiene una interfaz bastante cómoda y sencilla de manipular.
+**Escenarios:** Para la realización de escenarios correspondientes al AS-IS y TO-BE para nuestros segmentos de mercado ya diseñados, hemos utilizado la aplicación web de "Miro", la cual es una herramienta muy versátil que ofrece una amplia gama de funcionalidades para el modelado de escenarios AS-IS y TO-BE, así como para el mapeo de todo el camino de acciones que realiza el cliente. Su variedad de plantillas y modelos facilita la creación de tablas y diagramas de manera efectiva y visualmente atractiva.
+
+Además, la capacidad de trabajo colaborativo de Miro es una ventaja significativa, ya que permite que varios miembros del equipo contribuyan en tiempo real al desarrollo y refinamiento de los escenarios y tablas. Esta función fomenta la colaboración y la participación activa de todo el equipo, lo que puede conducir a una mayor calidad en los resultados finales. La interfaz cómoda y sencilla de manipular de Miro también es un punto a favor, ya que facilita la navegación y el uso de la herramienta, lo que permite a los usuarios concentrarse en la tarea de modelado sin distracciones innecesarias.
 
 - Página oficial de Miro: https://miro.com/ 
 
-**Wireframes, Mock-ups y Prototypes:** Con respecto al diseñado de los wireframes y mock-ups referentes a la landing page de nuestra startup junto a todas las pestañas de la aplicación web con sus modelos de Responsive Design y a los modelos especializados para los Prototypes, nuestro grupo ha decidido utilizar la plataforma de "Figma", la cual esta especializada en el diseño de aplicaciones y páginas web junto a la forma en la que se verían para nuestros clientes, además de realizar un seguimiento entre cada página. Asimismo, permite el desarrollo colaborativo y ya trae muchos modelos para landing page y aplicaciones que nuestro equipo puede usar para guiarse.
+**Wireframes, Mock-ups y Prototypes:** Para abordar el diseño de los wireframes, mock-ups y prototipos relacionados con la landing page de nuestra startup y todas las pestañas de la aplicación web respectiva al frontend, nuestro equipo ha tomado la decisión unánime de utilizar la plataforma "Figma". Esta elección se basa en varios factores clave que consideramos fundamentales para garantizar un proceso de diseño eficiente y efectivo. Figma es una herramienta especializada en el diseño de aplicaciones y páginas web que ofrece una amplia gama de funcionalidades diseñadas específicamente para satisfacer las necesidades de los diseñadores y desarrolladores de productos digitales. Su enfoque centrado en el diseño colaborativo y la creación de prototipos interactivos la convierte en la opción ideal para nuestro proyecto.
+
+Además, Figma facilita el desarrollo colaborativo al permitir que varios miembros del equipo trabajen en un proyecto simultáneamente. Esta funcionalidad no solo mejora la eficiencia y la productividad, sino que también fomenta la comunicación y la colaboración entre los miembros del equipo. Otro aspecto destacado de Figma es su extensa biblioteca de recursos y modelos predefinidos que nuestro equipo puede utilizar como punto de partida para nuestros diseños. Estos modelos proporcionan una base sólida sobre la cual construir nuestras ideas y conceptos, lo que nos ayuda a ahorrar tiempo y esfuerzo en el proceso de diseño.
 
 - Página oficial de Figma: https://figma.com/ 
 
@@ -57,33 +74,123 @@ Esta sección respecta al desarrollo y diseñado de las secciones basadas en el 
 
 Esta sección respecta al desarrollo y diseñado de las secciones basadas en la arquitectura del producto durante todo su ciclo de vida. Las herramientas utilizadas deben estar compuestas de varias aplicaciones con estilos varios que permitan la diagramación de esquemas complejos y completos sobre cada una de las capas de la arquitectura que mostrara nuestra solución, identificando todos sus componentes junto a los framework, IDEs y lenguajes de programación a utilizar.
 
-**Diagramas C4:** Con respecto al diseñado de todos los diagramas C4 referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para personas tanto técnicas como no técnicas en el área, nuestro grupo de trabajo ha decidido utilizar "Structurizr", puesto que esta plataforma tiene modelos muy optimizados y especializados en el desarrollo de diagramas C4 en comparación a otros programas ya visualizados. Asimismo, el equipo de trabajo tiene más experiencia en este programa.
+**Diagramas C4:** Para abordar el diseño de todos los diagramas C4 relacionados con nuestro proyecto, nuestro grupo de trabajo ha llegado a una decisión unánime de utilizar la plataforma "Structurizr". Esta elección se basa en varios aspectos clave que consideramos fundamentales para garantizar un modelado claro y comprensible tanto para personas técnicas como no técnicas en el área. "Structurizr" se destaca por ofrecer modelos optimizados y especializados en el desarrollo de diagramas C4, lo que la convierte en una opción ideal para nuestro proyecto. Su enfoque centrado en la arquitectura y la visualización de sistemas complejos facilita la creación de diagramas claros y concisos que pueden ser entendidos por todos los miembros del equipo, independientemente de su nivel de experiencia técnica. Además, el equipo de trabajo tiene más experiencia en el uso de "Structurizr" en comparación con otros programas ya visualizados. Esto nos proporciona una ventaja adicional, ya que nos permite aprovechar al máximo todas las funcionalidades y características que ofrece la plataforma.
 
 - Página oficial de Structurizr: https://structurizr.com/
 
-**Diagrama UML:** Con respecto al diseñado de todos los diagramas UML referentes a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para programadores expertos, nuestro grupo de trabajo ha decidido utilizar "LucidChart", puesto que esta es una plataforma especializada en el desarrollo de diagramas de este estilo, mostrando instrumentos adecuadas para toda la diagramación y separación de partes con grupos de trabajo.
+**Diagrama UML:** Para abordar el diseño de todos los diagramas UML relacionados con nuestro proyecto y asegurar una representación precisa y detallada de la arquitectura del software, nuestro grupo de trabajo ha tomado una decisión unánime: utilizaremos "LucidChart". Esta plataforma se destaca por su especialización en el desarrollo de diagramas UML, lo que la convierte en la opción ideal para nuestras necesidades de modelado. "LucidChart" ofrece una amplia gama de herramientas y características diseñadas específicamente para la creación de diagramas UML, lo que nos permite representar de manera clara y concisa cada aspecto de la arquitectura de nuestro software. Su interfaz intuitiva y su conjunto completo de instrumentos hacen que el proceso de diagramación sea eficiente y productivo.
+
+Además, "LucidChart" ofrece herramientas avanzadas para la organización y separación de partes en los diagramas UML, lo que nos permite estructurar y documentar de manera efectiva cada aspecto de nuestra arquitectura de software. Esto es fundamental para garantizar la comprensión y la comunicación claras entre los programadores expertos involucrados en el proyecto.
 
 - Página oficial de LucidChart: https://lucidchart.com/
 
-**Database Design:**  Con respecto al diseñado de la base de datos referente a nuestro proyecto, siguiendo los esquemas necesarios y modelando todo para nuestro equipo de gestión y desarrollo de bases de datos, nuestro grupo ha decidido utilizar "Vertabelo", debido a que esta aplicación web cumple con todos los requisitos necesarios para el diseñado de bases de datos sencillas y de forma bastante rápida en comparación con otros programas.
+**Database Design:** Para abordar el diseño de la base de datos de nuestro proyecto y garantizar una estructura óptima que cumpla con las necesidades de nuestro equipo de gestión y desarrollo de bases de datos, hemos decidido utilizar "Vertabelo". Esta aplicación web se ha destacado por cumplir con todos los requisitos necesarios para el diseño de bases de datos de manera eficiente y rápida, lo que la convierte en la opción ideal para nuestro proyecto. "Vertabelo" ofrece una amplia gama de herramientas y funcionalidades diseñadas específicamente para el diseño de bases de datos. Su interfaz intuitiva y su conjunto completo de herramientas facilitan la creación de esquemas claros y concisos que pueden ser entendidos por todos los miembros del equipo, independientemente de su nivel de experiencia técnica.
+
+Asimismo, "Vertabelo" permite la colaboración entre los miembros del equipo, lo que facilita la comunicación y la colaboración en el diseño y la implementación de la base de datos. Esta función es especialmente útil para un equipo distribuido como el nuestro, ya que nos permite trabajar juntos de manera efectiva.
 
 - Página oficial de Vertabelo: https://vertabelo.com/
 
-4. Software Development:
+---
 
-   
-Para el desarrollo de software se utilizó HTML5, CSS3 y JavaScript para el desarrollo de la Landing Page de la startup, por otro lado, para la creación del Web Application de la startup se utilizarán el framework de Vue por el lado del Frontend y en el Backend se utilizará ASP.NET Core Framework y C#.
+#### Software Development:
 
-Para trabajar con estas tecnologías, se emplearon los siguientes IDEs:
-Visual Studio Code: Herramienta principal para el desarrollo Frontend y Backend, que ofrece una amplia gama de extensiones para mejorar la productividad del equipo. (En nuestro caso solo fue utilizado para la Landing Page).
-JetBrains Toolbox: Proporciona un entorno integrado para el desarrollo web, con características avanzadas de edición y depuración que faciitan la creación de aplicaciones web robustas.
-- Visual Studio Code: https://code.visualstudio.com/
-- JetBrains Toolbox: https://www.jetbrains.com/toolbox-app/
+Esta sección respecta a las herramientas y aplicaciones dadas para la programación de las páginas web correspondientes a la Landing Page y a la Web Applications de nuestro proyecto durante todo su ciclo de vida. Los instrumentos utilizados deben estar compuestos de IDEs, lenguajes de programación, bibliotecas y frameworks, puesto que deben seguir todos los principios y metodologías predispuestas en todo el proyecto, además de adecuarse a todas las historias de usuario, esquemas y diagramas planteados para cumplir los objetivos de nuestra startup y seguir todas las funcionalidades que buscan nuestros segmentos objetivos.
 
-5. Software Documentation:
-La documentación del software se realizó utilizando GitHub, además de ser utilizado como plataforma de control de versiones, GitHub también se empleó para alojar la documentación técnica del proyecto. Se crearon repositorios específicos para almacenar toda la información. La documentación se gestionó mediante archivos Markdown para facilitar la creación y edición colaborativa.
-- GitHub: https://github.com/
+**Landing Page:** En el proceso de desarrollo de la landing page, se emplearán diversas herramientas con el fin de garantizar su programación y esquematización de manera efectiva. En cuanto al lenguaje de programación, se optará por la combinación e implementación de HTML5, CSS3 y JavaScript, cada uno con su propia sección dedicada en el repositorio del grupo. Esta elección se fundamenta en la versatilidad y la amplia gama de funcionalidades que ofrecen estos lenguajes, siendo indispensables para la creación de páginas web aptas para un entorno de producción.
 
+El diseño de la landing page estará orientado conforme al modelo del Material Design, un enfoque reconocido por su claridad y coherencia en la presentación de interfaces de usuario. Al seguir estas directrices de diseño, se busca garantizar una experiencia de usuario óptima y atractiva.
+
+Para el desarrollo y la edición del código, se utilizará Visual Studio Code como IDE principal. Este entorno de desarrollo, aunque sencillo, ofrece una amplia gama de funcionalidades y extensiones que facilitan el proceso de desarrollo. Si bien es cierto que Visual Studio Code es ideal para proyectos estáticos de menor complejidad y alcance en comparación con otras IDEs más robustas, su simplicidad y facilidad de uso lo convierten en una opción adecuada para el desarrollo de la landing page.
+
+- Página oficial de Visual Studio Code: https://code.visualstudio.com/
+
+- Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+
+- Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
+
+- Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+- Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
+
+**Frontend Web Application:** En el proceso de desarrollo de la aplicación web frontend, se emplearán una variedad de herramientas para garantizar su programación eficiente y una esquematización adecuada, en armonía con el diseño conjunto de múltiples componentes. Para ello, se optará por el Framework proporcionado por Vue, el cual ofrece una sólida base para el desarrollo de software y una estructura de programación eficaz. Este Framework, combinado con la versatilidad y potencia de HTML5, CSS3 y JavaScript, conformará el núcleo de la implementación técnica. Además, se incorporará TypeScript para el desarrollo de los aspectos estáticos de los templates, contribuyendo así a la robustez y mantenibilidad del código.
+
+En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma proporcionada por el grupo de aplicaciones JetBrains Toolbox. Estas herramientas se distinguen por su robustez y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance. JavaScript será el principal lenguaje de programación empleado dentro de esta IDE, permitiendo un desarrollo ágil y eficiente.
+
+El enfoque de diseño estará basado en el modelo del Material Design, que proporciona pautas claras y consistentes para la creación de interfaces de usuario atractivas y funcionales. Para materializar este diseño, se recurrirá a la biblioteca de materiales y componentes de UI PrimeVue. Esta elección se fundamenta en su compatibilidad con el Framework de Vue, lo que garantiza una integración fluida y eficaz, así como una rápida implementación de la aplicación web en su totalidad.
+
+- Página oficial de Vue.js: https://vuejs.org/
+
+- Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
+
+- Página oficial de Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
+
+- Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+
+- Página de guía y seguimiento para CSS3: https://www.w3schools.com/css/default.asp
+
+- Página de guía y seguimiento para JavaScript: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+- Página de guía y seguimiento para TypeScript: https://www.typescriptlang.org/
+
+- Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
+
+**Web Services:** En el proceso de desarrollo de los Web Services, es fundamental adoptar modelos y metodologías que faciliten la programación eficiente y la implementación de un Backend robusto y de alto rendimiento. Para ello, se prevé utilizar frameworks que cuenten con bibliotecas preimplementadas y que permitan una integración fluida de los servicios web.
+
+El estilo de aplicación seleccionado será el RESTful API Architectural Style, reconocido por su capacidad para ofrecer una comunicación rápida y directa entre clientes y servidor, así como por su adopción generalizada de buenas prácticas de diseño y seguridad. Este enfoque garantiza un Backend sólido y escalable, además de facilitar la adopción de prácticas de desarrollo consistentes y seguras.
+
+En cuanto al framework de desarrollo, se optará por ASP.NET Core, una plataforma versátil y potente que ofrece un conjunto completo de herramientas para la creación de servicios web en el entorno .NET. Al combinar ASP.NET Core con el lenguaje de programación C#, se obtiene un entorno de desarrollo robusto y resistente, capaz de manejar las demandas de un backend de alto rendimiento de manera eficiente. En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma proporcionada por el grupo de aplicaciones JetBrains Toolbox. Estas herramientas se distinguen por su robustez y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance.
+
+Para la documentación de los servicios web, se utilizará el modelo Swagger proporcionado por OpenAPI Specification. Este modelo se ha establecido como un estándar en la industria y ofrece una forma estructurada y coherente de documentar APIs, lo que facilita su comprensión y utilización tanto para desarrolladores internos como externos. Además, Swagger permite un registro rápido de los cambios en la API durante el desarrollo, lo que resulta invaluable para mantener la documentación actualizada y precisa en todo momento.
+
+- Página oficial de Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
+
+- Página oficial de ASP.NET Core: https://dotnet.microsoft.com/es-es/apps/aspnet
+
+- Página oficial de Swagger: https://swagger.io/ 
+
+- Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
+
+- Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
+
+---
+
+#### Software Testing:
+
+Esta sección corresponde a las herramientas y aplicaciones dadas para la programación de modelos de testeo para todo el código que vamos a implementar, de forma que pueda garantizar el correcto funcionamiento de todas las clases, componentes, métodos de comunicación, etc. Los instrumentos utilizados deben estar basados en un programa sencillo o en una metodologia que permita la comprobación correcta de todas las funcionalidades de un código en varios escenarios distintos.
+
+Como usamos el editor de codigo Visual Studio Code podremos hacer uso de la extension Live Server. Con esta extensión, tenemos la capacidad de configurar un servidor local, lo que nos facilita la visualización inmediata de las modificaciones que realizamos en un navegador web como Microsoft Edge o Chrome. De esta forma no perdemos tiempo al realizar compilaciones o depuraciones inmediatas. Asimismo, con respecto a las pruebas de aceptación, utilizaremos las herramientas brindadas por la extensión de Cucumber ofrecida también por Visual Studio Code, siguiendo el modelo del esquema Gherkin para garantizar una estructura funcional y ya ordenada.
+
+- Página de marketplace de Live Server de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+- Página de marketplace de Cucumber de Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=CucumberOpen.cucumber-official
+
+- Guía de Cucumber para el modelo Gherkin: https://cucumber.io/docs/gherkin/
+
+---
+
+#### Software Deployment:
+
+Esta sección corresponde a las herramientas y aplicaciones dadas para el despliegue e implementación adecuada de todas las páginas web que se programaran a lo largo de todo el ciclo de vida de nuestro proyecto. Los instrumentos utilizados deben ser sencillos de comprender y deben mostrar confianza y garantía al momento de desplegar todas las páginas para que así ninguna de estas se caiga por el mal rendimiento, o terminen saliendo con formatos distintos a los propuestos.
+
+Para todo el despliegue necesario de la Landing Page, nuestro grupo va a utilizar el servicio dado de Github Pages, el cual otorga rendimiento rápido y garantía asegurada ante el uso de los repositorios que se encuentran en la misma plataforma. Asimismo, al ser una página estatica, la Landing Page no requiere muchos cambios y tampoco actualizaciones consecutivas y continuas. 
+
+- Página oficial de Github Pages: https://pages.github.com/
+
+---
+
+#### Software Document:
+
+Esta sección corresponde a las herramientas y aplicaciones dadas para la documentación precisa de todo el reporte de programación junto a la propia documentación del software durante todo el ciclo de vida de nuestro proyecto. Las herramientas utilizadas para este proceso deben ser sencillas de comprender y manipular para todos los miembros del equipo, además de que deben ser adecuadas para el uso de textos largos con grandes cantidades de informcación, junto a soportar imagenes y seguir buenos modelos de división en secciones.
+
+Para toda la documentación se utilizara un repositorio propio dentro de Github, el cual estara separado en varias ramas y se encontrara dentro de la propia organización del equipo de trabajo. Durante el proceso de escritura se debe usar el lenguaje de marcado de Markdown, de forma que se pueda garantizar la lectura en medios web a través de varios dispositivos y se pueda garantizar métodos de compresión y envio de data cifrada. Asimismo, con el fin de utilizar herramientas más especializadas, se usara el lenguaje HTML en ciertas secciones del desarrollo que no puedan ser escritas de forma cómoda y aceptable mediante Markdown, como, por ejemplo, las tablas de gran tamaño y división. 
+
+- Página oficial de Github: https://github.com/ 
+
+- Página de guía de uso de Markdown: https://www.markdownguide.org/ 
+
+- Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
+
+---
 
 ### 5.1.2 Source Code Management.
 
