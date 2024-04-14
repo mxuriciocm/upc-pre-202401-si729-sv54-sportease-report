@@ -112,17 +112,15 @@ Para el desarrollo y la edición del código, se utilizará Visual Studio Code c
 
 - Página de guía y seguimiento para el modelo del Material Design: https://m3.material.io/
 
-**Frontend Web Application:** En el proceso de desarrollo de la aplicación web frontend, se emplearán una variedad de herramientas para garantizar su programación eficiente y una esquematización adecuada, en armonía con el diseño conjunto de múltiples componentes. Para ello, se optará por el Framework proporcionado por Vue, el cual ofrece una sólida base para el desarrollo de software y una estructura de programación eficaz. Este Framework, combinado con la versatilidad y potencia de HTML5, CSS3 y JavaScript, conformará el núcleo de la implementación técnica. Además, se incorporará TypeScript para el desarrollo de los aspectos estáticos de los templates, contribuyendo así a la robustez y mantenibilidad del código.
+**Frontend Web Application:** En el proceso de desarrollo de la aplicación web frontend, se emplearán una variedad de herramientas para garantizar su programación eficiente y una esquematización adecuada, en armonía con el diseño conjunto de múltiples componentes. Para ello, se optará por el Angular Framework, el cual ofrece una sólida base para el desarrollo de software para frontend y una estructura de programación bastante eficiente. Este Framework, combinado con la versatilidad y potencia de HTML5, CSS3 y JavaScript, conformará el núcleo de la implementación técnica. Además, se incorporará TypeScript para el desarrollo de los aspectos estáticos de los templates, contribuyendo así a la robustez y mantenibilidad del código.
 
-En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma medida y proporcionada por Angular. Estas herramientas se distinguen por su alta resistencia a cambios, depuraciones y actualizaciones de código inmediatas y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance. JavaScript será el principal lenguaje de programación empleado dentro de esta IDE, permitiendo un desarrollo ágil y eficiente.
+En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma medida y proporcionada por Angular. Estas herramientas se distinguen por su alta resistencia a cambios, depuraciones y actualizaciones de código inmediatas y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance. TypeScript será el principal lenguaje de programación empleado dentro de esta IDE, permitiendo un desarrollo ágil y eficiente.
 
-El enfoque de diseño estará basado en el modelo del Material Design, que proporciona pautas claras y consistentes para la creación de interfaces de usuario atractivas y funcionales. Para materializar este diseño, se recurrirá a la biblioteca de materiales y componentes de UI PrimeVue. Esta elección se fundamenta en su compatibilidad con el Framework de Vue, lo que garantiza una integración fluida y eficaz, así como una rápida implementación de la aplicación web en su totalidad.
-
-- Página oficial de Vue.js: https://vuejs.org/
-
-- Página de especificación de Vue.js para la biblioteca de PrimeVue: https://primevue.org/
+El enfoque de diseño estará basado en el modelo del Material Design, que proporciona pautas claras y consistentes para la creación de interfaces de usuario atractivas y funcionales. Para materializar este diseño, se recurrirá a la biblioteca de materiales y componentes de UI dada por Angular Material. Esta elección se fundamenta en su compatibilidad con el Framework de Angular, lo que garantiza una integración fluida y eficaz, así como una rápida implementación de la aplicación web en su totalidad.
 
 - Página oficial de Angular: https://angular.io/
+
+- Página de especificación de Angular para la biblioteca de Angular Material: https://material.angular.io/
 
 - Página de guía y seguimiento para HTML5: https://www.w3schools.com/html/ 
 
@@ -138,17 +136,17 @@ El enfoque de diseño estará basado en el modelo del Material Design, que propo
 
 El estilo de aplicación seleccionado será el RESTful API Architectural Style, reconocido por su capacidad para ofrecer una comunicación rápida y directa entre clientes y servidor, así como por su adopción generalizada de buenas prácticas de diseño y seguridad. Este enfoque garantiza un Backend sólido y escalable, además de facilitar la adopción de prácticas de desarrollo consistentes y seguras.
 
-En cuanto al framework de desarrollo, se optará por ASP.NET Core, una plataforma versátil y potente que ofrece un conjunto completo de herramientas para la creación de servicios web en el entorno .NET. Al combinar ASP.NET Core con el lenguaje de programación C#, se obtiene un entorno de desarrollo robusto y resistente, capaz de manejar las demandas de un backend de alto rendimiento de manera eficiente. En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma proporcionada por el grupo de aplicaciones JetBrains Toolbox. Estas herramientas se distinguen por su robustez y son especialmente adecuadas para proyectos frontend de gran envergadura y alcance.
+En cuanto al framework de desarrollo, se optará por Spring Boot, un modelo cómodo y potente que ofrece un conjunto completo de herramientas para la creación de servicios web en grupo con Java. Al combinar Spring Boot con el lenguaje de programación Java, se obtiene un entorno de desarrollo robusto y resistente, capaz de manejar las demandas de un backend de alto rendimiento de manera eficiente. En cuanto al entorno de desarrollo integrado (IDE), se utilizará la plataforma proporcionada por el grupo de aplicaciones JetBrains Toolbox. Estas herramientas se distinguen por su robustez y son especialmente adecuadas para proyectos backend de gran resistencia y conexión avanzada.
 
 Para la documentación de los servicios web, se utilizará el modelo Swagger proporcionado por OpenAPI Specification. Este modelo se ha establecido como un estándar en la industria y ofrece una forma estructurada y coherente de documentar APIs, lo que facilita su comprensión y utilización tanto para desarrolladores internos como externos. Además, Swagger permite un registro rápido de los cambios en la API durante el desarrollo, lo que resulta invaluable para mantener la documentación actualizada y precisa en todo momento.
 
 - Página oficial de Jetbrains Toolbox: https://www.jetbrains.com/toolbox-app/
 
-- Página oficial de ASP.NET Core: https://dotnet.microsoft.com/es-es/apps/aspnet
+- Página oficial de Spring Boot: https://spring.io/projects/spring-boot
 
 - Página oficial de Swagger: https://swagger.io/ 
 
-- Página de guía y seguimiento para C#: https://learn.microsoft.com/es-es/dotnet/csharp/ 
+- Página de guía y seguimiento para Java: https://www.java.com/es/
 
 - Página de guía y seguimiento para el modelo REST: https://es.apis.support.brightcove.com/getting-started/learning-guide-using-rest-apis.html
 
@@ -463,7 +461,7 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 32</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 5</td>
         </tr>
     </table>
 
