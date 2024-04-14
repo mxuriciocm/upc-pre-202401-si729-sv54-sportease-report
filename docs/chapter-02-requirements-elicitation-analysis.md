@@ -1,7 +1,7 @@
 # Capítulo 2: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
-Nuestro proyecto está orientado en el desarrollo de un sistema de software que ofrece un enfoque adaptable e integral para la gestión de academias y/o clubes deportivos, mostrando apoyo a los deportista y entrenadores, proporcionando información detallada y actualizada sobre horarios, eventos, desempeño, etc. En base a estas características especiales de nuestro aplicativo, hemos realizado una búsqueda, presentación y análisis de algunos posibles competidores potenciales que podrían hacernos frente después de la salida de nuestro producto al mercado, además de entorpecer el futuro y seguridad económica de nuestra startup. Este grupo de competidores pueden llegar a ser notorias amenazas para nuestro equipo de trabajo, puesto que poseen mejores conocimientos en el mundo de la programación de aplicativos web, marketing y finanzas, además de que poseen equipos de trabajo más profesionales y multidisciplinarios que el nuestro. Estos competidores a resaltar son los siguientes:
+Nuestro proyecto está orientado en el desarrollo de un sistema de software que ofrece un enfoque adaptable e integral para la gestión de academias y/o clubes deportivos, mostrando apoyo a los deportistas y entrenadores, proporcionando información detallada y actualizada sobre horarios, eventos, desempeño, etc. En base a estas características especiales de nuestro aplicativo, hemos realizado una búsqueda, presentación y análisis de algunos posibles competidores potenciales que podrían hacernos frente después de la salida de nuestro producto al mercado, además de entorpecer el futuro y seguridad económica de nuestra startup. Este grupo de competidores pueden llegar a ser notorias amenazas para nuestro equipo de trabajo, puesto que poseen mejores conocimientos en el mundo de la programación de aplicativos web, marketing y finanzas, además de que poseen equipos de trabajo más profesionales y multidisciplinarios que el nuestro. Estos competidores a resaltar son los siguientes:
 
 ### TeamSnap:
 
@@ -15,13 +15,13 @@ Entre sus funcionalidades más importantes se destacan:
 
 * Gestión de listas de asistencia: Tiene pizarras programadas de forma profunda para realizar el seguimiento de la asistencia de los miembros del equipo a eventos y actividades deportivas y enviarlo directamente al entrenador del grupo.
 
-* Comunicación en equipo: Proporciona herramientas para la comunicación fácil y rápida entre los miembros del equipo, como mensajes directos, correos electrónicos y notificaciones push directas. Esto la vuelva una aplicación más deseable y útil en comparación a otros programas como WhatsApp, Telegram o Messenger.
+* Comunicación en equipo: Proporciona herramientas para la comunicación fácil y rápida entre los miembros del equipo, como mensajes directos, correos electrónicos y notificaciones push directas. Esto la vuelve una aplicación más deseable y útil en comparación a otros programas como WhatsApp, Telegram o Messenger.
 
 * Gestión de listas de tareas: Mantiene secciones con formato abierto que permiten asignar y gestionar tareas específicas para los miembros del equipo, como responsabilidades de equipo, asignaciones de juego, etc. Esto se ve tanto para deportistas como para entrenadores del equipo.
 
 * Gestión de la lista de contactos: Mediante columnas ya definidas con opciones personalizadas, esta aplicación permite la organización de la información de contacto de los miembros del equipo, entrenadores, padres, etc. Esto puede ser útil para situaciones de necesidad y hasta de emergencia.
 
-* Gestión financiera: Mediante un seguimiento de calendarios junto a la informacación provista por la academia, esta aplicación posee características para gestionar las finanzas del equipo, como la recopilación de pagos de cuotas, donaciones, etc.
+* Gestión financiera: Mediante un seguimiento de calendarios junto a la información provista por la academia, esta aplicación posee características para gestionar las finanzas del equipo, como la recopilación de pagos de cuotas, donaciones, etc.
 
 * Análisis y reportes: Provee herramientas a base de análisis y generación de data para reportes sobre el desempeño del equipo y la organización, incluyendo análisis de asistencia, informes financieros, y otros datos relevantes para la toma de decisiones y la planificación estratégica.
 
@@ -55,7 +55,7 @@ Entre sus funcionalidades más importantes se destacan:
 
 * Registro y seguimiento médico: Facilita el registro y seguimiento de información médica de los jugadores, incluyendo historiales médicos, alergias, lesiones, medicamentos, tratamientos y autorizaciones médicas, para garantizar la seguridad y el bienestar de los miembros del equipo.
 
-De esta forma, el segmento de mercado de esta aplicación puede mantener una gestión bastante segura y completa sobre todos los avances deportivos que mantienen en sus equipos y organizaciones deportives, manteniendo control y orgranización sobre cada aspecto referente al desempeño de sus estudiantes, su estado médico, los pagos realizados, los horarios provistos para las clases y talleres, los campeonatos, etc.
+De esta forma, el segmento de mercado de esta aplicación puede mantener una gestión bastante segura y completa sobre todos los avances deportivos que mantienen en sus equipos y organizaciones deportivas, manteniendo control y organización sobre cada aspecto referente al desempeño de sus estudiantes, su estado médico, los pagos realizados, los horarios previstos para las clases y talleres, los campeonatos, etc.
 
 ---
 
@@ -73,7 +73,7 @@ Entre sus funcionalidades más importantes se destacan:
 
 * Sistema de punto de venta (POS): Ofrece un sistema de punto de venta integrado para procesar pagos, ventas de productos, membresías y paquetes de servicios, y gestionar inventario. Esto lo realiza mediante el uso de formularios especializados y secciones con guardado de información importante.
 
-* Gestión de membresías y paquetes: Permite a los negocios ofrecer membresías, suscripciones y paquetes de servicios con opciones de pago flexibles y seguimiento automático de la asistencia y vencimientos. Los pagos estan divididos según el modelo de suscripción estipulado.
+* Gestión de membresías y paquetes: Permite a los negocios ofrecer membresías, suscripciones y paquetes de servicios con opciones de pago flexibles y seguimiento automático de la asistencia y vencimientos. Los pagos están divididos según el modelo de suscripción estipulado.
 
 * Gestión de personal y horarios: Permite a los negocios gestionar el horario del personal, asignar turnos de trabajo, realizar seguimiento de la asistencia y el rendimiento, y gestionar nóminas y compensaciones.
 
@@ -99,7 +99,7 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una org
 			<td colspan="6">Competitive Analysis Landscape</td>
 		</tr>
 		<tr>
-			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
+			<td colspan="2">¿Por qué llevar a cabo este análisis?</td>
 			<td colspan="4">El objetivo de este análisis es investigar a detalle las características principales y las propuestas de valor que ofrecen otras empresas que tienen el objetivo de brindar una solución a nuestra misma problemática. Así, podremos encontrar una forma viable y consistente con la que podremos diferenciarnos de ellos.</td>
 		</tr>
 		<tr>
@@ -402,15 +402,15 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 **Para Alumnos o Deportistas:**
 
-1. ¿Qué deporte(s) practicas actualmente en tu academia deportiva?
+1. ¿Qué deporte(s) prácticas actualmente en tu academia deportiva?
 2. Cuéntame sobre tu experiencia en tu academia deportiva hasta ahora. ¿Cómo describirías la gestión y organización de las actividades y horarios?
 3. ¿Has experimentado algún problema con la organización de las clases o eventos deportivos en tu academia? ¿Qué tipo de dificultades has enfrentado?
-4. ¿Te resultaría útil tener una herramienta digital que te permita acceder fácilmente a información sobre tus clases, horarios y eventos deportivos?
+4. ¿Te resultaría útil tener una herramienta digital que te permite acceder fácilmente a información sobre tus clases, horarios y eventos deportivos?
 5. ¿Qué opinas sobre la idea de utilizar una aplicación como SportEase para gestionar y organizar tus actividades deportivas en la academia?
 6. ¿Qué características crees que serían más importantes para ti en una aplicación diseñada para estudiantes y entrenadores en el ámbito deportivo?
 7. ¿Cómo crees que una aplicación como SportEase podría mejorar tu experiencia en la academia deportiva?
 8. ¿Te gustaría tener la capacidad de realizar un seguimiento de tu progreso deportivo a través de una aplicación? ¿Por qué sí o por qué no?
-9. ¿Cómo te sientes acerca de la idea de tener una herramienta digital que te permita comunicarte de manera más eficiente con tus entrenadores y compañeros de equipo?
+9. ¿Cómo te sientes acerca de la idea de tener una herramienta digital que te permite comunicarte de manera más eficiente con tus entrenadores y compañeros de equipo?
 10. ¿Hay algo más que te gustaría compartir sobre tu experiencia en tu academia deportiva y cómo crees que podría mejorarse la gestión y organización de las actividades deportivas?
 
 ### 2.2.2 Registro de entrevistas
@@ -428,7 +428,7 @@ Datos principales:
 - Distrito: Chorrillos, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/ESHIRWZeoLFOm1qSJy3ZHQYBEizGoWUlKxgNtvcvdC7OHg?e=g5UOP4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Inicio de entrevista: 0:01 minutos
-- Duracion: 4:36 minutos
+- Duración: 4:36 minutos
 
 Entrevista N°2:
 
@@ -441,12 +441,12 @@ Datos principales:
 - Distrito: Surco, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/EffjBRAaim5PuFItczdgHWUBD-QXtQA79rQc__lMVKyY7Q?e=G63dJR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Inicio de entrevista: 0:01 minutos
-- Duracion: 4:28 minutos
+- Duración: 4:28 minutos
 
 
 Entrevista N°3:
 
-IMAGEN (CAPTURA DEL LA ENTREVISTA)
+IMAGEN (CAPTURA DE LA ENTREVISTA)
 
 Datos principales:
 
@@ -455,7 +455,7 @@ Datos principales:
 - Distrito:
 - Link:
 - Inicio de entrevista:
-- Duracion:
+- Duración:
 
 
 Alumnos o Deportistas
@@ -471,7 +471,7 @@ Datos principales:
 - Distrito: Los Olivos, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EaGiU3ioCtBDtUPCzPgUPswBAHqRvKFJJ514qpWHhoR7CQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ii0bzJ
 - Inicio de entrevista: 0:01 minutos
-- Duracion: 5:16 minutos
+- Duración: 5:16 minutos
 
 
 Entrevista N°2:
@@ -482,10 +482,10 @@ Datos principales:
 
 - Nombre completo del entrevistado: Renzo Silva
 - Edad: 19
-- Distrito: Santago de Surco, Lima
+- Distrito: Santiago de Surco, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/ERhcTzppEiVAqwKgyaUoZGYBHvC72RmXiAdELWTpMt4vFg?e=m7dQZw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - Inicio de entrevista: 0:01 minutos
-- Duracion: 5:23 minutos
+- Duración: 5:23 minutos
 
 
 Entrevista N°3:
@@ -499,13 +499,13 @@ Datos principales:
 - Distrito: Chorrillos, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210190_upc_edu_pe/ER-4cmYthSBPpEQ48lpyU5wBfnIm45R92ErKbvFivbx7jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EDs9FL
 - Inicio de entrevista: 0:21
-- Duracion: 9:37
+- Duración: 9:37
 
 ### 2.2.3 Análisis de entrevistas
 
 **Análisis con respecto al segmento de Dueño de Academia:**
 
-Durante las entrevistas con los propietarios de academias deportivas, surgieron una serie de temas que destacaron la urgente necesidad de contar con herramientas efectivas para promover, gestionar y organizar sus establecimientos deportivos. Los propietarios expresaron inquietudes significativas sobre la complejidad en la elaboración de horarios, identificando este aspecto como un desafío recurrente que impactaba tanto en la satisfacción del cliente como en la eficiencia operativa de la academia. Esta problemática no solo generaba malestar entre los segmentos objetivo de la academia, sino que también obstaculizaba su capacidad para operar de manera fluida y efectiva. Además, la comunicación limitada a través de plataformas como WhatsApp resultaba insuficiente para facilitar una coordinación eficaz entre el personal y los clientes, exacerbando la situación.
+Durante las entrevistas con los propietarios de academias deportivas, surgieron una serie de temas que destacaron la urgente necesidad de contar con herramientas efectivas para promover, gestionar y organizar sus establecimientos deportivos. Los propietarios expresaron inquietudes significativas sobre la complejidad en la elaboración de horarios, identificando este aspecto como un desafío recurrente que impacta tanto en la satisfacción del cliente como en la eficiencia operativa de la academia. Esta problemática no solo generaba malestar entre los segmentos objetivo de la academia, sino que también obstaculiza su capacidad para operar de manera fluida y efectiva. Además, la comunicación limitada a través de plataformas como WhatsApp resultaba insuficiente para facilitar una coordinación eficaz entre el personal y los clientes, exacerbando la situación.
 
 Para abordar estos desafíos, los propietarios recomendaron la adopción de sistemas ya optimizados y de alto rendimiento que permitieran una comunicación directa y sin limitaciones para los clientes, proporcionando un canal rápido y directo para que estos puedan plantear sus inquietudes y consultas al personal de la academia. Asimismo, enfatizaron la importancia de una interfaz agradable y cómoda para evitar abrumar o desinteresar a los clientes durante su interacción con la aplicación.
 
@@ -519,11 +519,11 @@ En resumen, la perspectiva del dueño de academia ofreció valiosos insights sob
 
 **Análisis con respecto al segmento de Deportistas:**
 
-Las entrevistas con los deportistas actualmente inscritos en una academia deportiva proporcionaron una visión más detallada sobre los desafíos específicos que enfrentan los clientes en este entorno. Los deportistas compartieron sus experiencias personales, destacando la falta de organización en los horarios como uno de los principales problemas. Los cambios de última hora y la falta de claridad en cuanto a las actividades programadas generaban confusión y dificultaban su capacidad para participar plenamente en las actividades de la academia.
+Las entrevistas con los deportistas actualmente inscritos en una academia deportiva proporcionaron una visión más detallada sobre los desafíos específicos que enfrentan los clientes en este entorno. Los deportistas compartieron sus experiencias personales, destacando la falta de organización en los horarios como uno de los principales problemas. Los cambios de última hora y la falta de claridad en cuanto a las actividades programadas generaban confusión y dificultan su capacidad para participar plenamente en las actividades de la academia.
 
 Además, expresaron su frustración por depender exclusivamente de herramientas de comunicación como WhatsApp para cualquier cambio o actualización en los horarios. La falta de una plataforma centralizada para la comunicación y la gestión de horarios dificultaba su capacidad para mantenerse al día con los cambios y coordinar eficazmente su participación en las actividades de la academia.
 
-Los deportistas también manifestaron molestia por la falta de información suficiente sobre las academias en las que estaban inscritos, lo que ocasionaba problemas relacionados con las pensiones y los eventos deportivos. La falta de claridad sobre la ubicación de la academia o las instalaciones disponibles contribuía a la confusión y la frustración entre los deportistas.
+Los deportistas también manifestaron molestia por la falta de información suficiente sobre las academias en las que estaban inscritos, lo que ocasiona problemas relacionados con las pensiones y los eventos deportivos. La falta de claridad sobre la ubicación de la academia o las instalaciones disponibles contribuía a la confusión y la frustración entre los deportistas.
 
 En cuanto a la posibilidad de utilizar una aplicación dedicada para gestionar y organizar los horarios de la academia, los deportistas expresaron un gran entusiasmo y consideraron que sería una solución muy útil. Creían firmemente que una aplicación bien diseñada podría resolver los problemas de comunicación y organización que habían experimentado, al proporcionar una plataforma intuitiva para la reserva de clases, la recepción de actualizaciones en tiempo real y la comunicación directa con el personal de la academia.
 
@@ -555,7 +555,7 @@ Deportista
 | Gestionar horarios de clases          | Establecer y ajustar los horarios de las clases ofrecidas por la academia, asignando fecha y hora.        |        4          |         5        |
 | Pagos de alumnos                      | Recibir y administrar pagos de los alumnos por inscripciones ofrecidos por la academia.                   |        3          |         5        |
 | Pagos a profesores                    | Gestionar los pagos a los profesores o entrenadores por sus servicios de enseñanza y entrenamiento.       |        3          |         5        |
-| Mantenimiento de canchas deportivas   | Programación y seguimiento de tareas de mantenimiento para garantizar un lugar optimo.                    |        3          |         4        |
+| Mantenimiento de canchas deportivas   | Programación y seguimiento de tareas de mantenimiento para garantizar un lugar óptimo.                    |        3          |         4        |
 | **Deportistas**                       |                                                                                                           |                   |                  |
 | Ver horarios de clases                | Acceder a la aplicación para ver los horarios de las clases disponibles.                                  |        5          |         5        |
 | Realizar pagos                        | Realizar pagos por inscripciones a la academia a través de la plataforma.                                 |        3          |         5        |
@@ -605,3 +605,5 @@ Según la página Domain Driven Design (2019), el lenguaje ubicuo es la descripc
 **Seguimiento del Progreso:** El proceso de monitorear y evaluar el desarrollo y rendimiento de los deportistas a lo largo del tiempo. El seguimiento del progreso puede implicar evaluar habilidades técnicas, físicas y tácticas, registrar logros y estadísticas, establecer metas individuales y proporcionar retroalimentación constructiva a los deportistas para apoyar su crecimiento y mejora continua. Este proceso ayuda a los entrenadores y deportistas a identificar áreas de fortaleza y áreas de mejora, y a ajustar los programas de entrenamiento en consecuencia.
 
 **Pago:** La compensación a cambio de los servicios proporcionados por una academia deportiva. Los deportistas pueden pagar tarifas de inscripción, matrículas, cuotas mensuales o clases individuales, dependiendo de la estructura de precios de la academia y los servicios ofrecidos. El pago puede realizarse en forma de efectivo, tarjeta de crédito, transferencia bancaria u otros métodos de pago aceptados por la academia.
+
+
