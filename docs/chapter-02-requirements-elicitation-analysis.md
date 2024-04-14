@@ -1,12 +1,96 @@
 # Capítulo 2: Requirements Elicitation & Analysis
+
 ## 2.1 Competidores
-En el ámbito de la gestión de academias deportivas, existen varias empresas que ofrecen soluciones digitales integrales para satisfacer las necesidades de estas instituciones. A continuación, presentamos a tres de los competidores directos más destacados en este sector.
+Nuestro proyecto está orientado en el desarrollo de un sistema de software que ofrece un enfoque adaptable e integral para la gestión de academias y/o clubes deportivos, mostrando apoyo a los deportista y entrenadores, proporcionando información detallada y actualizada sobre horarios, eventos, desempeño, etc. En base a estas características especiales de nuestro aplicativo, hemos realizado una búsqueda, presentación y análisis de algunos posibles competidores potenciales que podrían hacernos frente después de la salida de nuestro producto al mercado, además de entorpecer el futuro y seguridad económica de nuestra startup. Este grupo de competidores pueden llegar a ser notorias amenazas para nuestro equipo de trabajo, puesto que poseen mejores conocimientos en el mundo de la programación de aplicativos web, marketing y finanzas, además de que poseen equipos de trabajo más profesionales y multidisciplinarios que el nuestro. Estos competidores a resaltar son los siguientes:
 
-**TeamSnap:** TeamSnap es una plataforma líder en la gestión de equipos deportivos que ofrece una amplia gama de características, incluyendo programación de eventos, seguimiento de asistencias, comunicación de equipo y gestión de pagos. Aunque su enfoque principal está en equipos deportivos, algunas de sus características pueden ser relevantes para academias deportivas.
+### TeamSnap:
 
-**SportsEngine:** SportsEngine proporciona soluciones de gestión deportiva integral que incluyen funciones como programación de eventos, gestión de equipos y atletas, registro en línea, comunicación de equipo y gestión de pagos. Ofrece una interfaz fácil de usar y herramientas personalizables para satisfacer las necesidades específicas de las organizaciones deportivas.
+**Página web principal:** https://www.teamsnap.com/
+  
+TeamSnap es una plataforma líder en la gestión de equipos deportivos. Fue creada en Boulder, Colorado, Estados Unidos. La empresa fue fundada en 2009 por Dave DuPont, Greg Ludke y Mike Guerchon, con la visión de proporcionar una solución simple y efectiva para la gestión de equipos deportivos y grupos. Desde entonces, TeamSnap ha crecido hasta convertirse en una plataforma líder en su categoría, utilizada por millones de equipos deportivos, clubes, ligas y grupos en todo el mundo para organizar y gestionar sus actividades. 
 
-**Mindbody:** Mindbody es una plataforma de gestión empresarial que se enfoca en la industria del fitness y el bienestar. Aunque no está dirigida específicamente a academias deportivas, ofrece características relevantes como programación de clases, seguimiento de asistencias, gestión de pagos y comunicación con clientes. Su enfoque en la industria del fitness podría proporcionar ideas sobre cómo abordar las necesidades de las academias deportivas.
+Entre sus funcionalidades más importantes se destacan: 
+
+* Planificación de eventos: La aplicación permite crear y compartir calendarios de eventos para coordinar horarios de juegos, prácticas y eventos relacionados con el equipo entre los deportistas y los propios entrenadores. Esto se realiza mediante secciones de noticias y pizarras con anuncios.
+
+* Gestión de listas de asistencia: Tiene pizarras programadas de forma profunda para realizar el seguimiento de la asistencia de los miembros del equipo a eventos y actividades deportivas y enviarlo directamente al entrenador del grupo.
+
+* Comunicación en equipo: Proporciona herramientas para la comunicación fácil y rápida entre los miembros del equipo, como mensajes directos, correos electrónicos y notificaciones push directas. Esto la vuelva una aplicación más deseable y útil en comparación a otros programas como WhatsApp, Telegram o Messenger.
+
+* Gestión de listas de tareas: Mantiene secciones con formato abierto que permiten asignar y gestionar tareas específicas para los miembros del equipo, como responsabilidades de equipo, asignaciones de juego, etc. Esto se ve tanto para deportistas como para entrenadores del equipo.
+
+* Gestión de la lista de contactos: Mediante columnas ya definidas con opciones personalizadas, esta aplicación permite la organización de la información de contacto de los miembros del equipo, entrenadores, padres, etc. Esto puede ser útil para situaciones de necesidad y hasta de emergencia.
+
+* Gestión financiera: Mediante un seguimiento de calendarios junto a la informacación provista por la academia, esta aplicación posee características para gestionar las finanzas del equipo, como la recopilación de pagos de cuotas, donaciones, etc.
+
+* Análisis y reportes: Provee herramientas a base de análisis y generación de data para reportes sobre el desempeño del equipo y la organización, incluyendo análisis de asistencia, informes financieros, y otros datos relevantes para la toma de decisiones y la planificación estratégica.
+
+De esta forma, el segmento de mercado de esta aplicación puede organizar y gestionar adecuadamente todos los aspectos de un equipo deportivo junto a las propias academias deportivas con sus administradores y entrenadores, fomentando la responsabilidad, la comunicación efectiva y la participación mediante todas las funcionalidades ofrecidas.
+
+---
+
+### SportsEngine:
+
+**Página web principal:** https://www.sportsengine.com/
+
+SportsEngine es una aplicación que proporciona soluciones de gestión deportiva integral que incluyen funciones como programación de eventos, gestión de equipos y atletas, registro en línea, comunicación de equipo y gestión de pagos. SportsEngine fue creada en Minneapolis, Minnesota, Estados Unidos. La empresa fue fundada en 2008 por Carson Kipfer, Greg Blasko, y Justin Kaufenberg. Desde su creación, SportsEngine se ha convertido en una plataforma líder en la industria del deporte, proporcionando herramientas y soluciones para ayudar a las organizaciones deportivas a gestionar sus equipos, ligas y actividades de manera eficiente. La sede de SportsEngine se encuentra en Minneapolis, pero la empresa brinda servicios a organizaciones deportivas en todo Estados Unidos y otros países.
+
+Entre sus funcionalidades más importantes se destacan: 
+
+* Inscripción en línea: Permite a los equipos y organizaciones deportivas gestionar inscripciones en línea para jugadores, entrenadores y otros miembros del equipo, recopilando información personal, médica y de contacto, así como gestionando pagos y firmas electrónicas de formularios.
+
+* Programación de eventos: Facilita la programación y gestión de juegos, prácticas, eventos especiales y torneos, permitiendo la creación y compartición de calendarios en línea con horarios, ubicaciones y detalles de los eventos.
+
+* Gestión de listas de asistencia: Permite llevar un registro de la asistencia de los jugadores a eventos y actividades, incluyendo la capacidad de marcar asistencias, ausencias y retrasos, y generar informes detallados sobre la asistencia de cada miembro del equipo.
+
+* Comunicación en equipo: Proporciona herramientas para la comunicación fácil y rápida entre los miembros del equipo, entrenadores, padres y personal de la organización, incluyendo mensajes directos, correos electrónicos, notificaciones push y publicaciones en tablones de anuncios.
+
+* Gestión de listas de tareas y responsabilidades: Permite asignar y gestionar tareas y responsabilidades específicas para miembros del equipo y entrenadores, como la asignación de posiciones de juego, la organización de transporte, la planificación de eventos y la coordinación de voluntarios.
+
+* Gestión de documentos y formularios: Facilita la carga, almacenamiento y compartición de documentos importantes, como formularios de inscripción, políticas del equipo, documentos médicos, permisos de viaje, entre otros, permitiendo un acceso seguro desde cualquier lugar.
+
+* Gestión financiera: Ofrece herramientas para gestionar las finanzas del equipo y la organización, incluyendo la contabilidad de ingresos y gastos, la facturación automatizada, la gestión de cuotas y pagos en línea, y la generación de informes financieros detallados.
+
+* Seguimiento de estadísticas y rendimiento: Permite realizar un seguimiento de estadísticas individuales y de equipo, incluyendo puntajes, goles, asistencias, defensas, bloqueos, y otros datos relevantes para evaluar el rendimiento y progreso de los jugadores y equipos.
+
+* Registro y seguimiento médico: Facilita el registro y seguimiento de información médica de los jugadores, incluyendo historiales médicos, alergias, lesiones, medicamentos, tratamientos y autorizaciones médicas, para garantizar la seguridad y el bienestar de los miembros del equipo.
+
+De esta forma, el segmento de mercado de esta aplicación puede mantener una gestión bastante segura y completa sobre todos los avances deportivos que mantienen en sus equipos y organizaciones deportives, manteniendo control y orgranización sobre cada aspecto referente al desempeño de sus estudiantes, su estado médico, los pagos realizados, los horarios provistos para las clases y talleres, los campeonatos, etc.
+
+---
+
+**Mindbody:** 
+
+**Página web principal:** https://www.mindbodyonline.com/
+
+Mindbody es una plataforma de gestión empresarial que se enfoca en la industria del fitness y el bienestar. Aunque no está dirigida específicamente a academias deportivas, ofrece características relevantes como programación de clases, seguimiento de asistencias, gestión de pagos y comunicación con clientes. MindBody fue creada en San Luis Obispo, California, Estados Unidos. La empresa fue fundada en 2001 por Rick Stollmeyer y Blake Beltram con la visión de proporcionar soluciones tecnológicas para empresas relacionadas con el bienestar, la salud y el fitness. Desde entonces, MindBody ha crecido hasta convertirse en una empresa líder en la industria, ofreciendo una amplia gama de herramientas y servicios para ayudar a las empresas a gestionar sus operaciones y atraer y retener clientes de manera efectiva. La sede de MindBody se encuentra en San Luis Obispo, California, pero la empresa ofrece sus servicios a nivel mundial, sirviendo a miles de clientes en más de 130 países.
+
+Entre sus funcionalidades más importantes se destacan: 
+
+* Programación de clases y citas: Permite a los clientes reservar y programar clases de fitness, citas en salones de belleza, sesiones de masajes, consultas médicas y otros servicios programados.
+
+* Gestión de clientes: Permite a los negocios crear perfiles de clientes, almacenar información personal, preferencias de servicio, historial de visitas y pagos, y enviar comunicaciones personalizadas.
+
+* Sistema de punto de venta (POS): Ofrece un sistema de punto de venta integrado para procesar pagos, ventas de productos, membresías y paquetes de servicios, y gestionar inventario. Esto lo realiza mediante el uso de formularios especializados y secciones con guardado de información importante.
+
+* Gestión de membresías y paquetes: Permite a los negocios ofrecer membresías, suscripciones y paquetes de servicios con opciones de pago flexibles y seguimiento automático de la asistencia y vencimientos. Los pagos estan divididos según el modelo de suscripción estipulado.
+
+* Gestión de personal y horarios: Permite a los negocios gestionar el horario del personal, asignar turnos de trabajo, realizar seguimiento de la asistencia y el rendimiento, y gestionar nóminas y compensaciones.
+
+* Automatización de recordatorios y confirmaciones: Envía recordatorios automáticos de citas y clases a los clientes a través de correo electrónico y mensajes de texto, y recopila confirmaciones y cancelaciones para mejorar la planificación y la asistencia.
+
+* Marketing y promoción: Proporciona herramientas de marketing y promoción, como campañas de correo electrónico y mensajes de texto, promociones y programas de fidelización, para atraer y retener clientes.
+
+* Análisis y reportes: Ofrece herramientas de análisis y generación de informes para evaluar el desempeño del negocio, incluyendo ingresos, clientes, asistencia a clases, ventas de productos y otros datos relevantes.
+
+* Integraciones con plataformas externas: Se integra con otras plataformas y herramientas de software, como sistemas de contabilidad, procesadores de pagos, redes sociales y herramientas de marketing digital, para una gestión empresarial más completa y eficiente.
+
+* Aplicación móvil para clientes y personal: Proporciona una aplicación móvil para clientes que les permite reservar clases, programar citas, realizar pagos, acceder a ofertas y promociones, y comunicarse con el negocio. También ofrece una aplicación móvil para el personal para gestionar horarios, clientes, pagos y comunicaciones.
+
+De esta forma, el segmento de mercado de esta aplicación puede mantener una organización completa sobre el negocio de fitness que lleven, manteniendo un control completo sobre las acciones y tareas realizadas por sus empleados, por los servicios de marketing estipulados, por las suscripciones y membresías dadas a sus clientes, y sobre la retroalimentación de sus clientes sobre su local. Todo esto vuelve a esta aplicación una forma úlil de controlar un negocio en el rubro del fitness.
+
+---
+
 ### 2.1.1 Análisis competitivo
 
 <table border="1" style="text-align:center;">
