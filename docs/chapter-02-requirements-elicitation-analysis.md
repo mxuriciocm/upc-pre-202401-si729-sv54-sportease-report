@@ -59,7 +59,7 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una ges
 
 ---
 
-**Mindbody:** 
+### Mindbody:
 
 **Página web principal:** https://www.mindbodyonline.com/
 
@@ -100,7 +100,7 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una org
 		</tr>
 		<tr>
 			<td colspan="2">¿Por que llevar a cabo este análisis?</td>
-			<td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación</td>
+			<td colspan="4">El objetivo de este análisis es investigar a detalle las características principales y las propuestas de valor que ofrecen otras empresas que tienen el objetivo de brindar una solución a nuestra misma problemática. Así, podremos encontrar una forma viable y consistente con la que podremos diferenciarnos de ellos.</td>
 		</tr>
 		<tr>
 			<td colspan="2"></td>
@@ -363,7 +363,9 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una org
 </table>
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
+
 Después de un análisis exhaustivo del mercado y la competencia, SportEase ha identificado varias áreas clave en las que puede mejorar su posición y maximizar su potencial de crecimiento. se detallarán las estrategias y tácticas preliminares que SportEase planea implementar para hacer frente a la competencia y capitalizar las oportunidades identificadas.
+
 1. Fortalezas y Ventajas Competitivas:
 - Estrategia: Resaltar las características únicas de SportEase, como su interfaz intuitiva, enfoque en la gestión integral de academias deportivas y modelos de suscripción flexibles.
 - Táctica: Desarrollar campañas de marketing que destaquen estas fortalezas y diferenciadores clave en comparación con los competidores.
@@ -501,17 +503,37 @@ Datos principales:
 
 ### 2.2.3 Análisis de entrevistas
 
-Dueño de Academia
+**Análisis con respecto al segmento de Dueño de Academia:**
 
-El propietario de una academia deportiva destacó la necesidad de una herramienta efectiva para promover, gestionar y organizar la academia. Señalo problemas de organización en los horarios y la comunicación limitada a través de WhatsApp. Expresó interés en una aplicación dedicada para gestionar horarios de manera eficiente, reconociendo su potencial para mejorar la experiencia del cliente y la eficiencia operativa. La perspectiva del dueño de academia ofrece valiosos insights sobre la importancia de gestion en academias.
+Durante las entrevistas con los propietarios de academias deportivas, surgieron una serie de temas que destacaron la urgente necesidad de contar con herramientas efectivas para promover, gestionar y organizar sus establecimientos deportivos. Los propietarios expresaron inquietudes significativas sobre la complejidad en la elaboración de horarios, identificando este aspecto como un desafío recurrente que impactaba tanto en la satisfacción del cliente como en la eficiencia operativa de la academia. Esta problemática no solo generaba malestar entre los segmentos objetivo de la academia, sino que también obstaculizaba su capacidad para operar de manera fluida y efectiva. Además, la comunicación limitada a través de plataformas como WhatsApp resultaba insuficiente para facilitar una coordinación eficaz entre el personal y los clientes, exacerbando la situación.
 
-Deportista
+Para abordar estos desafíos, los propietarios recomendaron la adopción de sistemas ya optimizados y de alto rendimiento que permitieran una comunicación directa y sin limitaciones para los clientes, proporcionando un canal rápido y directo para que estos puedan plantear sus inquietudes y consultas al personal de la academia. Asimismo, enfatizaron la importancia de una interfaz agradable y cómoda para evitar abrumar o desinteresar a los clientes durante su interacción con la aplicación.
 
-La persona que entrevisto es una chica que se encuentra en actualmente en una academia deportiva. Le realice primero las preguntas sobre el problema y me respondió que para ella es de suma importancia y esencial utilizar una aplicación para promover gestionar y organizar las academias deportivas. Además, nos dijo su opinión sobre los problemas que tuvo en su academia por mala organizacion en horario, tambien que el unico medio por el cual se podian comunicar sobre cualquier cambio en el horario era por whatsapp. Por último, le realice las preguntas sobre la aplicación y dijo que para ella seria de mucha utilidad tener una aplicacion para organizar y coordinar los horarios. La perspectiva de un deportista ofrece valiosos insights sobre la importancia de la gestion en academias.
+Otro aspecto que es necesario mencionar es que los propietarios expresaron un profundo interés en obtener una aplicación que les permitiera organizar eventos deportivos de manera concisa y adecuada. Reconocieron que el uso de medios no virtuales para esta tarea podría ocasionar problemas de comunicación y alcance con los clientes, por lo que una solución digital sería más eficiente y efectiva.
+
+Asimismo, los propietarios destacaron la necesidad de una herramienta que les permitiera evaluar el desempeño tanto de los instructores como de los deportistas. Consideraban crucial poder identificar áreas de mejora en las metodologías de enseñanza de los entrenadores para garantizar una experiencia de aprendizaje óptima para los alumnos.
+
+Finalmente, expresaron la necesidad de un sistema financiero integrado que facilitara los pagos de los alumnos a la academia a través de la aplicación. Esto no solo permitiría a los alumnos tener un mayor control sobre sus finanzas con la academia en un entorno seguro, sino que también ayudaría a las academias a organizar de manera más eficiente las pensiones de los alumnos.
+
+En resumen, la perspectiva del dueño de academia ofreció valiosos insights sobre la importancia crítica de contar con una solución tecnológica adecuada para la gestión eficiente de una academia deportiva. Reconocieron el potencial de una aplicación bien diseñada para mejorar la experiencia del cliente, optimizar la operación interna y fortalecer la relación entre la academia y sus clientes.
+
+**Análisis con respecto al segmento de Deportistas:**
+
+Las entrevistas con los deportistas actualmente inscritos en una academia deportiva proporcionaron una visión más detallada sobre los desafíos específicos que enfrentan los clientes en este entorno. Los deportistas compartieron sus experiencias personales, destacando la falta de organización en los horarios como uno de los principales problemas. Los cambios de última hora y la falta de claridad en cuanto a las actividades programadas generaban confusión y dificultaban su capacidad para participar plenamente en las actividades de la academia.
+
+Además, expresaron su frustración por depender exclusivamente de herramientas de comunicación como WhatsApp para cualquier cambio o actualización en los horarios. La falta de una plataforma centralizada para la comunicación y la gestión de horarios dificultaba su capacidad para mantenerse al día con los cambios y coordinar eficazmente su participación en las actividades de la academia.
+
+Los deportistas también manifestaron molestia por la falta de información suficiente sobre las academias en las que estaban inscritos, lo que ocasionaba problemas relacionados con las pensiones y los eventos deportivos. La falta de claridad sobre la ubicación de la academia o las instalaciones disponibles contribuía a la confusión y la frustración entre los deportistas.
+
+En cuanto a la posibilidad de utilizar una aplicación dedicada para gestionar y organizar los horarios de la academia, los deportistas expresaron un gran entusiasmo y consideraron que sería una solución muy útil. Creían firmemente que una aplicación bien diseñada podría resolver los problemas de comunicación y organización que habían experimentado, al proporcionar una plataforma intuitiva para la reserva de clases, la recepción de actualizaciones en tiempo real y la comunicación directa con el personal de la academia.
+
+En resumen, la perspectiva de los deportistas proporcionó insights valiosos sobre los desafíos específicos que enfrentan los clientes de una academia deportiva y resaltó la importancia de contar con una solución tecnológica adecuada para mejorar su experiencia y optimizar su participación en las actividades de la academia.
 
 ## 2.3 Needfinding
 
-Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primero, segmentamos a los usuarios en diferentes categorías y generamos perfiles que representan a nuestro público objetivo, mediante la creación de User Persona. Esto nos permitió agrupar las necesidades específicas de cada tipo de usuario. Luego, para corroborar y validar las necesidades que habíamos determinado previamente para cadcategoría de usuario, realizamos entrevistas con representantes de los dos conjuntos de usuarios que habíamos identificado utilizando los User Persona.
+Según lo señalado por Patnaik (2017), la metodología del Needfinding se concentra principalmente en la acción de descubrir las necesidades, tanto explícitas como implícitas, de los segmentos objetivos seleccionados con el fin de poder crear soluciones adecuadas. Para esto, es necesario ver más allá de todo lo tangible y concentrarse en ideas más abstractas y conceptos más amigables para todos los usuarios.
+
+Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primero, segmentamos a los usuarios en diferentes categorías y generamos perfiles que representan a nuestro público objetivo, mediante la creación de User Persona. Esto nos permitió agrupar las necesidades específicas de cada tipo de usuario. Luego, para corroborar y validar las necesidades que habíamos determinado previamente para cada categoría de usuario, realizamos entrevistas con representantes de los dos conjuntos de usuarios que habíamos identificado utilizando los User Persona.
  
 ### 2.3.1 User Personas
 
