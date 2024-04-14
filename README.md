@@ -150,16 +150,16 @@ Smith, P, R. & Zook, Z.(2022). Marketing Communications: Integrating Online and 
 Tello, J. (2022). Gestión deportiva: un débil camino hacia el deporte de alto rendimiento. INNOVAG, 1(7), 35-37. https://revistas.pucp.edu.pe/index.php/innovag/article/download/25052/23745/
 
 # Anexos
-Link gitHub Repositorio: 
+Link gitHub Repositorio: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-report
 
-Link Github Landing page: 
+Link Github Landing page: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-landing-page
 
-LandingPage Desplegado:  
+LandingPage Desplegado:  https://upc-pre-202401-si729-sv54-sportease.github.io/upc-pre-202401-si729-sv54-sportease-landing-page.github.io/
 
-Figma Landing Page: 
+Figma Landing Page: https://www.figma.com/file/yDfxpwN5jgNIk2MpL9F0uN/Wireframes-and-MockUp-Model-Sportease?type=design&node-id=0%3A1&mode=design&t=3VetSp56UFc8h2qr-1
 
-Figma App Web: 
+Figma App Web: https://www.figma.com/file/aQ2RLNmj3VSgfOsFVBCNSq/Open-Source-Aplicacion-Web?type=design&node-id=0%3A1&mode=design&t=UTniCyrgQD4ZH92I-1
 
-PivotalTracker-ProductBacklog: 
+PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/n/projects/2701202
 
 Video EXPO TB1: 
