@@ -201,27 +201,60 @@ En esta sección, se detalla las estrategias clave diseñadas para guiar a los u
 5. Diseño responsive: El diseño del Landing Page es responsive, lo que significa que se adapta automáticamente a diferentes tamaños de pantalla, garantizando una experiencia de usuario consistente en dispositivos móviles y de escritorio.
 
 ## 4.3 Landing Page UI Design
-En esta sección, explicaremos cómo hemos abordado el diseño y la arquitectura de información del Landing Page de SportEase. Nuestro objetivo principal ha sido crear una experiencia de usuario intuitiva y atractiva que permita a los visitantes comprender rápidamente las características principales y los beneficios de nuestra plataforma. Para lograr esto, hemos aplicado cuidadosamente los principios de diseño centrados en el usuario, utilizando elementos de diseño claros y coherentes en toda la página.
-Además, hemos tenido en cuenta la importancia del diseño inclusivo, asegurándonos de que nuestro Landing Page sea accesible para todos los usuarios, independientemente de sus capacidades físicas o tecnológicas. Esto se refleja en nuestra elección de colores, tipografía y disposición de elementos, que han sido diseñados para ser legibles y utilizables por todos.
+En esta sección, detallaremos nuestra aproximación al diseño y la arquitectura de información del Landing Page de SportEase. Nuestro enfoque primordial ha sido la creación de una experiencia de usuario intuitiva y atractiva que facilite a los visitantes la comprensión rápida de las características principales y los beneficios de nuestra plataforma. Para alcanzar este objetivo, hemos implementado meticulosamente los principios de diseño centrados en el usuario, empleando elementos de diseño claros y coherentes en toda la página.
+
+Asimismo, hemos tenido en cuenta la importancia del diseño inclusivo, asegurándonos de que nuestro Landing Page sea accesible para todos los usuarios, independientemente de sus capacidades físicas o tecnológicas. Esto se refleja en nuestra elección de colores, tipografía y disposición de elementos, todos diseñados para ser legibles y utilizables por todos.
 
 ### 4.3.1 Landing Page Wireframe
 **Desktop Web Browser**:
-En este wireframe para el navegador web de escritorio, hemos priorizado la disposición de la información de manera clara y concisa. El encabezado presenta el nombre de la startup junto con un menú de navegación visible y fácil de usar. El cuerpo del Landing Page presenta secciones destacadas que resumen las características principales, los beneficios de la plataforma y los diferentes tipos de suscripciones, con llamadas a la acción prominentes para alentar a los visitantes a explorar más. El pie de página incluye enlaces útiles y un formulario de contacto para facilitar la comunicación con nuestro equipo.
+Nuestro wireframe para el navegador web de escritorio prioriza una disposición clara y concisa de la información. El encabezado presenta el nombre de la startup junto con un menú de navegación visible y fácil de usar. El cuerpo del Landing Page presenta secciones destacadas que resumen las características principales, los beneficios de la plataforma y los diferentes tipos de suscripciones, con llamadas a la acción prominentes para alentar a los visitantes a explorar más. El pie de página incluye enlaces útiles y un formulario de contacto para facilitar la comunicación con nuestro equipo.
 
-![Header](/assets/1-desktop.png)
-![Main](/assets/2-desktop.png)
-![Footer](/assets/3-desktop.png)
+![Header](/assets/wireframe-desktop-1.png)
+
+![Main](/assets/wireframe-desktop-2.png)
+
+![Footer](/assets/wireframe-desktop-3.png)
+
 
 **Mobile Web Browser**:
-En el wireframe para el navegador web móvil, nos hemos centrado en optimizar la experiencia para pantallas más pequeñas. Hemos simplificado el diseño y reorganizado los elementos para garantizar una navegación fácil con el dedo. El menú de navegación se ha condensado en un menú desplegable para ahorrar espacio en la pantalla, y hemos priorizado el contenido más importante para que sea fácilmente accesible sin necesidad de desplazamiento excesivo. Además, hemos mantenido la coherencia visual con la versión de escritorio para una experiencia de usuario consistente en todos los dispositivos.
+Nuestro wireframe para el navegador web móvil se ha diseñado específicamente para optimizar la experiencia en pantallas más pequeñas. Hemos simplificado el diseño y reorganizado los elementos para garantizar una navegación sencilla con el dedo. El menú de navegación se ha convertido en un menú desplegable para ahorrar espacio en la pantalla, y hemos priorizado el contenido más importante para que sea fácilmente accesible sin necesidad de desplazamiento excesivo. Además, hemos mantenido la coherencia visual con la versión de escritorio para proporcionar una experiencia de usuario consistente en todos los dispositivos.
 
-![Header](/assets/1-mobile.png)
-![Main](/assets/2-mobile.png)
-![Footer](/assets/3-mobile.png)
+![Header](/assets/wireframe-mobile-1.png)
+
+![Main](/assets/wireframe-mobile-2.png)
+
+![Main](/assets/wireframe-mobile-3.png)
+
+![Footer](/assets/wireframe-mobile-4.png)
+
 
 ### 4.3.2 Landing Page Mock-up
+En esta sección, presentamos y explicamos los mock-ups del Landing Page tanto para el navegador web de escritorio como para el móvil. Nuestra propuesta no solo exhibe los mock-ups finales, sino que también demuestra claramente la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información, además de la coherencia con el Design System establecido para los productos digitales de SportEase.
+**Design System**:
 
-(IMAGEN DEL LANDING)
+![Font](/assets/wireframe-mobile-4.png)
+
+![Colors](/assets/colors.png)
+
+**Desktop Web Browser**:
+Los mock-ups para el navegador web de escritorio reflejan una cuidadosa implementación de los principios de diseño centrados en el usuario y una sólida arquitectura de información. Cada elemento, desde el encabezado hasta el pie de página, se ha diseñado para guiar al usuario de manera intuitiva a través de la experiencia. La aplicación coherente de los elementos de diseño y la paleta de colores establecida en el Design System asegura una identidad visual reconocible y una experiencia de usuario consistente.
+
+![Header](/assets/mockup-desktop-1.png)
+
+![Main](/assets/mockup-desktop-2.png)
+
+![Footer](/assets/mockup-desktop-3.png)
+
+**Mobile Web Browser**:
+Los mock-ups para el navegador web móvil mantienen la misma atención al detalle y la coherencia con el Design System mientras se adaptan a las necesidades específicas de las pantallas más pequeñas. Se ha prestado especial atención a la disposición de los elementos para garantizar una navegación fluida con el dedo y una experiencia de usuario óptima en dispositivos móviles. Además, el diseño inclusivo se ha tenido en cuenta en cada paso, asegurando que el Landing Page sea accesible para todos los usuarios, independientemente de sus capacidades físicas o tecnológicas.
+
+![Header](/assets/wireframe-mobile-1.png)
+
+![Main](/assets/wireframe-mobile-2.png)
+
+![Main](/assets/wireframe-mobile-3.png)
+
+![Footer](/assets/wireframe-mobile-4.png)
 
 ## 4.4 Web Applications UX/UI Design
 
