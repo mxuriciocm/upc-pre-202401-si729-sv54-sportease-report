@@ -462,7 +462,7 @@ Alumnos o Deportistas
 
 Entrevista N°1:
 
-![Deportista](http://drive.google.com/uc?export=view&id=14FY-TeHBFBx2quunbQJCslusICYMfo9s)
+![Deportista](/assets/entrevista_deportista1.png)
 
 Datos principales:
 
@@ -539,12 +539,12 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 
 Dueño de Academia
 
-![Dueño de Academia](http://drive.google.com/uc?export=view&id=14y-93O04t5sSj5CeWE8wrXDIBcHLq2KW)
+![Dueño de Academia](/assets/user_persona_dueño.png)
 
 
 Deportista
 
-![Deportista](http://drive.google.com/uc?export=view&id=1nmznDy5ti6GafA20RZ9ONoWpP98YOXtw)
+![Deportista](/assets/user_persona_deportista.png)
 
 ### 2.3.2 User Task Matrix
 
@@ -574,9 +574,9 @@ Deportista
 
 ### 2.3.4 Empathy Mapping
 
-![Empathy Dueño Academia](http://drive.google.com/uc?export=view&id=13stPRvdRsKBwKJ6P79bwvWuduzv6u481)
+![Empathy Dueño Academia](/assets/empathy_dueño.png)
 
-![Empathy Deportista](http://drive.google.com/uc?export=view&id=1pQe9dphAJW1JrkJkfa1YsNRUz8LY6W6M)
+![Empathy Deportista](/assets/empathy_deportista.png)
 
 ### 2.3.5 As-is Scenario Mapping
 
