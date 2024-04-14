@@ -658,7 +658,7 @@ Capturas de pantalla:
 
 ![Call-to-action](/assets/calltoaction.png)
 
-Video: 
+Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/Eb2ait0YE4dHrqP0hu-a3I8B0bBKBUVyVHK1zUJ_GiBFBA?e=fI4Q65&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
