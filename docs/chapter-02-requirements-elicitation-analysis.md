@@ -490,16 +490,16 @@ Datos principales:
 
 Entrevista N°3:
 
-IMAGEN (CAPTURA DEL LA ENTREVISTA)
+![Deportista3](/assets/entrevista_deportista3.png)
 
 Datos principales:
 
-- Nombre completo del entrevistado:
-- Edad:
-- Distrito:
-- Link:
-- Inicio de entrevista:
-- Duracion:
+- Nombre completo del entrevistado: Yen Cerna, Lucio Heli
+- Edad: 19
+- Distrito: Chorrillos, Lima
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210190_upc_edu_pe/ER-4cmYthSBPpEQ48lpyU5wBfnIm45R92ErKbvFivbx7jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EDs9FL
+- Inicio de entrevista: 0:21
+- Duracion: 9:37
 
 ### 2.2.3 Análisis de entrevistas
 
