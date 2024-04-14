@@ -69,7 +69,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Código del Estudiante  | U202216021                         |
 | Carrera                | Ingeniería de Software             |
 | Descripción            | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me considero una persona empática y solidaria, además de apoyar a mis compañeros de equipo cuando requieren ayuda. Tengo conocimientos en HTML, CSS y C++ aparte de conocimientos básicos en base de datos. |
-| Foto                   |                                    |
+| Foto                   | ![Moises](/assets/moises.png) |
 
 ## 1.2 Solution Profile
 
