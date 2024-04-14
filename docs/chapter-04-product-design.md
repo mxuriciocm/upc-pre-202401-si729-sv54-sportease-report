@@ -239,9 +239,17 @@ En el wireframe para el navegador web móvil, nos hemos centrado en optimizar la
 
 ### 4.6.1 Software Architecture Context Diagram
 
+![Context Diagram](/assets/Context.png)
+
 ### 4.6.2 Software Architecture Container Diagrams
 
+![Context Diagram](/assets/Container.png)
+
 ### 4.6.3 Software Architecture Components Diagrams
+
+![Component Diagram 1](/assets/Component1.png)
+
+![Component Diagram 2](/assets/Component2.png)
 
 ## 4.7 Software Object-Oriented Design
 
