@@ -590,16 +590,18 @@ Deportista
 
 ## 2.4 Ubiquitous Language
 
-* Academia: Establecimiento ofrece entrenamiento e instrucción deportiva a deportistas de diferentes edades y niveles de habilidad. Las academias pueden ofrecer clases, sesiones de entrenamiento y programas en deportes específicos o múltiples deportes.
+Según la página Domain Driven Design (2019), el lenguaje ubicuo es la descripción de conceptos y términos dentro del negocio para construir un lenguaje en común entre todos los implicados dentro del contexto del negocio. A continuación, se han identificado los siguientes conceptos que ayudarán a crear un nexo entre los usuarios y los desarrolladores:
 
-* Entrenador: Persona responsable de proporcionar entrenamiento, orientación e instrucción a los deportistas dentro de una academia deportiva.
+**Academia:** Un establecimiento que ofrece entrenamiento e instrucción deportiva a deportistas de diferentes edades y niveles de habilidad. Las academias pueden proporcionar clases, sesiones de entrenamiento y programas en deportes específicos o múltiples deportes, con el objetivo de mejorar las habilidades y el rendimiento de los deportistas.
 
-* Deportista: Participa en entrenamientos y actividades deportivas proporcionadas por una academia deportiva. Los deportistas pueden variar en edad y nivel de habilidad, y participan en programas de entrenamiento estructurados para mejorar su rendimiento en su deporte elegido.
+**Entrenador:** Persona responsable de proporcionar entrenamiento, orientación e instrucción a los deportistas dentro de una academia deportiva. Los entrenadores tienen la tarea de diseñar programas de entrenamiento, enseñar técnicas y tácticas deportivas, y brindar apoyo y motivación a los deportistas para ayudarles a alcanzar sus objetivos.
 
-* Sesión de Entrenamiento: Período de tiempo programado durante el cual los deportistas reciben instrucción y practican habilidades específicas relacionadas con su deporte.
+**Deportista:** Persona que participa en entrenamientos y actividades deportivas proporcionadas por una academia deportiva. Los deportistas pueden variar en edad y nivel de habilidad, y participan en programas de entrenamiento estructurados para mejorar su rendimiento en su deporte elegido. Los deportistas pueden ser amateurs o profesionales, y suelen comprometerse con una disciplina deportiva específica.
 
-* Horario: Un calendario o plan que detalla las fechas, horas y ubicaciones de las sesiones de entrenamiento, clases, competiciones y otros eventos organizados por una academia deportiva. Los horarios ayudan a los deportistas, entrenadores y miembros del personal a coordinar actividades y administrar su tiempo de manera efectiva.
+**Sesión de Entrenamiento:** Un período de tiempo programado durante el cual los deportistas reciben instrucción y practican habilidades específicas relacionadas con su deporte. Las sesiones de entrenamiento pueden incluir ejercicios de calentamiento, práctica de técnicas, entrenamiento físico y ejercicios de juego o simulación. Estas sesiones son diseñadas y dirigidas por los entrenadores para ayudar a los deportistas a mejorar su rendimiento y desarrollar sus habilidades deportivas.
 
-* Seguimiento del Progreso: El proceso de monitorear y evaluar el desarrollo y rendimiento de los deportistas a lo largo del tiempo. El seguimiento del progreso puede implicar evaluar habilidades, registrar logros, establecer metas y proporcionar retroalimentación a los deportistas para apoyar su crecimiento y mejora.
+**Horario:** Un calendario o plan que detalla las fechas, horas y ubicaciones de las sesiones de entrenamiento, clases, competiciones y otros eventos organizados por una academia deportiva. Los horarios son herramientas importantes para ayudar a los deportistas, entrenadores y miembros del personal a coordinar actividades y administrar su tiempo de manera efectiva. Además, los horarios permiten a los deportistas planificar su participación en las actividades de la academia y mantenerse al día con sus compromisos deportivos.
 
-* Pago: La compensación a cambio de servicios proporcionados por una academia deportiva.
+**Seguimiento del Progreso:** El proceso de monitorear y evaluar el desarrollo y rendimiento de los deportistas a lo largo del tiempo. El seguimiento del progreso puede implicar evaluar habilidades técnicas, físicas y tácticas, registrar logros y estadísticas, establecer metas individuales y proporcionar retroalimentación constructiva a los deportistas para apoyar su crecimiento y mejora continua. Este proceso ayuda a los entrenadores y deportistas a identificar áreas de fortaleza y áreas de mejora, y a ajustar los programas de entrenamiento en consecuencia.
+
+**Pago:** La compensación a cambio de los servicios proporcionados por una academia deportiva. Los deportistas pueden pagar tarifas de inscripción, matrículas, cuotas mensuales o clases individuales, dependiendo de la estructura de precios de la academia y los servicios ofrecidos. El pago puede realizarse en forma de efectivo, tarjeta de crédito, transferencia bancaria u otros métodos de pago aceptados por la academia.
