@@ -61,7 +61,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Código del Estudiante  | U202210190                         |
 | Carrera                | Ingeniería de Software             |
 | Descripción            |  Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 19 años. Me caracterizo por mi pensamiento crítico, actitud trabajadora y detallista, y responsabilidad. Tengo conocimientos en programación con HTML, CSS y JS, además de lenguajes de programación como C ++ y Python. Asimismo, puedo trabajar con normalidad en bases de datos en MySQL y MongoDB. |
-| Foto                   |                                    |
+| Foto                   | ![Flavio](/assets/falvio.png)      |
 
 
 | Integrante             | Moises Rodolfo Donayre Peña        |
