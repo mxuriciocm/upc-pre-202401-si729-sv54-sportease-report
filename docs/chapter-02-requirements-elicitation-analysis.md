@@ -537,14 +537,19 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
  
 ### 2.3.1 User Personas
 
-Dueño de Academia
+El proceso de creación de user personas es esencial para comprender las necesidades, desafíos y expectativas de los diferentes segmentos de usuarios en el contexto de nuestra aplicación SportEase, que se enfoca en brindar soluciones tecnológicas a academias deportivas. Estos user personas sirven como representaciones ficticias pero realistas de los usuarios reales con los que interactuamos en el ámbito empresarial.
 
-![Dueño de Academia](/assets/user_persona_dueño.png)
+Las entrevistas realizadas con propietarios de academias deportivas como Karla Paola Martínez Quiroz y Katherine Del Carmen Martínez Quiroz proporcionaron una valiosa perspectiva sobre los problemas y desafíos que enfrentan en la gestión diaria de sus academias. Estos propietarios, como representantes de nuestro segmento objetivo B2B, expresaron preocupaciones específicas relacionadas con la elaboración de horarios, la comunicación limitada con el personal y los clientes, la organización de eventos deportivos y la evaluación del desempeño de instructores y deportistas. Además, identificaron la necesidad de contar con un sistema financiero integrado para facilitar los pagos de los alumnos.
 
+Estos hallazgos del análisis de entrevistas nos brindan una comprensión profunda de las necesidades y expectativas de nuestros clientes empresariales en el sector de las academias deportivas. Esto nos permite diseñar soluciones centradas en el usuario que aborden estos desafíos de manera efectiva y agreguen valor a sus operaciones comerciales.
 
-Deportista
+Administradores de academias deportivas
 
-![Deportista](/assets/user_persona_deportista.png)
+![Adminsitradores](/assets/userpersona1.png)
+
+Deportistas
+
+![Deportistas](/assets/user_persona_deportista.png)
 
 ### 2.3.2 User Task Matrix
 
