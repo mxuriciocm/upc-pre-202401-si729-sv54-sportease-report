@@ -446,16 +446,16 @@ Datos principales:
 
 Entrevista N°3:
 
-IMAGEN (CAPTURA DE LA ENTREVISTA)
+![Entrevista2](/assets/entrevista3.png)
 
 Datos principales:
 
-- Nombre completo del entrevistado:
-- Edad:
-- Distrito:
-- Link:
-- Inicio de entrevista:
-- Duración:
+- Nombre completo del entrevistado: Eder Chacon Narvaez
+- Edad: 40
+- Distrito: Chorrillos, Lima
+- Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/EcH1e7F7ThJEk0v1f9ukWMcBgs2yEBJqI44Jlt7xfo6tag?e=SHsrPY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Inicio de entrevista: 0:01 minutos
+- Duración: 5:00 minutos
 
 
 Alumnos o Deportistas
