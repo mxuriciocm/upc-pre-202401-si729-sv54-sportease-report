@@ -93,6 +93,9 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una org
 
 ### 2.1.1 Análisis competitivo
 
+###### Tabla 2.
+*Análisis Competitivo organizado para todos los competidores potenciales de SportEase*
+
 <table border="1" style="text-align:center;">
 	<tbody>
 		<tr>
@@ -364,20 +367,23 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una org
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-Después de un análisis exhaustivo del mercado y la competencia, SportEase ha identificado varias áreas clave en las que puede mejorar su posición y maximizar su potencial de crecimiento. se detallarán las estrategias y tácticas preliminares que SportEase planea implementar para hacer frente a la competencia y capitalizar las oportunidades identificadas.
+Después de una exhaustiva evaluación del mercado y la competencia, SportEase ha identificado diversas áreas clave en las que puede fortalecer su posición y maximizar su potencial de crecimiento. A continuación, se describen las estrategias y tácticas preliminares que SportEase tiene previsto implementar para abordar la competencia y aprovechar las oportunidades identificadas.
 
 1. Fortalezas y Ventajas Competitivas:
-- Estrategia: Resaltar las características únicas de SportEase, como su interfaz intuitiva, enfoque en la gestión integral de academias deportivas y modelos de suscripción flexibles.
-- Táctica: Desarrollar campañas de marketing que destaquen estas fortalezas y diferenciadores clave en comparación con los competidores.
+- Estrategia: Enfatizar las características únicas de SportEase, como su interfaz intuitiva, enfoque integral en la gestión de academias deportivas y modelos de suscripción flexibles.
+- Táctica: Desarrollar campañas de marketing que resalten estas fortalezas y diferenciadores clave en comparación con los competidores, destacando cómo SportEase ofrece una solución más completa y adaptable a las necesidades específicas de las academias deportivas.
+  
 2. Debilidades:
-- Estrategia: Identificar y abordar las áreas donde SportEase puede estar rezagado en comparación con los competidores.
-- Táctica: Realizar análisis comparativos con competidores para identificar las debilidades específicas y luego desarrollar un plan de acción para mejorar esas áreas.
+- Estrategia: Identificar y abordar las áreas en las que SportEase puede estar rezagado en comparación con los competidores.
+- Táctica: Realizar análisis comparativos con los competidores para identificar las debilidades específicas y luego desarrollar un plan de acción para mejorar esas áreas. Esto puede incluir la optimización de características existentes o el desarrollo de nuevas funcionalidades para cerrar la brecha con la competencia.
+  
 3. Oportunidades:
-- Estrategia: Capitalizar las oportunidades emergentes en el mercado, como la demanda creciente de soluciones tecnológicas para la gestión de academias deportivas.
-- Táctica: Mantenerse al tanto de las tendencias del mercado y adaptar rápidamente la plataforma SportEase para satisfacer las necesidades cambiantes de los usuarios.
+- Estrategia: Capitalizar las oportunidades emergentes en el mercado, como la creciente demanda de soluciones tecnológicas para la gestión de academias deportivas.
+- Táctica: Mantenerse al tanto de las tendencias del mercado y adaptar rápidamente la plataforma SportEase para satisfacer las necesidades cambiantes de los usuarios. Esto puede implicar la incorporación de nuevas tecnologías, la expansión de servicios existentes o la exploración de nuevos mercados verticales dentro del sector deportivo.
+  
 4. Amenazas:
 - Estrategia: Estar preparado para enfrentar la competencia y posibles cambios en el entorno empresarial.
-- Táctica: Implementar estrategias de fidelización de clientes para garantizar una base de usuarios sólida y resistente a la competencia, así como mantenerse ágil y adaptable para responder a cualquier amenaza externa.
+- Táctica: Implementar estrategias de fidelización de clientes para garantizar una base de usuarios sólida y resistente a la competencia. Además, mantenerse ágil y adaptable para responder rápidamente a cualquier amenaza externa, ya sea mediante la innovación continua, la mejora del servicio al cliente o la diversificación de la cartera de productos.
 
 ## 2.2 Entrevistas
 
@@ -415,9 +421,12 @@ Con el fin de obtener y separar correctamente toda la información obtenida dura
 
 ### 2.2.2 Registro de entrevistas
 
-Administradores de Academias Deportivas
+**Segmento 1: Administradores de Academias Deportivas:**
 
-Entrevista N°1:
+##### Entrevista N°1:
+
+###### Figura 2.
+*Imagen de presentación de la primera entrevista realizada.*
 
 ![Entrevista1](/assets/entrevista1.png)
 
@@ -430,7 +439,10 @@ Datos principales:
 - Inicio de entrevista: 0:01 minutos
 - Duración: 4:36 minutos
 
-Entrevista N°2:
+##### Entrevista N°2:
+
+###### Figura 3.
+*Imagen de presentación de la segunda entrevista realizada.*
 
 ![Entrevista2](/assets/entrevista2.png)
 
@@ -443,8 +455,10 @@ Datos principales:
 - Inicio de entrevista: 0:01 minutos
 - Duración: 4:28 minutos
 
+##### Entrevista N°3:
 
-Entrevista N°3:
+###### Figura 4.
+*Imagen de presentación de la tercera entrevista realizada.*
 
 ![Entrevista2](/assets/entrevista3.png)
 
@@ -457,10 +471,14 @@ Datos principales:
 - Inicio de entrevista: 0:01 minutos
 - Duración: 5:00 minutos
 
+---
 
-Alumnos o Deportistas
+**Segmento 2: Alumnos o Deportistas**
 
-Entrevista N°1:
+##### Entrevista N°1:
+
+###### Figura 5.
+*Imagen de presentación de la cuarta entrevista realizada.*
 
 ![Deportista](/assets/entrevista_deportista1.png)
 
@@ -473,8 +491,10 @@ Datos principales:
 - Inicio de entrevista: 0:01 minutos
 - Duración: 5:16 minutos
 
+##### Entrevista N°2:
 
-Entrevista N°2:
+###### Figura 6.
+*Imagen de presentación de la quinta entrevista realizada.*
 
 ![Deportista2](/assets/entrevista_deportista2.png)
 
@@ -487,8 +507,10 @@ Datos principales:
 - Inicio de entrevista: 0:01 minutos
 - Duración: 5:23 minutos
 
+##### Entrevista N°3:
 
-Entrevista N°3:
+###### Figura 7.
+*Imagen de presentación de la sexta entrevista realizada.*
 
 ![Deportista3](/assets/entrevista_deportista3.png)
 
@@ -543,53 +565,82 @@ Las entrevistas realizadas con propietarios de academias deportivas como Karla P
 
 Estos hallazgos del análisis de entrevistas nos brindan una comprensión profunda de las necesidades y expectativas de nuestros clientes empresariales en el sector de las academias deportivas. Esto nos permite diseñar soluciones centradas en el usuario que aborden estos desafíos de manera efectiva y agreguen valor a sus operaciones comerciales.
 
-Administradores de academias deportivas
+###### Figura 8.
+*User Persona del primer segmento objetivo: Administradores de Academias Deportivas.*
 
 ![Adminsitradores](/assets/userpersona1.png)
 
-Deportistas
+###### Figura 9.
+*User Persona del segundo segmento objetivo: Alumnos o Deportistas.*
 
 ![Deportistas](/assets/user_persona_deportista.png)
 
 ### 2.3.2 User Task Matrix
 
-| Tarea                                 | Descripción                                                                                               | Frecuencia (1-5) | Importancia (1-5) |
-|---------------------------------------|-----------------------------------------------------------------------------------------------------------|-------------------|------------------|
-| **Dueños de Academia**                |                                                                                                           |                   |                  |
-| Filtrar por categorías de edad        | Los propietarios pueden definir diferentes categorías de edad para los alumnos.                           |        5          |         5        |
-| Gestionar horarios de clases          | Establecer y ajustar los horarios de las clases ofrecidas por la academia, asignando fecha y hora.        |        4          |         5        |
-| Pagos de alumnos                      | Recibir y administrar pagos de los alumnos por inscripciones ofrecidos por la academia.                   |        3          |         5        |
-| Pagos a profesores                    | Gestionar los pagos a los profesores o entrenadores por sus servicios de enseñanza y entrenamiento.       |        3          |         5        |
-| Mantenimiento de canchas deportivas   | Programación y seguimiento de tareas de mantenimiento para garantizar un lugar óptimo.                    |        3          |         4        |
-| **Deportistas**                       |                                                                                                           |                   |                  |
-| Ver horarios de clases                | Acceder a la aplicación para ver los horarios de las clases disponibles.                                  |        5          |         5        |
-| Realizar pagos                        | Realizar pagos por inscripciones a la academia a través de la plataforma.                                 |        3          |         5        |
-| Progreso deportivo                    | Hacer un seguimiento de su progreso deportivo utilizando la app,registros de asistencia, evaluaciones de desempeño, logros alcanzados, etc.|    3    |    4    |
-| Reporte de incidentes y problemas     | Comunicación de problemas operativos y situaciones inesperadas.                                           |         2         |         4        |
+Una Matriz de Tareas de Usuario es una herramienta utilizada en el diseño de experiencia de usuario (UX) y desarrollo de productos para organizar y visualizar las tareas que los usuarios realizan en un sistema o plataforma. Esta matriz ayuda a identificar las diversas acciones que los usuarios llevarán a cabo en el producto, así como la frecuencia y la importancia de cada una de estas tareas (Patnaik, 2017).
+
+###### Tabla 3.
+*User Task Matrix para el primer User Persona.*
+
+| Tarea                                 | Descripción                        | Frecuencia (1-5) | Importancia (1-5) |
+|---------------------------------------|------------------------------------|-------------------|-------------------|                    
+| Filtrar por categorías de edad        | Los propietarios pueden definir diferentes categorías de edad para los alumnos, permitiendo una adaptación personalizada de la enseñanza.                           |        5          |         5        |
+| Gestionar horarios de clases          | Establecer y ajustar los horarios de las clases ofrecidas por la academia, asignando fecha y hora de manera eficiente para una organización sin contratiempos.        |        4          |         5        |
+| Pagos de alumnos                      | Recibir y administrar pagos de los alumnos por inscripciones ofrecidos por la academia, garantizando un flujo de ingresos constante y una experiencia de pago sin problemas para los alumnos.                   |        3          |         5        |
+| Pagos a profesores                    | Gestionar los pagos a los profesores o entrenadores por sus servicios de enseñanza y entrenamiento, asegurando una compensación justa y puntual por su trabajo.       |        3          |         5        |
+| Mantenimiento de canchas deportivas   | Programar y dar seguimiento a las tareas de mantenimiento para garantizar un lugar óptimo y seguro para la práctica deportiva, manteniendo las instalaciones en condiciones óptimas.                    |        3          |         4        |
+
+###### Tabla 4.
+*User Task Matrix para el segundo User Persona.*
+
+| Tarea                                 | Descripción                        | Frecuencia (1-5) | Importancia (1-5) |
+|---------------------------------------|------------------------------------|-------------------|-------------------|     
+| Ver horarios de clases                | Acceder a la aplicación para visualizar los horarios de las clases disponibles, facilitando la planificación y organización de la agenda deportiva.                                  |        5          |         5        |
+| Realizar pagos                        | Realizar pagos por inscripciones a la academia de forma segura y conveniente a través de la plataforma, agilizando el proceso de registro y garantizando un flujo de ingresos estable para la institución.                                 |        3          |         5        |
+| Progreso deportivo                    | Hacer un seguimiento detallado del progreso deportivo utilizando la app, registrando asistencias, evaluaciones de desempeño, logros alcanzados y otros hitos relevantes, permitiendo una evaluación exhaustiva del rendimiento y el crecimiento personal. |    3    |    4    |
+| Reporte de incidentes y problemas     | Comunicación ágil y efectiva de problemas operativos, lesiones o situaciones inesperadas a través de la plataforma, facilitando una respuesta rápida y adecuada por parte del personal de la academia para mantener un ambiente seguro y bien gestionado.                                           |         2         |         4        |
 
 ### 2.3.3 User Journey Mapping
 
-Dueño de academia
+Según Patnaik (2017), un Mapeo de Viaje es una técnica utilizada en el diseño de experiencia de usuario (UX) para visualizar y comprender la experiencia que tiene un usuario al interactuar con un producto o servicio a lo largo del tiempo. El proceso de creación de un Journey Map implica mapear los diferentes puntos de contacto entre el usuario y el producto o servicio, desde el inicio hasta la finalización de su interacción. Esto puede incluir todas las etapas del viaje del usuario, desde el descubrimiento inicial del producto hasta la compra, el uso continuo y el soporte posterior a la venta.
+
+###### Figura 10.
+*User Journey Mapping del primer User Persona.*
 
 ![UserJourneyMapDueño](/assets/UserJourneyMap1.png)
 
-Deportista
+###### Figura 11.
+*User Journey Mapping del segundo User Persona.*
 
 ![UserJourneyMapDeportista](/assets/UserJourneyMap2.png)
 
 ### 2.3.4 Empathy Mapping
 
+Un Mapeo de Empatía es una herramienta utilizada en el diseño de experiencia de usuario (UX) y el desarrollo de productos para comprender mejor las necesidades, deseos, emociones y comportamientos de los usuarios. El objetivo principal del Empathy Mapping es fomentar la empatía entre los miembros del equipo de diseño y los usuarios finales del producto o servicio (Patnaik, 2017).
+
+###### Figura 12.
+*User Empathy Mapping del primer User Persona.*
+
 ![Empathy Dueño Academia](/assets/empathy_dueño.png)
+
+###### Figura 13.
+*User Empathy Mapping del segundo User Persona.*
 
 ![Empathy Deportista](/assets/empathy_deportista.png)
 
 ### 2.3.5 As-is Scenario Mapping
 
-Dueño de academia
+Un "As-is Scenario Mapping" es una técnica utilizada en el diseño de experiencia de usuario (UX) y el análisis de procesos para comprender y visualizar cómo funciona actualmente un sistema, producto o servicio. El término "as-is" significa "como es", lo que indica que este tipo de mapeo se enfoca en documentar y comprender el estado actual de un proceso o experiencia.
+
+El As-is Scenario Mapping implica la creación de un mapa visual que representa todas las etapas y acciones involucradas en un proceso o experiencia tal como se desarrollan actualmente. Esto puede incluir todas las interacciones, pasos, decisiones y puntos de contacto que ocurren durante el proceso.
+
+###### Figura 14.
+*As-is Scenario Mapping del primer User Persona.*
 
 ![As-Is_Dueño](/assets/As-Is_Dueño.png)
 
-Deportista
+###### Figura 15. 
+*As-is Scenario Mapping del segundo User Persona.*
 
 ![As-Is_Deportista](/assets/As-Is_Deportista.png)
 
