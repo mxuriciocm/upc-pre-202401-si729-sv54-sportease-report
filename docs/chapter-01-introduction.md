@@ -77,17 +77,17 @@ En Juniors Team, nuestro objetivo es proporcionar productos de alta calidad que 
 
 SportEase es una aplicación única en el mercado que ofrece una interfaz completa y adecuada para la gestión y organización de los servicios ofrecidos por las academias deportivas, así como el acceso a estos servicios por parte de sus estudiantes. Con un programa escalable y sólido, y una interfaz intuitiva y fácil de usar, SportEase cuenta con una serie de características destacadas que benefician a todos los usuarios:
 
-1. **Seguimiento de Desempeño:** Una herramienta que permite a los entrenadores registrar el progreso de los estudiantes, incluyendo asistencias, rendimiento y logros a lo largo de todo un curso deportivo ya designado.
+1. **Seguimiento Integral del Desempeño:** Esta herramienta facilita a los entrenadores llevar un registro detallado del progreso de sus estudiantes a lo largo de un curso deportivo definido. Desde la asistencia hasta los logros alcanzados, se captura y analiza cada aspecto relevante para evaluar el desarrollo individual de los deportistas.
 
-2. **Administración de Horarios:** Una funcionalidad para que los entrenadores puedan definir los horarios de clases con sus alumnos de forma eficiente y adecuada, además de que se puedan organizar eventos y anuncios en la institución.
+2. **Administración de Horarios y Eventos:** Ofrece una funcionalidad que permite a los entrenadores establecer y gestionar eficientemente los horarios de clases con sus alumnos. Además, posibilita la organización de eventos y la difusión de anuncios dentro de la institución, garantizando una gestión óptima del tiempo y los recursos disponibles.
 
-3. **Comunicación directa y sencilla:** Una plataforma de mensajería interna y notificaciones automáticas que simplifica, asegura y optimiza la comunicación entre los instructores y sus estudiantes.
+3. **Comunicación Directa y Eficiente:** Mediante una plataforma de mensajería interna y notificaciones automáticas, se simplifica y agiliza la comunicación entre instructores y estudiantes. Esto asegura una interacción fluida y oportuna, mejorando la experiencia de aprendizaje y fortaleciendo la relación entre ambas partes.
+   
+4. **Gestión de Usuarios Personalizada:** El sistema permite registrar a los usuarios y asignarles roles según sus funciones dentro de la institución, ya sea como estudiantes o instructores. Además, posibilita la inclusión de información detallada, como especialización, edad y logros, ofreciendo un perfil completo de cada individuo y facilitando una gestión más precisa y personalizada.
+   
+5. **Centralización y Organización de Información:** Este sistema proporciona una plataforma centralizada para la rápida y óptima organización de toda la información relevante para la institución deportiva. Desde detalles sobre los deportes practicados, horarios, información de entrenadores y alumnos, hasta datos sobre los centros deportivos y recreativos asociados, todo se encuentra estructurado de manera accesible y ordenada.
 
-4. **Gestión de Usuarios con información:** Registro de usuarios con asignación de roles según sus funciones, como estudiantes e instructores. Asimismo, se les podrá agregar información variada desde su campo de acción, su especialización, su edad, sus logros, etc.
-
-5. **Gestión de información:** Un sistema que permita la organización rápida y óptima de toda la información referente a los deportes que se practican en la institución deportiva, los horarios, la información de los entrenadores y alumnos, información de los centros deportivos y recreativos, etc.
-
-Con SportEase, nos esforzamos por proporcionar una solución integral que mejore la experiencia tanto de las academias deportivas como de sus estudiantes, brindando herramientas efectivas para la gestión, organización y comunicación en el ámbito deportivo.
+En SportEase, nuestro objetivo primordial es ofrecer una solución integral que enriquezca la experiencia tanto de las academias deportivas como de sus estudiantes. Nos comprometemos a proporcionar herramientas efectivas para la gestión, organización y comunicación en el ámbito deportivo, asegurando un entorno óptimo para el crecimiento y desarrollo de los deportistas.
 
 ### 1.2.1 Antecedentes y problemática
 
@@ -152,6 +152,8 @@ Hemos identificado un aspecto negativo que afecta la gestión y organización de
 
 #### 1.2.2.4 Lean UX Canvas
 
+###### Figura 1.
+*Modelo del Lean UX Canvas diseñado para el proyecto de SportEase.*
 ![Lean UX Canvas](/assets/leanux.png)
 
 ## 1.3 Segmentos objetivos
