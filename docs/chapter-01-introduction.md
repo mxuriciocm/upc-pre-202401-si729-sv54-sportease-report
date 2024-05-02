@@ -45,7 +45,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Código del Estudiante  | U202212911                         |
 | Carrera                | Ingeniería de Software             |
 | Descripción            | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me gusta la programación y tengo conocimientos en HTML, CSS, JS y C + +. Me considero una persona responsable. |
-| Foto                   | ![Mauricio](/assets/mauricio.png)  |
+| Foto                   | <img src="/assets/mauricio.png" alt="Mauricio Sebastián Chacon Martinez" width="250" height="340"> |
 
 
 | Integrante             | Piero Abel Tarazona Medina         |
@@ -53,7 +53,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Código del Estudiante  | U202217633                         |
 | Carrera                | Ingeniería de Software             |
 | Descripción            |  Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi pensamiento crítico y capacidad de encontrar soluciones viables para los distintos problemas. Tengo conocimientos en HTML, CSS, C + +. |
-| Foto                   | ![Piero](/assets/piero.png) |
+| Foto                   | <img src="/assets/piero.png" alt="Piero Abel Tarazona Medina" width="250" height="340"> |
 
 
 | Integrante             | Flavio Eduardo Trigueros Chumacero |
@@ -61,7 +61,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Código del Estudiante  | U202210190                         |
 | Carrera                | Ingeniería de Software             |
 | Descripción            |  Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 19 años. Me caracterizo por mi pensamiento crítico, actitud trabajadora y detallista, y responsabilidad. Tengo conocimientos en programación con HTML, CSS y JS, además de lenguajes de programación como C ++ y Python. Asimismo, puedo trabajar con normalidad en bases de datos en MySQL y MongoDB. |
-| Foto                   | ![Flavio](/assets/flavio.png)      |
+| Foto                   | <img src="/assets/flavio.png" alt="Flavio Eduardo Trigueros Chumacero" width="250" height="340"> |
 
 
 | Integrante             | Moises Rodolfo Donayre Peña        |
@@ -69,7 +69,7 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 | Código del Estudiante  | U202216021                         |
 | Carrera                | Ingeniería de Software             |
 | Descripción            | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me considero una persona empática y solidaria, además de apoyar a mis compañeros de equipo cuando requieren ayuda. Tengo conocimientos en HTML, CSS y C++ aparte de conocimientos básicos en base de datos. |
-| Foto                   | ![Moises](/assets/moises.png) |
+| Foto                   | <img src="/assets/moises.png" alt="Moises Rodolfo Donayre Peña " width="250" height="340">   |
 
 ## 1.2 Solution Profile
 
@@ -100,11 +100,9 @@ Con la evolución de la tecnología y las nuevas demandas del mercado, las acade
 Para analizar a más detalle los antecedentes y la problemática a la que nuestro proyecto se afronta, vamos a utilizar el modelo práctico de las 5Ws y 2Hs, con el fin de idear un sistema más estructurado y que se centre en las causas del problema principalmente.
 
 ###### Tabla 1.
-
-Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.
-
-| Las 5Ws y 2Hs| Pregunta    | Descripción       |
-|--------------|-------------|-------------------|
+*Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los antecedentes y la problemática que abarca nuestro proyecto.*
+| Las 5Ws y 2Hs | Pregunta    | Descripción       |
+|---------------|-------------|-------------------|
 | What?        | ¿Cuál es el problema? | El problema al que se está afrontando nuestra startup se basa en la falta de un sistema o programa innovador y de calidad con el que las academias deportivas puedan tener una mejor comunicación con sus estudiantes y presentar mejores modelos de organización, gestión y seguimiento para sus instructores y entrenadores. |
 | When?        | ¿Cuándo surge el problema? | Según Rey (2021), el problema puede presentarse en forma de carencias o fallas cuando un instructor quiere organizar los horarios y zonas de juego donde trabajará con sus estudiantes, o cuando quiere comunicarse de forma efectiva o formal con ellos, o cuando quiere medir su nivel de desempeño. Asimismo, estas carencias también pueden presentarse con la propia academia, cuando el instructor quiere reportar sus avances a la institución o cuando necesita obtener información sobre algún tema específico. |
 | Where?       | ¿Dónde surge el problema? | Según lo aclarado por Rey (2021), la problemática surge y se presenta en los aplicativos o programas que utilizan las academias deportivas actualmente, las cuales presentan problemas graves de rendimiento, sostenibilidad y escalabilidad. Asimismo, estas se encuentran muy mal organizadas, presentan funcionalidades poco pulidas y utilizan información desactualizada. |
@@ -166,8 +164,8 @@ En el caso de las secciones y la problemática que abarca nuestro proyecto, desp
 
 **Academias u Organizaciones Deportivas:**
 
-Este segmento abarca todas las entidades que proporcionan programas de entrenamiento y educación deportiva a través de sus instalaciones y metodologías educativas propias. Estas instituciones deben mostrar un interés marcado en la innovación tecnológica y enfocarse en la organización eficiente de horarios, así como en la gestión integral de información relacionada con sus cursos, pagos y personal. Las academias pueden variar ampliamente en tamaño y especialización, desde pequeñas escuelas locales hasta grandes centros deportivos de renombre. Los administradores, entrenadores y personal administrativo de estas academias son los principales usuarios de nuestra plataforma. La eficiente gestión de estas instituciones es crucial para optimizar el rendimiento de los estudiantes/atletas y garantizar un ambiente de aprendizaje efectivo y seguro.
+Este segmento engloba una amplia gama de entidades dedicadas a proporcionar programas de entrenamiento y educación deportiva, sirviéndose de instalaciones especializadas y metodologías educativas exclusivas. Estas instituciones se distinguen por su enfoque en la innovación tecnológica y su compromiso con la organización eficaz de horarios, así como la gestión integral de información relacionada con cursos, pagos y personal. Desde pequeñas escuelas locales hasta grandes centros deportivos de renombre, las academias varían en tamaño y especialización. Los administradores, entrenadores y personal administrativo son los principales beneficiarios de nuestra plataforma, ya que una gestión eficiente es crucial para optimizar el rendimiento de los estudiantes/atletas y garantizar un entorno de aprendizaje efectivo y seguro.
 
 **Alumnos o Deportistas:**
 
-Este segmento está compuesto por individuos activamente involucrados en programas de entrenamiento deportivo ofrecidos por academias o centros de entrenamiento. Los alumnos pueden tener diversos motivos para participar en estas actividades, ya sea por interés en un deporte en particular, la búsqueda de especialización en una disciplina específica o el deseo de mejorar su estilo de vida y salud en general. Este grupo demográfico abarca tanto a jóvenes como a adultos de todas las edades. Ellos experimentaron beneficios significativos al recibir servicios mejorados por parte de las academias donde participan, lo que contribuirá a su desarrollo deportivo y bienestar personal.
+Este segmento está integrado por individuos activamente comprometidos en programas de entrenamiento deportivo ofrecidos por academias o centros de entrenamiento. Los alumnos se sienten atraídos por una variedad de razones, como el interés en un deporte específico, la búsqueda de especialización en una disciplina determinada o el deseo de mejorar su estilo de vida y bienestar general. Este grupo demográfico abarca tanto a jóvenes como a adultos de todas las edades, y han experimentado beneficios significativos al recibir servicios mejorados por parte de las academias donde participan, lo que contribuirá a su desarrollo deportivo y bienestar personal a largo plazo.
