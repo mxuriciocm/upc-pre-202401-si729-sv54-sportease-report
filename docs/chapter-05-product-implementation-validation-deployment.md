@@ -706,3 +706,207 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 ![Flavio](/assets/flavio.png)
 
 ![Moises](/assets/moises.png)
+
+---
+
+### 5.2.2 Sprint 2
+
+En esta sección, documentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 1. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo.
+
+### 5.2.2.1 Sprint Planning 2
+
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
+
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-04-24</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>05:01 PM</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Piero Abel Tarazona Medina</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Moises Rodolfo Donayre Peña, Mauricio Sebastián Chacon Martinez, Flavio Eduardo Trigueros Chumacero, Piero Abel Tarazona Medina</td>
+        </tr>
+            <tr>
+            <td>Sprint 2 – 2 Review Summary</td>
+            <td>l Después de un realizar todos los procedimientos establecidos para la identificación de objetivos y áreas de retroalimentación, hemos podido concluir la reunión del sprint 2 con éxito en términos de avance en los productos de software y en la colaboración general del equipo. El proceso de mejora con la retroalimentación y la programación de varias secciones nuevas en la Aplicación Web significó un gran proceso de mejora para la construcción y realización del sprint, además de reforzar el compromiso de nuestro equipo y la mejora exponencial de las actividades indicadas.</td>
+        </tr>
+            <tr>
+            <td>Sprint 2 – 2 Retrospective Summary</td>
+            <td>Para el proceso de la retrospectiva del Sprint 2, fue necesario que nuestro equipo revisara a detalle toda la retroalimentación recibida ante el primer sprint realizado, para luego generar un análisis a profundidad del desempeño general e individual de todos los miembros del equipo de trabjo. Después de ese proceso, pudimos identificar varias áreas de mejora en las cuales centrarnos para así poder garantizar la entrega de un mejor trabajo y un buen producto para todos nuestros clientes, promoviendo la mejora continua y optimizando los métodos de trabajo en los próximos sprints durante el ciclo de vida del proyecto.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 2 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 2.</td>
+        </tr>
+              <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 8 Story Points </td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es #</td>
+        </tr>
+    </table>
+
+### 5.2.2.2 Sprint Backlog 2
+
+El Sprint 2 está centrado en la implementación de las funcionalidades clave del FrontEnd de la Aplicación Web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los visitantes una experiencia agradable y positiva al presentar todas las funcionalidades derivadas en el FrontEnd, junto con una navegación intuitiva y acceso rápido a la información relevante. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto. Gracias a este proceso, para el final del Sprint Backlog 2, hemos conseguido tener una base sólida del FrontEnd de nuestra Aplicación Web.
+
+<table>
+    <tr>
+        <td colspan="2">Sprint #</td>
+        <td colspan="6">Sprint 2</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Descripcion</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In / Process / ToReview / Done)</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td>Presentación de la página de inicio</td>
+        <td>T01</td>
+        <td>Diseño Atractivo de la Página de Inicio</td>
+        <td>: Crear una página de inicio atractiva y funcional que proporcione un resumen claro de las características principales y los beneficios de SportEase.</td>
+        <td>1 horas</td>
+        <td>Mauricio</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+URL del Board en Trello: https://trello.com/b/NybJnMIm/open-source
+![Board Trello](/assets/trello.png)
+
+### 5.2.1.3 Development Evidence for Sprint Review.
+Esta sección documenta y presenta la serie de commits realizados en el repositorio del FrontEnd de la Aplicación Web. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
+
+| Repository                                         | Branch                       | Commit Id                          | Commit Message                   | Commit Message Body               |Commited on (Date) |
+|----------------------------------------------------|------------------------------|------------------------------------|----------------------------------|-----------------------------------|-------------------|
+| upc-pre-202401-si729-sv54-sportease-landing-page   | main                         | 88ff68d                            | chore: ...                       | initial commit                    | 04/04             |
+
+![Lista de commits](/assets/commits.png)
+
+### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+| Repository                                         | Branch                       | Commit Id                          | Commit Message                   | Commit Message Body               |Commited on (Date) |
+|----------------------------------------------------|------------------------------|------------------------------------|----------------------------------|-----------------------------------|-------------------|
+| upc-pre-202401-si729-sv54-sportease-landing-page   | feature/section-header       | 2e1280d                            | feat: ...                        | add test for header section       | 13/04             |
+
+
+### 5.2.1.5 Execution Evidence for Sprint Review. 
+
+Durante el Sprint 1, se logró un progreso significativo en la implementación de las características clave de la página de inicio del sitio web. El equipo completó con éxito todas las historias de usuario asignadas para este sprint, que incluyeron el desarrollo de un resumen claro de las características y beneficios del sitio web, la integración de acceso visible a información detallada de precios, la adición de un resumen conciso al final de la página de inicio, la inclusión de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto visible en la página de inicio. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+
+Capturas de pantalla:
+
+- Página de Inicio
+
+![Inicio](/assets/inicio.png)
+
+- Resumen de precios
+
+![Precios](/assets/precios.png)
+
+- Acceso Rápido a las Secciones Clave
+
+![Header](/assets/header.png)
+
+- Descripción Detallada de Funcionalidades
+
+![Funcionalidades](/assets/funcionalidades.png)
+
+- Formulario de Contacto
+
+![Contacto](/assets/contacto.png)
+
+- Diseño Responsivo para Dispositivos Móviles:
+
+![Responsive](/assets/responsive.png)
+
+- Call to Action Claro y Efectivo
+
+![Call-to-action](/assets/calltoaction.png)
+
+Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/Eb2ait0YE4dHrqP0hu-a3I8B0bBKBUVyVHK1zUJ_GiBFBA?e=fI4Q65&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
+
+Durante este Sprint 1, nos enfocamos en desarrollar el landing page, sin implementación de cualquier servicio. Por lo tanto, este punto quedará sin actividad en este aspecto.
+
+### 5.2.1.7 Software Deployment Evidence for Sprint Review.
+
+Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en GitHub Pages. A continuación, detallamos los pasos realizados:
+
+1. Primero creamos un repositorio en Github para el landing page
+
+![Ramas](/assets/repo.png)
+
+2. Las ramas necesarias se crean siguiendo el flujo de trabajo de GitFlow.
+
+![Ramas](/assets/ramas.png) 
+
+3. En la configuración del repositorio, se accede a la sección "Pages".
+
+![Ramas](/assets/pages.png)
+
+4. Se ajusta la configuración para indicar la fuente de la landing page.
+
+![Ramas](/assets/fuente.png)
+
+5. Después de guardar la configuración, se genera un enlace para acceder a la landing page.
+
+![Ramas](/assets/enlace.png)
+
+6. Este enlace permite visualizar las actualizaciones realizadas en la rama "develop".
+
+![Ramas](/assets/link.png)
+
+### 5.2.1.8 Team Collaboration Insights during Sprint.
+
+Durante este primer Sprint, hemos completado el desarrollo del landing page y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas.
+Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestra landing page. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección.
+En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica del landing page. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega.
+Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto.
+A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+![Ramas](/assets/ramas.png)
+
+![Mauricio](/assets/mauricio.png)
+
+![Piero](/assets/piero.png)
+
+![Flavio](/assets/flavio.png)
+
+![Moises](/assets/moises.png)
+
