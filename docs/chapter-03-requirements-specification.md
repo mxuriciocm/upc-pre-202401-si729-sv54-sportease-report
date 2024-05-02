@@ -1,16 +1,32 @@
 # Capítulo 3: Requirements Specification
+
 ## 3.1 To-Be Scenario Mapping
 
-Dueño de academia
+Un "To-Be Scenario Mapping" es una técnica utilizada en el diseño de experiencia de usuario (UX) y el análisis de procesos para visualizar y diseñar cómo debería ser un proceso o experiencia en el futuro deseado. El término "to-be" significa "será", lo que indica que este tipo de mapeo se enfoca en representar cómo debería funcionar un proceso o experiencia una vez que se hayan realizado mejoras o cambios.
+
+El To-Be Scenario Mapping implica la creación de un mapa visual que representa las etapas y acciones deseadas en un proceso o experiencia. Este mapa describe cómo deberían ser las interacciones, pasos, decisiones y puntos de contacto en el proceso futuro.
+
+###### Figura 16. 
+*To-be Scenario Mapping del primer User Persona.*
 
 ![To-be dueño](/assets/To-Be_Dueño.png)
 
-Deportistas
+###### Figura 17. 
+*To-be Scenario Mapping del segundo User Persona.*
 
 ![To-be deportista](/assets/To-Be_Deportista.png)
 
 ## 3.2 User Stories
-EPICS
+
+En esta sección, presentaremos un análisis detallado de cada una de las historias de usuario asignadas a lo largo de todo el ciclo de vida del proyecto. El objetivo primordial es asegurar la completa satisfacción de nuestros segmentos de mercado mediante la comprensión y la satisfacción de sus necesidades y expectativas. Para ello, vamos a especificar los requisitos definidos, así como el conjunto de User Stories y Epics que hemos identificado como fundamentales para el éxito del proyecto. Es importante destacar que cada User Story estará acompañada de sus criterios de aceptación, lo que garantizará una comprensión clara de lo que se espera lograr.
+
+Para comenzar este proceso de presentación, vamos a comenzar con una comprensión clara de lo que representan los Epics en nuestro contexto. Los Epics actúan como contenedores de alto nivel que encapsulan conjuntos de funcionalidades o características más amplias del producto. Son los pilares sobre los cuales se construirá la experiencia del usuario y se alcanzarán los objetivos del proyecto según sus métricas ya establecidas de forma ordenada y controlada (Patton et al., 2014). 
+
+Por lo tanto, presentaremos primero nuestro modelo de Epics, que servirá como guía y marco de referencia para comprender la naturaleza y el alcance de las historias de usuario que se presentarán a continuación. Este enfoque asegurará que se tenga una visión clara y completa de los diferentes tipos de historias de usuario, así como de sus divisiones y definiciones correspondientes, facilitando así una mejor comprensión y evaluación del proyecto en su conjunto.
+
+###### Tabla 5.
+*Tabla de épicas establecidas para las historias de usuarios.*
+
 <table>
     <tr>
         <th>Epic ID</th>
@@ -59,7 +75,13 @@ EPICS
     </tr>
 </table>
 
-USER STORIES FOR LANDING PAGE
+En esta próxima sección, presentaremos de forma detallada todas las historias de usuario establecidas en el proyecto de SportEase. Estas historias están meticulosamente diseñadas con el objetivo de alcanzar el máximo nivel de satisfacción por parte de nuestros clientes, al mismo tiempo que nos permiten cumplir con todos los objetivos delineados en el proceso de planificación. Es crucial destacar que cada historia de usuario se categorizará según la sección correspondiente de la arquitectura de software en la que se requieran.
+
+Según Patton et al. (2014), una historia de usuario es una técnica utilizada en el desarrollo de software para describir una funcionalidad o característica desde la perspectiva del usuario final. En cada historia, se captura quién es el usuario, qué necesita hacer y por qué lo necesita. Esta descripción concisa y centrada en el usuario proporciona una guía clara para el equipo de desarrollo al diseñar y construir el producto, manteniendo siempre en mente las necesidades y expectativas del usuario final.
+
+###### Tabla 6.
+*Tabla de las historias de usuarios establecidas para la Landing Page de SportEase.*
+
 <table>
     <tr>
         <th>Epic Id</th>
@@ -157,7 +179,9 @@ USER STORIES FOR LANDING PAGE
     </tr>
 </table>
 
-TECHNICAL STORIES
+###### Tabla 7.
+*Tabla de las historias de técnicas establecidas para todo el proyecto de SportEase.*
+
 <table>
     <tr>
         <th>Epic Id</th>
@@ -194,7 +218,9 @@ TECHNICAL STORIES
     </tr>
 <table>
 
-USER STORIES FOR WEB APPLICATION
+###### Tabla 8.
+*Tabla de las historias de usuario establecidas para la aplicación web de SportEase.*
+
 <table>
     <tr>
         <th>Epic Id</th>
@@ -352,14 +378,32 @@ USER STORIES FOR WEB APPLICATION
 
 ## 3.3 Impact Mapping
 
+El Impact Mapping es una técnica utilizada en el desarrollo de productos y la planificación estratégica para alinear los esfuerzos del equipo con los objetivos de negocio y los resultados deseados. Esta técnica se enfoca en identificar el impacto que un producto o proyecto puede tener en el negocio, los usuarios y otras partes interesadas.
+
+Este pproporciona una vista holística y centrada en los resultados de cómo un producto o proyecto puede generar valor para el negocio y sus partes interesadas. Esto ayuda a los equipos a tomar decisiones más informadas sobre qué características desarrollar y cómo priorizar el trabajo para maximizar el impacto en el negocio y los usuarios (Lee, 2023).
+
+###### Figura 18. 
+*Impact Mapping completo de todos los segmentos objetivos de SportEase.*
+
 ![ImapctMapping](/assets/ImpactMapping.png)
 
 ## 3.4 Product Backlog
 
-Este orden sigue la priorización basada en el valor para el negocio, colocando primero las historias relacionadas con la experiencia del usuario en la Landing Page, luego las funcionalidades esenciales de la aplicación web, y finalmente las historias técnicas necesarias para el desarrollo del sistema.
+En esta sección del proyecto vamos a esquematizar y completar el Product Backlog, un elemento fundamental en la gestión ágil de proyectos de desarrollo de software. El Product Backlog actúa como una lista dinámica y priorizada de todas las funcionalidades, mejoras y requisitos que deben ser desarrollados para el producto. Su orden se basa en la priorización del valor para el negocio y es clave para guiar el trabajo del equipo de desarrollo a lo largo del proyecto.
+
+El Product Backlog se compone de historias de usuario, tareas técnicas y otras actividades relacionadas con el desarrollo del producto. Este orden sigue una lógica clara, colocando en primer lugar aquellas historias relacionadas con la experiencia del usuario en la Landing Page, seguidas de las funcionalidades esenciales de la aplicación web, y finalmente, las historias técnicas necesarias para el desarrollo del sistema (Patton et al., 2014).
+
+Como parte de nuestra iniciativa para esta sección, hemos integrado un modelo de guía de tareas y actividades señaladas para cada integrante dentro del Product Backlog mediante el uso de la aplicación Pivotal Tracker. Los lectores pueden acceder al planeamiento del Product Backlog completo a través del siguiente enlace: https://www.pivotaltracker.com/n/projects/2701202
+
+###### Figura 19. 
+*Modelo de trabajo realizado en la aplicación PivotalTracker para organizar todo el Product Backlog de SportEase.*
 
 ![PivotalTracker](/assets/pivotaltracker.png)
-Link: https://www.pivotaltracker.com/n/projects/2701202
+
+En la siguiente sección se presenta el Product Backlog ya finalizado del proyecto de SportEase. Cada elemento del Product Backlog ha sido cuidadosamente elaborado y priorizado según su valor para el negocio y su relevancia para los usuarios. Este enfoque garantiza que el equipo de desarrollo se enfoque en las características más importantes y valiosas para nuestros usuarios y para el éxito general del proyecto.
+
+###### Tabla 9.
+*Tabla del Product Backlog establecido para el proyecto de SportEase.*
 
 | #Orden    | User Story Id  | Titulo                                                  | Descripcion               | Story Points (1/2/3/5/8)   |
 |-----------|----------------|---------------------------------------------------------|---------------------------|----------------------------|
@@ -391,3 +435,4 @@ Link: https://www.pivotaltracker.com/n/projects/2701202
 |     26    |      US11      | Implementación de Funcionalidades Básicas               | Como miembro del equipo de desarrollo, quiero implementar las funcionalidades básicas de la API REST, como la creación, lectura, actualización y eliminación de recursos, para garantizar el acceso y la manipulación de datos de manera eficiente.                          |   5                        |
 |     27    |      US12      | Gestión de Autenticación y Autorización                 | Como miembro del equipo de desarrollo, quiero integrar un sistema de autenticación y autorización en la API REST, para garantizar la seguridad y la privacidad de los datos de los usuarios de SportEase.                          |   8                        |
 
+---
