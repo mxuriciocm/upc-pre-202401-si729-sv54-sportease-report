@@ -209,10 +209,10 @@ En esta sección se presentaran a todos los usuarios que se encuentran dentro de
 
 | Nombre de Usuario | Imagen de Perfil | Nombre del Integrante del Equipo |
 |-------------------|------------------|----------------------------------|
-| mxuriciocm | <img src="/assets/GitProfilePhoto - Mauricio.png" alt="Mauricio's Github Profile Photo"> | Chacón Martínez, Mauricio Sebastián - U202212911 |
-| MoisesD19 | <img src="/assets/GitProfilePhoto - Moises.png" alt="Moises' Github Profile Photo"> | Donayre Peña, Moises Rodolfo - U202216021 |
-| pierotm | <img src="/assets/GithubProfilePhoto - Piero.png" alt="Piero's Github Profile Photo"> | Tarazona Medina, Piero Abel - U202217633 | 
-| FlavioTrigueros | <img src="/assets/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
+| mxuriciocm | <img src="/assets/GitProfilePhoto - Mauricio.PNG" alt="Mauricio's Github Profile Photo"> | Chacón Martínez, Mauricio Sebastián - U202212911 |
+| MoisesD19 | <img src="/assets/GitProfilePhoto - Moises.PNG" alt="Moises' Github Profile Photo"> | Donayre Peña, Moises Rodolfo - U202216021 |
+| pierotm | <img src="/assets/GitProfilePhoto - Piero.PNG" alt="Piero's Github Profile Photo"> | Tarazona Medina, Piero Abel - U202217633 | 
+| FlavioTrigueros | <img src="/assets/GitProfilePhoto - Flavio.PNG" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
 
 **GitFlow Workflow**
 
