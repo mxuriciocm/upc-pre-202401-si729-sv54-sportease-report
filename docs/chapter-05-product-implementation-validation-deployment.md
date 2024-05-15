@@ -2,11 +2,11 @@
 
 ## 5.1 Software Configuration Management.
 
-Para la gestión de la configuración de software de nuestra aplicación nos enfocaremos en la Gestión de Código Fuente, donde controlaremos las versiones y estableceremos una estructura organizada para el código; la Configuración del Entorno de Desarrollo, aquí nos aseguramos que todos los miembros del equipo tengan herramientas consistentes y la Configuración de Despliegue, que aborda el despliegue en entornos de producción. Esta toma de decisiones garantiza la coherencia y eficiencia a lo largo del ciclo de vida de la aplicación, lo que es necesario para cumplir con nuestra misión de ofrecer a estudiantes, instructores y administradores optimizar sus actividades académicas deportivas.
+Para la gestión de la configuración de software de nuestra aplicación web nos enfocaremos principalmente en la gestión de código fuente, donde controlaremos las versiones y estableceremos una estructura organizada a lo largo de todo el curso de trabajo. Aquí nos aseguramos que todos los miembros del equipo tengan herramientas consistentes para el desarrollo útil y posean una buena configuración de despliegue en el entorno de desarrollo y también ciertas caracteristicas para el entorno de producción. Esta toma de decisiones garantiza la eficiencia, comodidad y coherencia a lo largo de todo el ciclo de vida de la aplicación, lo que es obligatorio para cumplir con nuestra misión y visión y seguir todos nuestros valores y objetivos. De esta forma vamos a ofrecer a nuestro segmento objetivo un espacio seguro, formal e informado en donde buscar y adquirir propiedades para sus bienes raíces, o donde puedan ingresar y publicar las propiedades que quieren vender, junto a otro grupo de funcionalidades ya destacadas en otros capitulos de este informe.
 
 ### 5.1.1 Software Development Environment Configuration
 
-En esta sección nuestro equipo de trabajo va a especificar, describir e indicar los nombres de productos, el propósito de uso en el proyecto, la ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software que deben utilizar los miembros del equipo para colaborar en el ciclo de vida del producto digital.
+En esta sección nuestro equipo de trabajo va a especificar, describir e indicar los nombres de productos, el propósito de uso en el proyecto, la ruta de referencia (para software basado en modelos SaaS) o ruta de descarga (para productos que se ejecutan en el computador del miembro del equipo) de cada uno de los productos de software que deben utilizar los miembros del equipo para colaborar en el ciclo de vida del producto digital, considerando todos los tipos de actividades como Project Management, Requirements Management, Product UX/UI Design, Software Development, Software Testing, Software Deployment, Software Documentation. 
 
 #### Project Management:
 
@@ -144,7 +144,7 @@ Para la documentación de los servicios web, se utilizará el modelo Swagger pro
 
 - Página oficial de Spring Boot: https://spring.io/projects/spring-boot
 
-- Página oficial de Swagger: https://swagger.io/ 
+- Página oficial de Swagger: https://swagger.io/
 
 - Página de guía y seguimiento para Java: https://www.java.com/es/
 
@@ -200,7 +200,19 @@ La siguiente lista presenta todos los enlaces respectivos a la organización de 
 
 - Organización: https://github.com/upc-pre-202401-si729-sv54-sportease
 - Landing Page: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-landing-page
+- Página Web: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-si729-sv54-sportease-web-application
 - Report : https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-report
+
+**Integrantes dentro de la organización:**
+
+En esta sección se presentaran a todos los usuarios que se encuentran dentro de la organización de Github del proyecto de SportEase junto a sus nombres de usuarios respectivos con los integrantes de nuestro equipo. Esto se realizara con el fin de evitar confusión entre los autores de los commits dentro de Github y las personas que lean y analicen el reporte y código planteado dentro de nuestro grupo de trabajo especificado.
+
+| Nombre de Usuario | Imagen de Perfil | Nombre del Integrante del Equipo |
+|-------------------|------------------|----------------------------------|
+| mxuriciocm | <img src="/assets/GitProfilePhoto - Mauricio.png" alt="Mauricio's Github Profile Photo"> | Chacón Martínez, Mauricio Sebastián - U202212911 |
+| MoisesD19 | <img src="/assets/GitProfilePhoto - Moises.png" alt="Moises' Github Profile Photo"> | Donayre Peña, Moises Rodolfo - U202216021 |
+| pierotm | <img src="/assets/GithubProfilePhoto - Piero.png" alt="Piero's Github Profile Photo"> | Tarazona Medina, Piero Abel - U202217633 | 
+| FlavioTrigueros | <img src="/assets/GitProfilePhoto - Flavio.png" alt="Flavio's Github Profile Photo"> | Trigueros Chumacero, Flavio Eduardo - U202210190 |
 
 **GitFlow Workflow**
 
@@ -426,7 +438,7 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
         </tr>
           <tr>
             <td>Time</td>
-            <td>04:06 PM</td>
+            <td>16:06</td>
         </tr>
             <tr>
             <td>Location</td>
@@ -442,11 +454,11 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
         </tr>
             <tr>
             <td>Sprint 1 – 1 Review Summary</td>
-            <td>l Sprint 1 fue un éxito en términos de avance del producto de software y colaboración efectiva del equipo. Los logros alcanzados y la retroalimentación recopilada durante esta revisión proporcionan una base sólida para el siguiente sprint y refuerzan el compromiso del equipo con la calidad y la entrega oportuna del producto.</td>
+            <td>El proceso del sprint 1 concluyo con un claro éxito en términos de avance de los productos softwares dados junto a la colaboración general del equipo y la comunicación. Los logros alcanzados junto a la retroalimentación con la recopilación durante esta revisión proporcionan una buena y sólida base para la construcción y realización del siguiente sprint (2), además de reforzar el compromiso del equipo con la calidad y la entrega responsable.</td>
         </tr>
             <tr>
             <td>Sprint 1 – 1 Retrospective Summary</td>
-            <td>Para la retrospectiva del Sprint 1 nos sirvio para reflexionar sobre el desempeño del equipo y identificar áreas de mejora. Esto nos servira como base para impulsar la mejora continua y optimizar el trabajo del equipo en los próximos sprints.</td>
+            <td>Para la retrospectiva del Sprint 1 fue necesario reflexionar sobre el desempeño general e individual de todos los miembros del equipo de trabajo, además de identificar todas las secciones posibles donde podemos mejorar además del uso de recomendaciones. Esto nos servira como una buena base para impulsar aun más la mejora continua y optimizar el trabajo del equipo en los próximos sprints durante el ciclo de vida del proyecto.</td>
         </tr>
             <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
@@ -457,11 +469,11 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
         </tr>
               <tr>
             <td>Sprint 1 Velocity</td>
-            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points </td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 3 Story Points.</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
-            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 5</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 12.</td>
         </tr>
     </table>
 
@@ -493,7 +505,7 @@ El Sprint 1 está centrado en la implementación de las funcionalidades clave de
         <td>Presentación de la página de inicio</td>
         <td>T01</td>
         <td>Diseño Atractivo de la Página de Inicio</td>
-        <td>: Crear una página de inicio atractiva y funcional que proporcione un resumen claro de las características principales y los beneficios de SportEase.</td>
+        <td>Crear una página de inicio atractiva y funcional que proporcione un resumen claro de las características principales y los beneficios de SportEase.</td>
         <td>1 horas</td>
         <td>Mauricio</td>
         <td>Done</td>
@@ -910,3 +922,335 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 
 ![Moises](/assets/moises.png)
 
+### 5.2.3 Sprint 3.
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el Sprint número 3. Todo el avance descriptivo se muestra aquí junto a su desarrollo, historial y avance en conjunto dado por cada intengrante del equipo de trabajo. Todas las especificaciones siguen desde el Product Backlog del Capitulo 3 de requerimientos.
+
+#### 5.2.3.1 Sprint Planning 3.
+
+En esta sección se explicaran los detalles presentados y analizados durante la reunión del Sprint Planning para el número 3. El objetivo principal de esta reunión es establecer un plan claro y realista para el sprint, identificando las tareas a realizar y comprometiéndose con un conjunto de entregables concretos que contribuyan al avance del proyecto. A continuación, se presenta el resumen del Sprint Planning Meeting, que proporcionará una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+
+###### Tabla 30
+*Tabla del planeamiento a profundidad del Sprint 3.*
+<table>
+        <tr>
+            <td colspan="1">Sprint #</td>
+            <td colspan="1">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024-05-17</td>
+        </tr>
+          <tr>
+            <td>Time</td>
+            <td>17:38</td>
+        </tr>
+            <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+            <tr>
+            <td>Prepared by</td>
+            <td>Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Mallma Quispe, Rubén Elías, Shimabukuro Uku, Carlos Joel, Trigueros Chumacero, Flavio Eduardo, Valenzuela Huillcaya, Aldhair Johan Juan, Yen Cerna, Lucio Heli</td>
+        </tr>
+            <tr>
+            <td>Sprint 3 - 3 Review Summary</td>
+            <td>Tras ejecutar todos los pasos establecidos para identificar metas y áreas de retroalimentación, hemos concluido con éxito la reunión correspondiente al sprint 3. Este encuentro destacó por el progreso alcanzado en los productos de software y la colaboración general del equipo. La implementación de nuevas secciones en la Aplicación Web, junto con la adición de funcionalidades de negocio y servicios web, representó un significativo avance en el proceso de mejora durante la planificación y ejecución del sprint. Este proceso no solo fortaleció el compromiso de nuestro equipo, sino que también impulsó de manera considerable las actividades previamente señaladas.</td>
+        </tr>
+            <tr>
+            <td>Sprint 3 – 3 Retrospective Summary</td>
+            <td>Para llevar a cabo la retrospectiva del Sprint 3, nuestro equipo se vio en la necesidad de examinar detalladamente toda la retroalimentación recibida tras la ejecución del segundo sprint. Posteriormente, realizamos un análisis exhaustivo del desempeño tanto general como individual de todos los integrantes del equipo. Tras este proceso, logramos identificar diversas áreas de oportunidad en las cuales enfocarnos, con el objetivo de asegurar una mejora tanto en la calidad del trabajo como en el producto final entregado a nuestros clientes. Este enfoque hacia la mejora continua busca optimizar los métodos de trabajo para los próximos sprints a lo largo del ciclo de vida del proyecto. Las mejoras propuestas se centran en el rediseño del frontend de nuestra aplicación, así como en el despliegue completo y adecuado, respaldado por una evidencia sólida.</td>
+        </tr>
+            <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+              <tr>
+            <td>Sprint 3 Goal</td>
+            <td>Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado todos los objetivos del sprint 3 con todas las historias de usuario y otros materiales necesarios.</td>
+        </tr>
+              <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>Con el equipo para este sprint 3 decidimos aceptar 8 Story Points</td>
+        </tr>
+              <tr>
+            <td>Sum of Story Points</td>
+            <td>La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 3 es ##</td>
+        </tr>
+    </table>
+
+#### 5.2.3.2 Sprint Backlog 2.
+
+En esta sección se revisara todo el proceso dado para el Sprint Backlog número 3, en el cual nuestro equipo de trabajo se centró principalmente en el diseño, estructuración y organización de la lógica de negocio agregada en nuestra aplicación web con el uso de servicios diferenciados y modelos de base de datos, además de proporcionar un modelo de intercambio de información entre el FrontEnd y el BackEnd. Hemos separado toda la construcción del BackEnd y la conexión con los Web Services en ####### (#) historias de usuario, donde cada integrante del grupo hizo al menos dos. Gracias a este proceso, para el final del Sprint Backlog 3, hemos conseguido tener una página web estable, con buenos modelos de interfaz, conexiones con la API principal y APIs externas, junto a la conexión con servicios web.
+
+###### Tabla 31
+*Tabla principal del planeamiento del Sprint Backlog 3.*
+<table>
+        <tr>
+            <td colspan="2">Sprint #</td>
+            <td colspan="6">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Descripcion</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In / Process / ToReview / Done)</td>
+        </tr>
+        <tr>
+            <td>US##</td>
+            <td>...</td>
+            <td>T##</td>
+            <td>...</td>
+            <td>...</td>
+            <td>1 hora y 30 minutos</td>
+            <td>...</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US##</td>
+            <td>...</td>
+            <td>T##<td>
+            <td>...</td>
+            <td>...</td>
+            <td>1 hora y 10 minutos</td>
+            <td>...</td>
+            <td>Done</td>
+        </tr>
+    </table>
+
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades planificadas de forma completa: https://app.clickup.com/9013153284/v/l/6-901302611184-1 
+
+###### Figura 90
+*Presentación de la tabla de actividades designada para el Sprint 3 en ClickUp.*
+<img src="/assets/img/Lista de Tareas-Sprint3.png" alt="Lista de Tareas del Sprint 3 En ClickUp">
+
+#### 5.2.3.3 Development Evidence for Sprint Review.
+
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 3 referente a los Web Services. Aquí se dejara cada uno de los commits ya implementados dentro del repositorio de Github, junto a toda la información referente y a los cambios concluidos.
+
+###### Tabla 32
+*Tabla de los commits realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
+| Repository | Branch| Commit Id| Commit Message| Commit Message Body|Commited on (Date) |
+|------------|-------|----------|---------------|--------------------|-------------------|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|d3f5583|feat(ALL): initial commit|Se agrega el contenido inicial del proyecto.| 23/04/24|
+|upc-pre-202401--si730-WS52-SmartTech-FrontEnd|Develop|5e5de2d|Rename README.md.txt to README.md|Se agrega el archivo readme del proyecto.| 23/04/24|
+
+cambiar
+
+### 5.2.3.4 Testing Suite Evidence for Sprint Review. 
+
+En esta sección presentaremos la evidencia detallada de las pruebas rigurosas realizadas durante el sprint. Para garantizar la calidad y funcionalidad del producto, hemos empleado la metodología Gherkin para definir escenarios de prueba claros y concisos. Cada uno de estos escenarios se ha registrado meticulosamente en commits específicos en nuestro repositorio de código, lo que proporciona un registro completo y transparente de nuestro proceso de prueba.
+
+###### Tabla 33
+*Tabla de los modelos de pruebas realizados y relacionados con el desarrollo de todas las secciones del Sprint Backlog 3*
+| Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
+|-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
+| upc-pre-202401--si730-WS52-SmarTech-AcceptanceTests | feat(.features): added More User Stories - Ruben - 1 | ff860b5 | feat(.features): added More User Stories | En esta sección se implementaron todos los Acceptance Test para el Sprint 2 de Propertunity | 30/04/24 |
+
+cambiar
+
+#### 5.2.3.5 Execution Evidence for Sprint Review. 
+
+El equipo ha logrado implementar las características clave de la API principal de la startup junto a toda su lógica de negocio y conexiones con servicios web externos y la base de datos. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. En primer lugar, ...
+
+Además de estas ..., se han agregado ...
+
+Para mejorar la experiencia del usuario, se ha trabajado en ...
+
+Finalmente, se han agregado ...
+
+###### Figura 91
+*Muestra con evidencia del ...*
+<img src="/assets/img/Evidencia-LogIn-WebApp.png" alt="Evidencia del ... en la Aplicación Web">
+
+Además de la implementación de estas nuevas caracteristicas y conexiones con los servicios web, el equipo se esforzó por proporcionar una explicación clara y detallada del progreso alcanzado durante el sprint. Se creó un vídeo de presentación y descripción que destaca cómo se lograron los objetivos del sprint 3, y se agregaron todas las descripciones necesarias con respecto a los commits y branches implementados y programados. El enlace del vídeo, publicado en Microsoft Stream, es el siguiente: (Nuevo enlace)
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review. 
+
+En esta sección, presentamos la relación de Endpoints documentados con OpenAPI, que están directamente vinculados con el alcance del Sprint. Iniciamos con una breve introducción que resume los logros alcanzados en relación con la Documentación de Web Services durante este período de desarrollo. A continuación, proporcionamos una tabla detallada que enumera cada Endpoint, junto con las acciones implementadas y los enlaces correspondientes a la documentación desplegada o la URL local en Sprints anteriores al despliegue de Web Services.
+
+(...)
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review.
+
+Dentro del Sprint 3, realizamos el despliegue de ...
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint.
+
+Durante el Sprint 3, nos enfocamos en el desarrollo colaborativo del BackEnd del Web Application de Propertunity junto a la mejora del FrontEnd, donde cada miembro del equipo contribuyó con sus habilidades y conocimientos. Esta colaboración se refleja en los numerosos pull request realizados en nuestro repositorio de código, los cuales están respaldados por capturas de pantalla adjuntas para una documentación detallada. 
+
+Nuestro equipo se reunió tanto en persona como virtualmente para asignar tareas y discutir la estrategia de desarrollo del proyecto. Estas reuniones fueron cruciales para clarificar nuestras responsabilidades individuales y asegurar un desempeño óptimo. Para maximizar la eficiencia, decidimos asignar a cada miembro del equipo una sección específica del BackEnd para desarrollar, lo que nos permitió avanzar rápidamente y cumplir con los plazos establecidos.
+
+Además, programamos sesiones regulares de brainstorming y resolución de problemas, donde compartimos ideas y abordamos cualquier duda o dificultad que surgiera durante el proceso de desarrollo. Estas reuniones fueron fundamentales para resolver obstáculos de manera efectiva y garantizar un progreso constante en la elaboración del BackEnd del Web Application.
+
+###### Figura 98
+*Reporte completo de contribuciones para el desarrollo del Reporte Principal del Proyecto de Propertunity del Sprint 3.*
+
+<img src="/assets/img/Pulse for Main Branch3.png" alt="Pulse for Main Branch3">
+<img src="/assets/img/Contributions for Main3.png" alt="Contributions for Main3">
+<img src="/assets/img/Individual Contributions for Main Branch3.png" alt="Individual Contributions for Main Branch3">
+
+###### Figura 99
+*Reporte completo de contribuciones para el desarrollo del BackEnd del Web Application del Proyecto de Propertunity del Sprint 3.*
+
+<img src="/assets/img/Pulse for BackEnd Web Application.png" alt="Pulse for BackEnd Web Application">
+<img src="/assets/img/Contributions for BackEnd Web Application.png" alt="Contributions for BackEnd Web Application">
+<img src="/assets/img/Individual Contributions for BackEnd Web Application.png" alt="Individual Contributions for BackEnd Web Application">
+
+---
+
+## 5.3. Validation Interviews. 
+
+En esta sección, nuestro equipo se encargará de registrar y detallar las actividades relacionadas con las entrevistas de validación llevadas a cabo a lo largo del proyecto. Es crucial realizar entrevistas de validación en las cuales los usuarios pertenecientes a los segmentos objetivo puedan interactuar tanto con la página de destino como con las aplicaciones pertinentes. Estas interacciones proporcionan información valiosa sobre la experiencia del usuario y la efectividad del diseño. Para llevar a cabo el proceso de validación de manera efectiva, es fundamental aplicar el formato de evaluación heurística específicamente diseñado para este proyecto. Este formato proporcionará un marco estructurado para evaluar la usabilidad y la experiencia del usuario, asegurando así que se aborden adecuadamente los aspectos clave de mejora en el diseño y funcionamiento de las aplicaciones (Papalia, 2024). 
+
+### 5.3.1. Diseño de Entrevistas. 
+
+El equipo se encarga de establecer, para cada segmento objetivo identificado, los elementos que se deben incluir en la sesión de validación. Esto abarca tanto el análisis del Landing Page como de las aplicaciones relacionadas. Además, se detalla el diseño de los user flows de las aplicaciones, los cuales desempeñarán un papel crucial en el proceso de validación. Estos user flows, que representan la secuencia de acciones que los usuarios llevarán a cabo dentro de las aplicaciones, son parte integral del proceso de garantizar una experiencia de usuario óptima. De esta manera, se asegura que cada paso del usuario a través de las aplicaciones sea coherente, intuitivo y cumpla con los objetivos de diseño previamente establecidos.
+
+### 5.3.2. Registro de Entrevistas. 
+
+#### Segmento 1: Personas que deseen comprar o alquilar una propiedad
+
+**Entrevista N°1:**
+
+###### Figura 100
+*Imagen de presentación de la primera entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista-validación-segmento1.png" alt="Entrevista Validación 1 del Segmento 1" width="550" height="300">
+
+*Nota.*
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+- Entrevistador:
+
+---
+
+**Entrevista N°2:**
+
+###### Figura 101
+*Imagen de presentación de la segunda entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista2-validación-segmento1.png" alt="Entrevista Validación 2 del Segmento 1" width="550" height="300">
+
+*Nota.*
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+- Entrevistador:
+
+---
+
+**Entrevista N°3:**
+
+###### Figura 102
+*Imagen de presentación de la tercera entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista3-validación-segmento1.png" alt="Entrevista Validación 3 del Segmento 1" width="550" height="300">
+
+*Nota.*
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+- Entrevistador:
+
+---
+
+#### Segmento 2: Anunciantes que deseen publicar una propiedad en venta o alquiler.
+
+**Entrevista N°4:**
+
+###### Figura 103
+*Imagen de presentación de la cuarta entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista-validación-segmento2.png" alt="Entrevista Validación 1 del Segmento 2" width="550" height="300">
+
+*Nota.*
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+- Entrevistador:
+  
+---
+
+**Entrevista N°5:**
+
+###### Figura 104
+*Imagen de presentación de la quinta entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista2-validación-segmento2.png" alt="Entrevista Validación 2 del Segmento 2" width="550" height="300">
+
+*Nota.*
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+- Entrevistador:
+
+---
+
+**Entrevista N°6:**
+
+###### Figura 105
+*Imagen de presentación de la sexta entrevista de validación realizada.*
+
+<img src="/assets/img/entrevistas/entrevista3-validación-segmento2.png" alt="Entrevista Validación 3 del Segmento 2" width="550" height="300">
+
+*Nota.*
+
+**Datos principales:**
+- Nombre completo del entrevistado: 
+- Edad: 
+- Distrito: 
+- Link: 
+- Inicio de la entrevista: 
+- Duración: 
+- Entrevistador:
+
+---
+
+### 5.3.3. Evaluaciones según heurísticas. 
+
+En esta sección se encuentra el proceso detallado de evaluación de las sesiones de validación, el cual se fundamenta en una serie de heurísticas que abarcan distintos aspectos clave. Estas heurísticas incluyen tanto criterios de usabilidad como de arquitectura de la información, e incluso aspectos relacionados con el diseño de la experiencia propuesta. Al considerar estos diversos aspectos, se busca garantizar una evaluación integral y exhaustiva de la experiencia del usuario en todas sus dimensiones. Esto permite identificar tanto fortalezas como áreas de oportunidad en el diseño y funcionamiento de las aplicaciones, con el objetivo de mejorar continuamente la calidad y eficacia del producto final.
+
+## 5.4. Video About-the-Product. 
+
+En esta sección, el equipo presenta y detalla el contenido del Video "About-the-Product", el cual está dirigido tanto a los visitantes del Landing Page como a los usuarios de las Aplicaciones. Este video tiene como objetivo proporcionar información sobre el modelo de negocio y las principales características de los productos de software. Para lograr una comunicación efectiva, el tono utilizado debe ser coherente con la imagen y el tono general adoptado para el producto. 
