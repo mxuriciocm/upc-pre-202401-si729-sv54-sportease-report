@@ -40,7 +40,8 @@ En Juniors Team, estamos comprometidos con una serie de valores fundamentales qu
 
 
 ### 1.1.2 Perfiles de integrantes del equipo
-| Integrante             | Mauricio Sebastián Chacon Martinez |
+
+| Integrante             | Chacon Martinez Mauricio Sebastián |
 |------------------------|------------------------------------|
 | Código del Estudiante  | U202212911                         |
 | Carrera                | Ingeniería de Software             |
@@ -91,7 +92,7 @@ En SportEase, nuestro objetivo primordial es ofrecer una solución integral que 
 
 ### 1.2.1 Antecedentes y problemática
 
-Según la Oficina de Presupuesto y Planificación del Instituto Peruano del Deporte (2022), debido a la pandemia causada por el virus del Covid-19, el número de participantes en actividades físicas, deportivas y recreativas se vio significativamente reducido, pasando de 1 978 576 en 2019 a tan solo un 827 350 en el 2020. Asimismo, el presupuesto ejecutado en las actividades ya mencionadas bajo de un S/.8 073 045 en el 2019 a un S/.3 329 016 en el 2020. Estos cambios en los datos serían causados, principalmente, por las medidas de cuarentena impuestas por el Gobierno Peruano ante la pandemia.
+Según la Oficina de Presupuesto y Planificación del Instituto Peruano del Deporte (2022), debido a la pandemia causada por el virus del Covid-19, el número de participantes en actividades físicas, deportivas y recreativas se vio significativamente reducido, pasando de 1 978 576 en 2019 a tan solo un 827 350 en el 2020. Asimismo, el presupuesto ejecutado en las actividades ya mencionadas bajó de un S/.8 073 045 en el 2019 a un S/.3 329 016 en el 2020. Estos cambios en los datos serían causados, principalmente, por las medidas de cuarentena impuestas por el Gobierno Peruano ante la pandemia.
 
 Ya después, en el 2022, la mayoría de las academias registradas volvieron a ofrecer sus servicios, pero aún utilizando sistemas obsoletos poco optimizados que se diferenciaban demasiado de otras instituciones educativas que sí llegaron a avanzar en temas de virtualidad. Esto provocó que el avance deportivo fuera yendo a un ritmo bastante lento a pesar de que en el Perú al menos el 60% de los habitantes practicaba algún deporte antes de la pandemia. Esto también se puede ver con el Número de participantes en Actividades físicas hasta finales del año 2022, en el cual solo había subido a 919 648 con respecto al año 2020, además de haber una terrible caída en el presupuesto ejecutado, pasando de S/. 3 329 016 a tan solo S/. 818 838.
 
