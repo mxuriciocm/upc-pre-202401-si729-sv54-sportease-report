@@ -94,7 +94,7 @@ De esta forma, el segmento de mercado de esta aplicación puede mantener una org
 ### 2.1.1 Análisis competitivo
 
 ###### Tabla 2.
-*Análisis Competitivo organizado para todos los competidores potenciales de SportEase*
+*Análisis Competitivo organizado para todos los competidores potenciales de SportEase.*
 
 <table border="1" style="text-align:center;">
 	<tbody>
@@ -485,7 +485,7 @@ Datos principales:
 Datos principales:
 
 - Nombre completo del entrevistado: Mia Navarro
-- Edad:18
+- Edad: 18
 - Distrito: Los Olivos, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EaGiU3ioCtBDtUPCzPgUPswBAHqRvKFJJ514qpWHhoR7CQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ii0bzJ
 - Inicio de entrevista: 0:01 minutos
@@ -520,14 +520,14 @@ Datos principales:
 - Edad: 19
 - Distrito: Chorrillos, Lima
 - Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210190_upc_edu_pe/ER-4cmYthSBPpEQ48lpyU5wBfnIm45R92ErKbvFivbx7jw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=EDs9FL
-- Inicio de entrevista: 0:21
-- Duración: 9:37
+- Inicio de entrevista: 0:21 minutos
+- Duración: 9:37 minutos
 
 ### 2.2.3 Análisis de entrevistas
 
 **Análisis con respecto al segmento de Dueño de Academia:**
 
-Durante las entrevistas con los propietarios de academias deportivas, surgieron una serie de temas que destacaron la urgente necesidad de contar con herramientas efectivas para promover, gestionar y organizar sus establecimientos deportivos. Los propietarios expresaron inquietudes significativas sobre la complejidad en la elaboración de horarios, identificando este aspecto como un desafío recurrente que impacta tanto en la satisfacción del cliente como en la eficiencia operativa de la academia. Esta problemática no solo generaba malestar entre los segmentos objetivo de la academia, sino que también obstaculiza su capacidad para operar de manera fluida y efectiva. Además, la comunicación limitada a través de plataformas como WhatsApp resultaba insuficiente para facilitar una coordinación eficaz entre el personal y los clientes, exacerbando la situación.
+Durante las entrevistas con los propietarios de academias deportivas, surgieron una serie de temas que destacaron la urgente necesidad de contar con herramientas efectivas para promover, gestionar y organizar sus establecimientos deportivos. Los propietarios expresaron inquietudes significativas sobre la complejidad en la elaboración de horarios, identificando este aspecto como un desafío recurrente que impacta tanto en la satisfacción del cliente como en la eficiencia operativa de la academia. Esta problemática no solo generaba malestar entre los segmentos objetivo de la academia, sino que también obstaculizaba su capacidad para operar de manera fluida y efectiva. Además, la comunicación limitada a través de plataformas como WhatsApp resultaba insuficiente para facilitar una coordinación eficaz entre el personal y los clientes, exacerbando la situación.
 
 Para abordar estos desafíos, los propietarios recomendaron la adopción de sistemas ya optimizados y de alto rendimiento que permitieran una comunicación directa y sin limitaciones para los clientes, proporcionando un canal rápido y directo para que estos puedan plantear sus inquietudes y consultas al personal de la academia. Asimismo, enfatizaron la importancia de una interfaz agradable y cómoda para evitar abrumar o desinteresar a los clientes durante su interacción con la aplicación.
 
@@ -562,6 +562,8 @@ Para reconocer las demandas de los usuarios, empleamos diversos enfoques. Primer
 El proceso de creación de user personas es esencial para comprender las necesidades, desafíos y expectativas de los diferentes segmentos de usuarios en el contexto de nuestra aplicación SportEase, que se enfoca en brindar soluciones tecnológicas a academias deportivas. Estos user personas sirven como representaciones ficticias pero realistas de los usuarios reales con los que interactuamos en el ámbito empresarial.
 
 Las entrevistas realizadas con propietarios de academias deportivas como Karla Paola Martínez Quiroz y Katherine Del Carmen Martínez Quiroz proporcionaron una valiosa perspectiva sobre los problemas y desafíos que enfrentan en la gestión diaria de sus academias. Estos propietarios, como representantes de nuestro segmento objetivo B2B, expresaron preocupaciones específicas relacionadas con la elaboración de horarios, la comunicación limitada con el personal y los clientes, la organización de eventos deportivos y la evaluación del desempeño de instructores y deportistas. Además, identificaron la necesidad de contar con un sistema financiero integrado para facilitar los pagos de los alumnos.
+
+Asimismo las entrevistas realizadas con deportistas como Mia Navarro, Lucio Heli Yen Cerna y Renzo Silva, integraron una perspectiva importante sobre los problemas y desafíos que enfrentan en la organización de horarios y presentación en cursos. Estos deportistas, como representantes de nuestro segmento objetivo B2B, expresaron preocupaciones específicas relacionadas con la elaboración de horarios, la comunicación limitada con los profesores, el pago de mensualidad o similares, y la obtención de información de cursos. 
 
 Estos hallazgos del análisis de entrevistas nos brindan una comprensión profunda de las necesidades y expectativas de nuestros clientes empresariales en el sector de las academias deportivas. Esto nos permite diseñar soluciones centradas en el usuario que aborden estos desafíos de manera efectiva y agreguen valor a sus operaciones comerciales.
 
