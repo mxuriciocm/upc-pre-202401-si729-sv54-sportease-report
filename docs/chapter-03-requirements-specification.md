@@ -96,28 +96,28 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US01</td>
         <td rowspan="2">Presentación de la Página de Inicio</td>
         <td rowspan="2">Como visitante, quiero encontrar una página de inicio diseñada de manera atractiva y funcional que me proporcione un resumen claro y conciso de las características principales y los beneficios para tener una idea rápida sobre lo que ofrece la plataforma.</td>
-        <td>Visualización del Resumen en el Landing Page - Dado el visitante accede al landing page del sitio web. Cuando el visitante visualiza la sección de resumen rápido. Entonces se presenta un resumen claro y conciso de las principales características y beneficios del sitio web, destacando los puntos más relevantes de manera atractiva y fácil de entender.</td>
+        <td>Visualización del Resumen en el Landing Page: Dado que el visitante accede al landing page del sitio web. Cuando el visitante visualiza la sección de resumen rápido. Entonces se presenta un resumen claro y conciso de las principales características y beneficios del sitio web, destacando los puntos más relevantes de manera atractiva y fácil de entender.</td>
     </tr>
     <tr>
-        <td>Información Asertiva y Relevante - Dado el visitante está leyendo el resumen en el landing page. Cuando el visitante revisa la información presentada. Entonces la información proporcionada se centra en los aspectos más importantes y distintivos del sitio web, ofreciendo una visión rápida y clara de lo que ofrece y cómo puede beneficiar al usuario.</td>
+        <td>Información Asertiva y Relevante: Dado que el visitante está leyendo el resumen en el landing page. Cuando el visitante revisa la información presentada. Entonces la información proporcionada se centra en los aspectos más importantes y distintivos del sitio web, ofreciendo una visión rápida y clara de lo que ofrece y cómo puede beneficiar al usuario.</td>
     </tr>
     <tr>
         <td rowspan="2">US02</td>
         <td rowspan="2">Resumen de precios</td>
         <td rowspan="2">Como visitante del segmento administrador quiero una vista detallada del plan ofrecido por el sitio web para tomar una desicion de compra a conciencia.</td>
-        <td>Acceso a la Información del Plan - Dado el visitante del segmento administrador está en el sitio web. Cuando el visitante busca información detallada sobre el plan ofrecido. Entonces se proporciona un acceso claro y visible a la página o sección que describe en detalle el plan ofrecido, ya sea a través del menú de navegación, enlaces destacados o botones de llamada a la acción.</td>
+        <td>Acceso a la Información del Plan: Dado que el visitante del segmento administrador está en el sitio web. Cuando el visitante busca información detallada sobre el plan ofrecido. Entonces se proporciona un acceso claro y visible a la página o sección que describe en detalle el plan ofrecido, ya sea a través del menú de navegación, enlaces destacados o botones de llamada a la acción.</td>
     </tr>
     <tr>
-        <td>Descripción Completa y Clara del Plan - Dado el visitante está en la página de información del plan. Cuando el visitante lee la descripción del plan. Entonces se presenta una descripción completa y clara del plan ofrecido, incluyendo características, beneficios, limitaciones, términos y condiciones, precio y cualquier otra información relevante que permita al visitante entender completamente lo que está incluido en el plan.</td>
+        <td>Descripción Completa y Clara del Plan: Dado que el visitante está en la página de información del plan. Cuando el visitante lee la descripción del plan. Entonces se presenta una descripción completa y clara del plan ofrecido, incluyendo características, beneficios, limitaciones, términos y condiciones, precio y cualquier otra información relevante que permita al visitante entender completamente lo que está incluido en el plan.</td>
     </tr>
     <tr>
         <td rowspan="2">US03</td>
         <td rowspan="2">Navegación Rápida y Fluida</td>
-        <td rowspan="2">Como visitante, quiero una experiencia de usuario optimizada en la landing page, que me brinde una navegación fluida y detallada, permitiéndome tomar decisiones conscientes sobre el uso de la plataforma.</td>
-        <td>Navegación Intuitiva y Fluida - Dado el visitante navega por la landing page. Cuando el visitante interactúa con la página y busca acceder a diferentes secciones. Entonces la navegación es intuitiva y fluida, permitiendo al visitante acceder fácilmente a las diferentes secciones de la página y encontrar la información que busca sin dificultad.</td>
+        <td rowspan="2">Como visitante, quiero una experiencia de usuario optimizada en la landing page, la cual me brinde una navegación fluida y detallada, lo que me permitirá tomar decisiones conscientes sobre el uso de la plataforma.</td>
+        <td>Navegación Intuitiva y Fluida: Dado que el visitante navega por la landing page. Cuando el visitante interactúa con la página y busca acceder a diferentes secciones. Entonces la navegación es intuitiva y fluida, permitiendo al visitante acceder fácilmente a las diferentes secciones de la página y encontrar la información que busca sin dificultad.</td>
     </tr>
     <tr>
-        <td>Experiencia de Usuario Optimizada -Dado el visitante carga la landing page en su navegador. Cuando el visitante interactúa con los elementos de la página, como botones, menús y enlaces. Entonces la página responde de manera rápida y eficiente a las acciones del usuario, proporcionando una experiencia fluida y sin retrasos.</td>
+        <td>Experiencia de Usuario Optimizada: Dado que el visitante carga la landing page en su navegador. Cuando el visitante interactúa con los elementos de la página, como botones, menús y enlaces. Entonces la página responde de manera rápida y eficiente a las acciones del usuario, proporcionando una experiencia fluida y sin retrasos.</td>
     </tr>
     <!-- EPIC 07 -->
     <tr>
@@ -125,48 +125,48 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US04</td>
         <td rowspan="2">Acceso Rápido a las Secciones Clave</td>
         <td rowspan="2">Como visitante, quiero encontrar un menú de navegación en el header de la landing page que me permita acceder rápidamente a las secciones clave de SportEase, como información sobre la plataforma, suscripciones, funcionalidades y contacto.</td>
-        <td>Visibilidad del Menú de Navegación - Dado que el visitante carga la landing page en su navegador. Cuando el visitante visualiza la página. Entonces el menú de navegación está claramente visible en el header de la página, ubicado en una posición destacada y fácilmente identificable.</td>
+        <td>Visibilidad del Menú de Navegación: Dado que el visitante carga la landing page en su navegador. Cuando el visitante visualiza la página. Entonces el menú de navegación está claramente visible en el header de la página, ubicado en una posición destacada y fácilmente identificable.</td>
     </tr>
     <tr>
-        <td>Acceso Rápido a Secciones Clave - Dado que el visitante está en la landing page. Cuando el visitante hace clic en una opción del menú de navegación. Entonces el visitante es redirigido de manera rápida y directa a la sección correspondiente del sitio web, como información sobre la plataforma, suscripciones, funcionalidades o contacto, sin demoras ni tiempos de carga prolongados.</td>
+        <td>Acceso Rápido a Secciones Clave: Dado que el visitante está en la landing page. Cuando el visitante hace clic en una opción del menú de navegación. Entonces el visitante es redirigido de manera rápida y directa a la sección correspondiente del sitio web, como información sobre la plataforma, suscripciones, funcionalidades o contacto, sin demoras ni tiempos de carga prolongados.</td>
     </tr>
     <tr>
         <td rowspan="2">US05</td>
         <td rowspan="2"> Descripción Detallada de Funcionalidades</td>
-        <td rowspan="2">Como visitante, quiero encontrar una sección en la landing page que describa detalladamente las funcionalidades de SportEase para comprender cómo puede beneficiarme el uso de la plataforma.</td>
-        <td>Contenido Detallado y Comprensible - Dado que el visitante carga la landing page en su navegador. Cuando el visitante accede a la sección de descripción de funcionalidades. Entonces se presenta contenido detallado que describe cada funcionalidad de SportEase de manera clara y comprensible, explicando su propósito, beneficios y cómo puede beneficiar al usuario.</td>
+        <td rowspan="2">Como visitante, quiero encontrar una sección en la landing page que describa detalladamente las funcionalidades de SportEase para comprender cómo puedo beneficiarme con el uso de la plataforma.</td>
+        <td>Contenido Detallado y Comprensible: Dado que el visitante carga la landing page en su navegador. Cuando el visitante accede a la sección de descripción de funcionalidades. Entonces se presenta contenido detallado que describe cada funcionalidad de SportEase de manera clara y comprensible, explicando su propósito, beneficios y cómo puede beneficiar al usuario.</td>
     </tr>
     <tr>
-        <td>Organización y Estructura - Dado que el visitante está en la sección de descripción de funcionalidades. Cuando el visitante revisa el contenido. Entonces las funcionalidades se presentan de manera organizada y estructurada, facilitando la lectura y comprensión del visitante. Se utiliza un formato coherente y sección clara para cada funcionalidad.</td>
+        <td>Organización y Estructura: Dado que el visitante está en la sección de descripción de funcionalidades. Cuando el visitante revisa el contenido. Entonces las funcionalidades se presentan de manera organizada y estructurada, facilitando la lectura y comprensión del visitante. Se utiliza un formato coherente y sección clara para cada funcionalidad.</td>
     </tr>
     <tr>
         <td rowspan="2">US06</td>
         <td rowspan="2">Formulario de Contacto</td>
         <td rowspan="2">Como visitante, quiero encontrar un formulario de contacto en la landing page para poder comunicarme fácilmente con el equipo de SportEase y obtener más información sobre la plataforma.</td>
-        <td>Visibilidad del Formulario - Dado que el visitante carga la landing page en su navegador. Cuando el visitante accede a la sección donde se espera encontrar el formulario de contacto. Entonces el formulario de contacto está claramente visible en la landing page, ubicado en un lugar prominente y fácilmente identificable, como en el footer o una sección dedicada específicamente al contacto.</td>
+        <td>Visibilidad del Formulario: Dado que el visitante carga la landing page en su navegador. Cuando el visitante accede a la sección donde se espera encontrar el formulario de contacto. Entonces el formulario de contacto está claramente visible en la landing page, ubicado en un lugar prominente y fácilmente identificable, como en el footer o una sección dedicada específicamente al contacto.</td>
     </tr>
     <tr>
-        <td>Facilidad de Uso - Dado que el visitante está en la sección donde se encuentra el formulario de contacto. Cuando el visitante interactúa con el formulario. Entonces el formulario de contacto es fácil de usar, con campos claros y etiquetas descriptivas. Se proporcionan instrucciones claras sobre cómo completar el formulario y qué información se espera del visitante.</td>
+        <td>Facilidad de Uso: Dado que el visitante está en la sección donde se encuentra el formulario de contacto. Cuando el visitante interactúa con el formulario. Entonces el formulario de contacto es fácil de usar, con campos claros y etiquetas descriptivas. Se proporcionan instrucciones claras sobre cómo completar el formulario y qué información se espera del visitante.</td>
     </tr>
     <!-- EPIC 8 -->
     <tr>
         <td rowspan="6">EP08</td>
         <td rowspan="2">US07</td>
-        <td rowspan="2">Diseño Responsivo para Dispositivos Móviles:</td>
+        <td rowspan="2">Diseño Responsivo para Dispositivos Móviles</td>
         <td rowspan="2">Como visitante que accede desde un dispositivo móvil, quiero que la landing page de SportEase tenga un diseño responsivo que se adapte adecuadamente a mi pantalla, garantizando una experiencia de usuario óptima y fácil navegación.</td>
-        <td>Adaptabilidad de la Interfaz - Dado que el visitante carga la landing page de SportEase desde un dispositivo móvil con diferentes tamaños de pantalla. Cuando el visitante accede a la página. Entonces la página se adapta automáticamente al tamaño de la pantalla del dispositivo móvil, asegurando que todos los elementos de la página se muestren correctamente y de manera legible sin necesidad de hacer zoom o desplazamiento horizontal.</td>
+        <td>Adaptabilidad de la Interfaz: Dado que el visitante carga la landing page de SportEase desde un dispositivo móvil con diferentes tamaños de pantalla. Cuando el visitante accede a la página. Entonces la página se adapta automáticamente al tamaño de la pantalla del dispositivo móvil, asegurando que todos los elementos de la página se muestren correctamente y de manera legible sin necesidad de hacer zoom o desplazamiento horizontal.</td>
     </tr>
     <tr>
-        <td>Legibilidad del Contenido - Dado que el visitante visualiza el contenido de la landing page desde un dispositivo móvil. Cuando el visitante lee el texto y los elementos de la página. Entonces el texto y otros elementos de la página son legibles y están correctamente formateados para dispositivos móviles, con tamaños de fuente adecuados, espaciado apropiado y disposición coherente.</td>
+        <td>Legibilidad del Contenido: Dado que el visitante visualiza el contenido de la landing page desde un dispositivo móvil. Cuando el visitante lee el texto y los elementos de la página. Entonces el texto y otros elementos de la página son legibles y están correctamente formateados para dispositivos móviles, con tamaños de fuente adecuados, espaciado apropiado y disposición coherente.</td>
     </tr>
     <tr>
         <td rowspan="2">US08</td>
         <td rowspan="2">Call to Action Claro y Efectivo</td>
         <td rowspan="2">Como visitante de la landing page de SportEase, espero encontrar llamadas a la acción (CTA) claras y efectivas que me guíen hacia los pasos que debo seguir para interactuar con el sitio de manera óptima y lograr mis objetivos, como registrarme, suscribirme o explorar más información.</td>
-        <td>Visibilidad Clara - Dado que el visitante carga la landing page de SportEase en su navegador. Cuando el visitante visualiza la página sin desplazarse. Entonces las llamadas a la acción están ubicadas en áreas prominentes de la página, como el encabezado, el cuerpo o el pie de página, y son fácilmente identificables sin la necesidad de desplazamiento.</td>
+        <td>Visibilidad Clara: Dado que el visitante carga la landing page de SportEase en su navegador. Cuando el visitante visualiza la página sin desplazarse. Entonces las llamadas a la acción están ubicadas en áreas prominentes de la página, como el encabezado, el cuerpo o el pie de página, y son fácilmente identificables sin la necesidad de desplazamiento.</td>
     </tr>
     <tr>
-        <td>Llamadas a la Acción Atractivas - Dado que el visitante navega por la landing page de SportEase. Cuando el visitante visualiza las llamadas a la acción. Entonces las CTA están diseñadas de manera atractiva y destacan visualmente en la página, utilizando colores contrastantes, botones llamativos o elementos gráficos que inviten a la interacción.</td>
+        <td>Llamadas a la Acción Atractivas: Dado que el visitante navega por la landing page de SportEase. Cuando el visitante visualiza las llamadas a la acción. Entonces las CTA están diseñadas de manera atractiva y destacan visualmente en la página, utilizando colores contrastantes, botones llamativos o elementos gráficos que invitan a la interacción.</td>
     </tr>
     <tr>
         <td rowspan="2">US09</td>
