@@ -196,25 +196,25 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US10</td>
         <td rowspan="2">Configuración de la API REST</td>
         <td rowspan="2">Como miembro del equipo de desarrollo, quiero configurar correctamente la API REST para la plataforma SportEase, estableciendo rutas, métodos y parámetros necesarios para el intercambio de datos entre el cliente y el servidor.</td>
-        <td>Configuración de Rutas - Dado que el equipo de desarrollo ha configurado la API REST para SportEase. Cuando se accede al endpoint principal de la API (/api/sportease).Entonces se muestran las rutas disponibles correctamente configuradas para los diferentes recursos y funcionalidades de la plataforma.</td>
+        <td>Configuración de Rutas: Dado que el equipo de desarrollo ha configurado la API REST para SportEase. Cuando se accede al endpoint principal de la API (/api/sportease).Entonces se muestran las rutas disponibles correctamente configuradas para los diferentes recursos y funcionalidades de la plataforma.</td>
     </tr>
     <tr>
-        <td>Definición de Métodos HTTP - Dado que se han establecido los métodos HTTP adecuados para cada operación en la API. Cuando se realizan solicitudes utilizando los métodos HTTP especificados (GET, POST, PUT, DELETE). Entonces el servidor procesa las solicitudes según el método especificado y devuelve las respuestas correspondientes.</td>
+        <td>Definición de Métodos HTTP: Dado que se han establecido los métodos HTTP adecuados para cada operación en la API. Cuando se realizan solicitudes utilizando los métodos HTTP especificados (GET, POST, PUT, DELETE). Entonces el servidor procesa las solicitudes según el método especificado y devuelve las respuestas correspondientes.</td>
     </tr>
     <tr>
         <td rowspan="2">US11</td>
         <td rowspan="2">Implementación de Funcionalidades Básicas</td>
         <td rowspan="2">Como miembro del equipo de desarrollo, quiero implementar las funcionalidades básicas de la API REST, como la creación, lectura, actualización y eliminación de recursos, para garantizar el acceso y la manipulación de datos de manera eficiente.</td>
-        <td>Creación de Recursos - Dado que la API REST de SportEase ha sido implementada. Cuando se envían solicitudes POST a los endpoints correspondientes para crear nuevos recursos. Entonces se crean los recursos en la base de datos y se devuelve una respuesta con el código de estado 201 (Created) junto con los datos del nuevo recurso creado.</td>
+        <td>Creación de Recursos: Dado que la API REST de SportEase ha sido implementada. Cuando se envían solicitudes POST a los endpoints correspondientes para crear nuevos recursos. Entonces se crean los recursos en la base de datos y se devuelve una respuesta con el código de estado 201 (Created) junto con los datos del nuevo recurso creado.</td>
     </tr>
     <tr>
-        <td>Lectura de Recursos - Dado que la API REST de SportEase está en funcionamiento. Cuando se realizan solicitudes GET a los endpoints para obtener información sobre los recursos. Entonces se devuelven respuestas con el código de estado 200 (OK) junto con los datos solicitados en el formato especificado (por ejemplo, JSON).</td>
+        <td>Lectura de Recursos: Dado que la API REST de SportEase está en funcionamiento. Cuando se realizan solicitudes GET a los endpoints para obtener información sobre los recursos. Entonces se devuelven respuestas con el código de estado 200 (OK) junto con los datos solicitados en el formato especificado (por ejemplo, JSON).</td>
     </tr>
     <tr>
         <td rowspan="2">US12</td>
         <td rowspan="2">Gestión de Autenticación y Autorización</td>
         <td rowspan="2">Como miembro del equipo de desarrollo, quiero integrar un sistema de autenticación y autorización en la API REST, para garantizar la seguridad y la privacidad de los datos de los usuarios de SportEase.</td>
-        <td>Registro de Usuarios - Dado que un usuario desea registrarse en SportEase. Cuando se envía una solicitud POST al endpoint de registro con los datos de usuario requeridos, como nombre de usuario, correo electrónico y contraseña. Entonces se crea una nueva cuenta de usuario en la base de datos y se devuelve una respuesta con el código de estado 201 (Created) junto con un token de acceso JWT (JSON Web Token) válido para la autenticación posterior.</td>
+        <td>Registro de Usuarios: Dado que un usuario desea registrarse en SportEase. Cuando se envía una solicitud POST al endpoint de registro con los datos de usuario requeridos, como nombre de usuario, correo electrónico y contraseña. Entonces se crea una nueva cuenta de usuario en la base de datos y se devuelve una respuesta con el código de estado 201 (Created) junto con un token de acceso JWT (JSON Web Token) válido para la autenticación posterior.</td>
     </tr>
 <table>
 
@@ -235,57 +235,57 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US13</td>
         <td rowspan="2">Registro de Asistencia de Estudiantes</td>
         <td rowspan="2">Como administrador de una academia deportiva, quiero poder marcar la asistencia de los estudiantes a mis clases y registrar las ausencias de manera eficiente.</td>
-        <td>Dado que soy un administrador, cuando un estudiante tenga una mensualidad próxima a vencerse, debo recibir una notificación automática en la plataforma.</td>
+        <td>Notificación de vencimiento de mensualidad: Dado que soy administrador, cuando un estudiante tenga una mensualidad próxima a vencerse, debo recibir una notificación automática en la plataforma.</td>
     </tr>
     <tr>
-        <td>Dado que quiero tomar medidas rápidas sobre la mensualidad pendiente, cuando recibo la notificación, debo poder acceder rápidamente a la página de gestión de pagos para comunicarme con el estudiante y recordarle sobre el pago pendiente.</td>
+        <td>Acceso rápido a páginas de gestión de pagos: Dado que quiero tomar medidas rápidas sobre la mensualidad pendiente, cuando recibo la notificación, debo poder acceder rápidamente a la página de gestión de pagos para comunicarme con el estudiante y recordarle sobre el pago pendiente.</td>
     </tr>
     <tr>
         <td rowspan="2">US14</td>
         <td rowspan="2">Registro de Asistencia y Puntualidad de Profesores</td>
         <td rowspan="2">Como administrador de una academia deportiva, necesito poder llevar un registro de la asistencia y la puntualidad de los profesores para garantizar la calidad y consistencia de las clases.</td>
-        <td>Dado que accedo al sistema de gestión, cuando accedo al sistema de gestión, entonces debo poder registrar la asistencia de cada profesor a sus clases programadas.</td>
+        <td>Registrar asistencia de profesores: Dado que quiero acceder al sistema de gestión, cuando ingrese directamente, entonces debo poder registrar la asistencia de cada profesor a sus clases programadas.</td>
     </tr>
     <tr>
-        <td>Dado que un profesor llega tarde a una clase, cuando un profesor llega tarde a una clase, entonces debo poder registrar su tardanza en el sistema y documentar la duración de la misma.</td>
+        <td>Registrar tardanza de un profesor: Dado que me encuentro dentro de la página de registro de asistencias, cuando un profesor llega tarde a una clase, entonces debo poder registrar su tardanza en el sistema y documentar la duración de la misma.</td>
     </tr>
     <tr>
         <td rowspan="2">US15</td>
         <td rowspan="2">Gestión de Eventos para Estudiantes</td>
         <td rowspan="2">Como administrador de una academia deportiva en SportEase, quiero poder crear y gestionar eventos (torneos) para mis estudiantes,para ofrecerles oportunidades adicionales de participación y enriquecimiento en la comunidad deportiva.</td>
-        <td>Dado que soy administrador, cuando acceda al sistema de gestión, entonces debo tener la opción de crear un nuevo evento para los estudiantes.</td>
+        <td>Creación de eventos para estudiantes: Dado que soy administrador, cuando acceda al sistema de gestión, entonces debo tener la opción de crear un nuevo evento para los estudiantes.</td>
     </tr>
     <tr>
-        <td>Dado que estoy creando un evento, cuando ingreso a la seccion de crear eventos, entonces debo poder ingresar detalles como el nombre del evento, la fecha y hora, la ubicación, una descripción y cualquier requisito o material necesario.</td>
+        <td>Ingreso de información completa en registro de eventos: Dado que estoy creando un evento, cuando ingrese a la sección de crear eventos, entonces debo poder ingresar detalles como el nombre del evento, la fecha y hora, la ubicación, una descripción y cualquier requisito o material necesario.</td>
     </tr>
     <!-- EPIC 02 -->
     <tr>
         <td rowspan="6">EP02</td>
         <td rowspan="2">US16</td>
         <td rowspan="2">Gestión de Pagos de Alquiler de Campos Deportivos</td>
-        <td rowspan="2">Como administador de la academia deportiva, necesito tener un sistema para gestionar los pagos relacionados con el alquiler de campos deportivos, permitiéndome registrar los pagos adeudados a terceros por el uso de los campos y mantener un registro claro de las transacciones financieras asociadas.</td>
-        <td>Dado que soy el propietario de la academia deportiva, cuando ingreso a la seccion de gestion de pagos de alquiler, entonces debo poder ingresar los detalles del contrato de alquiler de cada campo deportivo, incluyendo el monto del alquiler, la frecuencia de pago (por ejemplo, semanal, quincenal o mensual) y la fecha de vencimiento de cada pago.</td>
+        <td rowspan="2">Como administrador de una academia deportiva, necesito tener un sistema para gestionar los pagos relacionados con el alquiler de campos deportivos, permitiéndome registrar los pagos adeudados a terceros por el uso de los campos y mantener un registro claro de las transacciones financieras asociadas.</td>
+        <td>Registrar detalles de contrato de pago: Dado que soy el propietario de una academia deportiva, cuando ingresó a la sección de gestión de pagos de alquiler, entonces debo poder ingresar los detalles del contrato de alquiler de cada campo deportivo, incluyendo el monto del alquiler, la frecuencia de pago (por ejemplo, semanal, quincenal o mensual) y la fecha de vencimiento de cada pago.</td>
     </tr>
     <tr>
-        <td>Dado que se ha ingresado un contrato de alquiler de campo deportivo, cuando un pago esté próximo a su fecha de vencimiento, entonces debo recibir notificaciones automáticas permitiéndome tomar medidas oportunas para realizar el pago a tiempo.</td>
+        <td>Notificación sobre pago próximo a vencimiento: Dado que se ha ingresado un contrato de alquiler de campo deportivo, cuando un pago esté próximo a su fecha de vencimiento, entonces debo recibir notificaciones automáticas, las cuales me permitan tomar medidas oportunas para realizar el pago a tiempo.</td>
     </tr>
     <tr>
         <td rowspan="2">US17</td>
         <td rowspan="2">Registro de Pagos y Asistencias a Profesores</td>
         <td rowspan="2">Como administrador de una academia deportiva, necesito poder registrar los pagos y llevar un control de las asistencias de los profesores para garantizar que reciban su compensación de manera oportuna y justa.</td>
-        <td>Dado que soy administrador y es el momento de pagar a los profesores, cuando accedo al sistema de gestión, entonces debo poder registrar los pagos correspondientes a cada profesor de acuerdo con su contrato y la política de pagos de la academia.</td>
+        <td>Ingresar pagos a cada profesor: Dado que soy administrador y es el momento de pagar a los profesores, cuando accedo al sistema de gestión, entonces debo poder registrar los pagos correspondientes a cada profesor de acuerdo con su contrato y la política de pagos de la academia.</td>
     </tr>
     <tr>
-        <td>Dado que realizo un pago a un profesor, cuando ingreso los detalles del pago, como la fecha, el monto y el método de pago, entonces el sistema debe almacenar correctamente esta información y generar un registro de pago para referencia futura.</td>
+        <td>Registrar información de pagos a cada profesor: Dado que realizó un pago a un profesor, cuando ingresó los detalles del pago, como la fecha, el monto y el método de pago, entonces el sistema debe almacenar correctamente esta información y generar un registro de pago para referencia futura.</td>
     </tr>
     <tr>
         <td rowspan="2">US18</td>
-        <td rowspan="2">Gestión de Descuentos por Tardanzas</td>
+        <td rowspan="2">Gestión de Descuentos por Tardanzas a Profesores</td>
         <td rowspan="2">Como administrador de una academia deportiva, necesito poder aplicar descuentos por tardanzas a los pagos de los profesores para mantener la disciplina y la puntualidad en las clases.</td>
-        <td>Dado que soy administrador y quiero aplicar descuentos por tardanzas, cuando accedo al sistema de gestión, entonces debo poder configurar los parámetros de los descuentos, como el monto a descontar por cada período de tardanza y las reglas para aplicarlos, como el umbral de minutos de tardanza.</td>
+        <td>Aplicar descuentos por tardanzas a profesores: Dado que soy administrador y quiero aplicar descuentos por tardanzas a los profesores, cuando accedo al sistema de gestión, entonces debo poder configurar los parámetros de los descuentos, como el monto a descontar por cada período de tardanza y las reglas para aplicarlos, como el umbral de minutos de tardanza.</td>
     </tr>
     <tr>
-        <td>Dado que un profesor llega tarde a una clase, cuando registro su tardanza en el sistema de gestión, entonces el sistema debe calcular automáticamente el descuento correspondiente según las reglas configuradas y aplicarlo al próximo pago del profesor.</td>
+        <td>Cálculo automático de descuento por tardanza para un profesor: Dado que un profesor llega tarde a una clase, cuando registró su tardanza en el sistema de gestión, entonces el sistema debe calcular automáticamente el descuento correspondiente según las reglas configuradas y aplicarlo al próximo pago del profesor.</td>
     </tr>
     <!-- EPIC 03 -->
     <tr>
@@ -293,28 +293,28 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US19</td>
         <td rowspan="2">Notificación de Vencimiento de Mensualidad</td>
         <td rowspan="2">Como administrador de una academia deportiva, necesito recibir notificaciones cuando la mensualidad de un estudiante esté próxima a vencerse para poder recordarle sobre el pago pendiente.</td>
-        <td>Dado que soy un administrador, cuando un estudiante tenga una mensualidad próxima a vencerse, entonces debo recibir una notificación automática en la plataforma.</td>
+        <td>Recibir notificación de pago próximo a vencimiento de un estudiante: Dado que soy administrador, cuando un estudiante tenga una mensualidad próxima a vencerse, entonces debo recibir una notificación automática en la plataforma.</td>
     </tr>
     <tr>
-        <td>Dado que recibo una notificación de vencimiento de mensualidad en la plataforma, cuando revise la noticicacion, entonces debe incluir el nombre del estudiante, el monto de la mensualidad y la fecha de vencimiento.</td>
+        <td>Información completa en notificación: Dado que recibo una notificación de vencimiento de mensualidad en la plataforma, cuando revise la notificación, entonces debe incluir el nombre del estudiante, el monto de la mensualidad y la fecha de vencimiento.</td>
     </tr>
     <tr>
         <td rowspan="2">US20</td>
         <td rowspan="2">Notificación por Faltas Consecutivas</td>
         <td rowspan="2">Como administrador de una academia deportiva, quiero recibir notificaciones cuando un alumno tenga un número excesivo de faltas consecutivas, para intervenir rápidamente y ofrecer apoyo al estudiante en caso de que haya problemas que afecten su asistencia regular.</td>
-        <td>Dado que soy administrador de la academia, cuando el sistema detecte que un alumno ha acumulado un número predefinido de faltas consecutivas, entonces debe generar una notificación para mí.</td>
+        <td>Recibir notificación por faltas consecutivas de un estudiante: Dado que soy administrador de la academia, cuando el sistema detecte que un alumno ha acumulado un número predefinido de faltas consecutivas, entonces debe generar una notificación para mí.</td>
     </tr>
     <tr>
-        <td>Dado que recibo una notificación por faltas consecutivas, cuando la revise, entonces la notificación debe incluir el nombre del alumno, el número de faltas consecutivas y un enlace directo a su perfil para tomar medidas.</td>
+        <td>Información completa en notificación por faltas consecutivas de un estudiante: Dado que recibo una notificación por faltas consecutivas, cuando la revise, entonces la notificación debe incluir el nombre del alumno, el número de faltas consecutivas y un enlace directo a su perfil para tomar medidas.</td>
     </tr>
     <tr>
         <td rowspan="2">US21</td>
         <td rowspan="2">Recepción y Archivo de Justificaciones de Inasistencias y Tardanzas</td>
         <td rowspan="2">Como administrador de una academia deportiva en SportEase, quiero poder recibir y archivar justificaciones de inasistencias y tardanzas por parte de los estudiantes y profesores, para mantener un registro claro y organizado de las razones detrás de las ausencias y llegar a soluciones adecuadas según sea necesario.</td>
-        <td>Dado que soy administrador de la academia, cuando un estudiante o profesor presente una justificación de inasistencia o tardanza, entonces debo poder recibirla a través de la plataforma.</td>
+        <td>Recibir justificación de inasistencia: Dado que soy administrador de la academia, cuando un estudiante o profesor presenta una justificación de inasistencia o tardanza, entonces debo poder recibirla a través de la plataforma.</td>
     </tr>
     <tr>
-        <td>Dado que necesito recibir justificaciones, cuando un estudiante o profesor envíe una justificación, entonces debo recibir una notificación en mi panel de administrador.</td>
+        <td>Obtener justificación en panel de administración: Dado que necesito recibir justificaciones, cuando un estudiante o profesor envíe una justificación, entonces debo recibir una notificación en mi panel de administrador.</td>
     </tr>
     <!-- EPIC 04 -->
     <tr>
@@ -322,28 +322,28 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US22</td>
         <td rowspan="2">Gestión por Categorías o Edades</td>
         <td rowspan="2">Como administrador de una academia deportiva, necesito poder gestionar a los estudiantes organizándolos en categorías o grupos según su edad, nivel de habilidad u otros criterios relevantes.</td>
-        <td>Dado que necesito asignar estudiantes a categorías o grupos en la plataforma, cuando ingrese a la seccion correspondiente, entonces debo poder agregar o quitar estudiantes de cada categoría según sea necesario.</td>
+        <td>Asignar estudiantes a distintas categorías: Dado que necesito asignar estudiantes a categorías o grupos en la plataforma, cuando ingrese a la sección correspondiente, entonces debo poder agregar o quitar estudiantes de cada categoría según sea necesario.</td>
     </tr>
     <tr>
-        <td>Dado que deseo visualizar y gestionar fácilmente los grupos en la plataforma, cuadno ingrese a la seccion correspondiente, entonces debo poder ver una lista de todas las categorías o grupos existentes, así como la lista de estudiantes asociados a cada grupo.</td>
+        <td>Revisar lista con todas las categorías de estudiantes: Dado que deseo visualizar y gestionar fácilmente los grupos en la plataforma, cuando ingrese a la sección correspondiente, entonces debo poder ver una lista de todas las categorías o grupos existentes, así como la lista de estudiantes asociados a cada grupo.</td>
     </tr>
     <tr>
         <td rowspan="2">US23</td>
         <td rowspan="2">Recordatorio de Cumpleaños de Estudiantes</td>
         <td rowspan="2">Como administrador de una academia deportiva, quiero recibir notificaciones para recordar los cumpleaños de los estudiantes, para poder felicitarlos y fortalecer la relación con ellos.</td>
-        <td>Dado que soy un administrador, cuando un estudiante tenga su cumpleaños próximo, entonces debo recibir una notificación automática en la plataforma.</td>
+        <td>Notificación por cumpleaños próximo: Dado que soy administrador, cuando un estudiante tenga su cumpleaños próximo, entonces debo recibir una notificación automática en la plataforma.</td>
     </tr>
     <tr>
-        <td>Dado que recibo un recordatorio de cumpleaños, cuando la revise, entonces la notificación debe incluir el nombre del estudiante y la fecha de su cumpleaños.</td>
+        <td>Información resumida en notificación de cumpleaños: Dado que recibo un recordatorio de cumpleaños, cuando la revise, entonces la notificación debe incluir el nombre del estudiante y la fecha de su cumpleaños.</td>
     </tr>
     <tr>
         <td rowspan="2">US24</td>
         <td rowspan="2">Asignación de Profesores por Categorías</td>
         <td rowspan="2">Como administrador de una academia deportiva, necesito poder asignar profesores a categorías específicas de clases o grupos de estudiantes para garantizar una distribución equitativa y eficiente de recursos humanos.</td>
-        <td>Dado que accedo al sistema de gestión, cuando accedo al sistema de gestión, entonces debo poder ver una lista de todas las categorías de clases disponibles.</td>
+        <td>Revisar lista de categorías de clases disponibles: Dado que quiero revisar todas las categorías disponibles, cuando acceda al sistema de gestión, entonces debo poder ver una lista de todas las categorías de clases disponibles.</td>
     </tr>
     <tr>
-        <td>Dado que deseo asignar profesores a una categoría de clase, para cada categoría de clase, cuando ingrese a la seccion correspondiente, entonces debo poder asignar uno o varios profesores responsables.</td>
+        <td>Asignar profesores a cada categoría de clases: Dado que deseo asignar profesores a una categoría de clase, para cada categoría de clase, cuando ingrese a la sección correspondiente, entonces debo poder asignar uno o varios profesores responsables.</td>
     </tr>
     <!-- EPIC 05 -->
     <tr>
@@ -351,28 +351,28 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
         <td rowspan="2">US25</td>
         <td rowspan="2">Inicio de Sesión Seguro</td>
         <td rowspan="2">Como usuario de SportEase, quiero poder iniciar sesión de manera segura en la plataforma, para garantizar que mi cuenta esté protegida contra accesos no autorizados y mantener la privacidad de mis datos.</td>
-        <td>Dado que ingreso mis credenciales de inicio de sesión (nombre de usuario o correo electrónico y contraseña), cuando presiono el botón de inicio de sesión después de ingresar mis credenciales, entonces el sistema debe validarlas de manera segura antes de permitirme el acceso.</td>
+        <td>Validación segura de credenciales ingresadas en el inicio de sesión: Dado que ingresó mis credenciales de inicio de sesión (nombre de usuario o correo electrónico y contraseña), cuando presiono el botón de inicio de sesión después de ingresar mis credenciales, entonces el sistema debe validar todas de manera segura antes de permitirme el acceso.</td>
     </tr>
     <tr>
-        <td>Dado que inicio sesión correctamente, cuando se validan mis credenciales correctamente, entonces debo ser redirigido a mi página de perfil o al tablero principal de la plataforma.</td>
+        <td>Redirección tras validación correcta de credenciales: Dado que inició sesión correctamente, cuando se validan las credenciales correctamente, entonces debo ser redirigido a mi página de perfil o al tablero principal de la plataforma.</td>
     </tr>
     <tr>
         <td rowspan="2">US26</td>
         <td rowspan="2">Gestión de Perfil de Usuario</td>
         <td rowspan="2">Como usuario de SportEase, quiero poder gestionar mi perfil de usuario y la información personal asociada a él, para controlar qué datos se comparten y cómo se utilizan dentro de la plataforma.</td>
-        <td>Dado que soy un usuario registrado y autenticado en la plataforma, cuando accedo a la sección de configuración de mi perfil desde el menú de usuario, entonces debo poder ver y editar la información de mi perfil, como nombre, correo electrónico, contraseña, foto de perfil, entre otros.</td>
+        <td>Revisión y edición de perfil de usuario: Dado que soy un usuario registrado y autenticado en la plataforma, cuando accedo a la sección de configuración de mi perfil desde el menú de usuario, entonces debo poder ver y editar la información de mi perfil, como nombre, correo electrónico, contraseña, foto de perfil, entre otros.</td>
     </tr>
     <tr>
-        <td>Dado que deseo cambiar mi contraseña, cuando accedo a la opción de cambio de contraseña desde la configuración de mi perfil, entonces debo poder establecer una nueva contraseña siguiendo los requisitos de seguridad establecidos por la plataforma.</td>
+        <td>Cambio de contraseña: Dado que deseo cambiar mi contraseña, cuando accedo a la opción de cambio de contraseña desde la configuración de mi perfil, entonces debo poder establecer una nueva contraseña siguiendo los requisitos de seguridad establecidos por la plataforma.</td>
     </tr>
     <tr>
         <td rowspan="2">US27</td>
         <td rowspan="2">Control de Privacidad de Datos</td>
         <td rowspan="2">Como usuario de SportEase, quiero tener control sobre la privacidad de mis datos personales y la visibilidad de mi información dentro de la plataforma,para asegurarme de que mis datos se utilicen y compartan según mis preferencias y necesidades de privacidad.</td>
-        <td>Dado que accedo a la configuración de privacidad desde mi perfil de usuario, cuando navego a la sección de privacidad desde la configuración de mi perfil, entonces debo poder configurar mis preferencias de privacidad para controlar quién puede ver mi perfil y qué información se comparte públicamente.</td>
+        <td>Configuración de preferencias de privacidad de usuario: Dado que accedo a la configuración de privacidad desde mi perfil de usuario, cuando navego a la sección de privacidad desde la configuración de mi perfil, entonces debo poder configurar mis preferencias de privacidad para controlar quién puede ver mi perfil y qué información se comparte públicamente.</td>
     </tr>
     <tr>
-        <td>Dado que actualizo mis configuraciones de privacidad, cuando realizo cambios en las opciones de privacidad, entonces el sistema debe guardar mis preferencias de manera segura y aplicarlas a mi perfil y datos personales en la plataforma.</td>
+        <td>Guardado y aplicación de preferencias de privacidad: Dado que actualizó mis configuraciones de privacidad, cuando realizo cambios en las opciones de privacidad, entonces el sistema debe guardar mis preferencias de manera segura y aplicarlas a mi perfil y datos personales en la plataforma.</td>
     </tr>
 </table>
 
@@ -380,7 +380,7 @@ Según Patton et al. (2014), una historia de usuario es una técnica utilizada e
 
 El Impact Mapping es una técnica utilizada en el desarrollo de productos y la planificación estratégica para alinear los esfuerzos del equipo con los objetivos de negocio y los resultados deseados. Esta técnica se enfoca en identificar el impacto que un producto o proyecto puede tener en el negocio, los usuarios y otras partes interesadas.
 
-Este pproporciona una vista holística y centrada en los resultados de cómo un producto o proyecto puede generar valor para el negocio y sus partes interesadas. Esto ayuda a los equipos a tomar decisiones más informadas sobre qué características desarrollar y cómo priorizar el trabajo para maximizar el impacto en el negocio y los usuarios (Lee, 2023).
+Este proporciona una vista holística y centrada en los resultados de cómo un producto o proyecto puede generar valor para el negocio y sus partes interesadas. Esto ayuda a los equipos a tomar decisiones más informadas sobre qué características desarrollar y cómo priorizar el trabajo para maximizar el impacto en el negocio y los usuarios (Lee, 2023).
 
 ###### Figura 18. 
 *Impact Mapping completo de todos los segmentos objetivos de SportEase.*
@@ -408,7 +408,7 @@ En la siguiente sección se presenta el Product Backlog ya finalizado del proyec
 | #Orden    | User Story Id  | Titulo                                                  | Descripcion               | Story Points (1/2/3/5/8)   |
 |-----------|----------------|---------------------------------------------------------|---------------------------|----------------------------|
 |     1     |      US01      | Visualización del Resumen en el Landing Page            | Como visitante, quiero encontrar una página de inicio diseñada de manera atractiva y funcional que me proporcione un resumen claro y conciso de las características principales y los beneficios para tener una idea rápida sobre lo que ofrece la plataforma.                          |   2                        |
-|     2     |      US02      | Acceso a la Información del Plan                        | Como visitante del segmento administrador quiero una vista detallada del plan ofrecido por el sitio web para tomar una desicion de compra a conciencia.                          |   2                        |
+|     2     |      US02      | Acceso a la Información del Plan                        | Como visitante del segmento administrador quiero una vista detallada del plan ofrecido por el sitio web para tomar una decisión de compra a conciencia.                          |   2                        |
 |     3     |      US03      | Navegación Rápida y Fluida                              | Como visitante, quiero una experiencia de usuario optimizada en la landing page, que me brinde una navegación fluida y detallada, permitiéndome tomar decisiones conscientes sobre el uso de la plataforma.                          |   1                        |
 |     4     |      US04      | Acceso Rápido a las Secciones Clave                     | Como visitante, quiero encontrar un menú de navegación en el header de la landing page que me permita acceder rápidamente a las secciones clave de SportEase, como información sobre la plataforma, suscripciones, funcionalidades y contacto.                          |   1                        |
 |     5     |      US05      | Descripción Detallada de Funcionalidades                | Como visitante, quiero encontrar una sección en la landing page que describa detalladamente las funcionalidades de SportEase para comprender cómo puede beneficiarme el uso de la plataforma.                          |   1                        |
