@@ -2,7 +2,7 @@
 
 ## 5.1 Software Configuration Management.
 
-Para la gestión de la configuración de software de nuestra aplicación web nos enfocaremos principalmente en la gestión de código fuente, donde controlaremos las versiones y estableceremos una estructura organizada a lo largo de todo el curso de trabajo. Aquí nos aseguramos que todos los miembros del equipo tengan herramientas consistentes para el desarrollo útil y posean una buena configuración de despliegue en el entorno de desarrollo y también ciertas caracteristicas para el entorno de producción. Esta toma de decisiones garantiza la eficiencia, comodidad y coherencia a lo largo de todo el ciclo de vida de la aplicación, lo que es obligatorio para cumplir con nuestra misión y visión y seguir todos nuestros valores y objetivos. De esta forma vamos a ofrecer a nuestro segmento objetivo un espacio seguro, formal e informado en donde buscar y adquirir propiedades para sus bienes raíces, o donde puedan ingresar y publicar las propiedades que quieren vender, junto a otro grupo de funcionalidades ya destacadas en otros capitulos de este informe.
+Para la gestión de la configuración de software de nuestra aplicación web nos enfocaremos principalmente en la gestión de código fuente, donde controlaremos las versiones y estableceremos una estructura organizada a lo largo de todo el curso de trabajo. Aquí nos aseguramos que todos los miembros del equipo tengan herramientas consistentes para el desarrollo útil y posean una buena configuración de despliegue en el entorno de desarrollo y también ciertas características para el entorno de producción. Esta toma de decisiones garantiza la eficiencia, comodidad y coherencia a lo largo de todo el ciclo de vida de la aplicación, lo que es obligatorio para cumplir con nuestra misión y visión y seguir todos nuestros valores y objetivos. De esta forma vamos a ofrecer a nuestro segmento objetivo un espacio seguro, formal e informado en donde buscar y adquirir propiedades para sus bienes raíces, o donde puedan ingresar y publicar las propiedades que quieren vender, junto a otro grupo de funcionalidades ya destacadas en otros capítulos de este informe.
 
 ### 5.1.1 Software Development Environment Configuration
 
@@ -198,15 +198,18 @@ La siguiente lista presenta todos los enlaces respectivos a la organización de 
 
 **Repositorios en GitHub**
 
-- Organización: https://github.com/upc-pre-202401-si729-sv54-sportease
-- Landing Page: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-landing-page
-- Página Web: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-si729-sv54-sportease-web-application
-- Report : https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-report
+- Organización: https://github.com/upc-pre-202401-si729-sv54-sportease 
+- Landing Page: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-landing-page.github.io
+- Web Application: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-si729-sv54-sportease-web-application
+- Web Services: https://github.com/upc-pre-202401-si729-sv54-sportease/upc-OpenSource-SportEase-Api
+- Report : https://github.com/upc-pre-202401-si729-sv54-sportease/upc-pre-202401-si729-sv54-sportease-report 
 
 **Integrantes dentro de la organización:**
 
-En esta sección se presentaran a todos los usuarios que se encuentran dentro de la organización de Github del proyecto de SportEase junto a sus nombres de usuarios respectivos con los integrantes de nuestro equipo. Esto se realizara con el fin de evitar confusión entre los autores de los commits dentro de Github y las personas que lean y analicen el reporte y código planteado dentro de nuestro grupo de trabajo especificado.
+En esta sección se presentarán a todos los usuarios que se encuentran dentro de la organización de Github del proyecto de SportEase junto a sus nombres de usuarios respectivos con los integrantes de nuestro equipo. Esto se realizará con el fin de evitar confusión entre los autores de los commits dentro de Github y las personas que lean y analicen el reporte y código planteado dentro de nuestro grupo de trabajo especificado.
 
+###### Tabla 16
+*Modelo de integrantes del equipo dentro de la página de organización de Github.*
 | Nombre de Usuario | Imagen de Perfil | Nombre del Integrante del Equipo |
 |-------------------|------------------|----------------------------------|
 | mxuriciocm | <img src="/assets/GitProfilePhoto - Mauricio.PNG" alt="Mauricio's Github Profile Photo"> | Chacón Martínez, Mauricio Sebastián - U202212911 |
@@ -230,6 +233,9 @@ En esta sección explicaremos de qué forma se implementará GitFlow. Para este 
 
 - `feature`: Para cada nueva funcionalidad, se creará una rama de funcionalidad con el prefijo "feature/", seguido del nombre descriptivo de la función o característica. En nuestro caso, creamos 5 branches de características correspondientes a los 5 capítulos de nuestro informe, donde se realizan los commits respectivos antes de fusionarlos con la rama develop cuando estén listos. Estas ramas generales son respectivas a cada capitulo del reporte del proyecto y es donde los miembros del grupo de trabajo deben realizar sus pull request en primer lugar, con el fin de conseguir orden y seguridad en todo momento, junto a una buena división y organización:
 
+###### Tabla 11.
+*Modelo de todas las ramas implementadas dentro de la organización del proyecto en Github.*
+
 | Nombre | Descripción |
 |--------|-------------|
 | feature/chapter-01/introduction | En esta rama se realizan todos los cambios respectivos a las secciones del Capitulo 1 del reporte del proyecto. En este feature se agregaron todas las partes referentes a la introducción del reporte, de nuestro startup y de nuestro producto. | 
@@ -251,6 +257,9 @@ En este formato, la sección branch debe especificar la rama en la que se ha rea
 
 Respecto a la descripción, esta debe estar redactada íntegramente en inglés y debe comenzar con un verbo que indique claramente el cambio que se va a realizar. A continuación, se proporciona una lista de verbos que pueden ser útiles en este contexto:
 
+###### Tabla 12.
+*Modelo de escritura de verbos para todos los commits realizados en el proyecto de Github.*
+
 | Verbo | Traducción | Uso en el proyecto de programación |
 |-------|------------|------------------------------------|
 | Add | Añadir | Usado para agregar alguna nueva sección, imagen, texto, etc., a una parte del proyecto. Lo ideal es solo usarlos en las features de los capitulos en forma de commits o en features individuales que esperan un pull request. |
@@ -260,7 +269,7 @@ Respecto a la descripción, esta debe estar redactada íntegramente en inglés y
 | Correct | Corregir | Usado para corregir algún aspecto de una sección del reporte del proyecto. Esta corrección debe ser menor en comparación a una actualización y se debe usar mayoritariamente para la correción de ortografía y/o grámatica.
 | Fix | Arreglar | Usado para arreglar alguna sección que sea correspondiente a código de programación para alguna parte del Web Application o de la Landing Page. También se puede usar en el reporte del proyecto para arreglar artefactos que no funcionan, como enlaces.
 | Delete | Borrar | Usado para borrar alguna sección, imagen, etc., de una parte del proyecto. Solo debe usarse para eliminar una sección incorrecta que ya haya sido aceptada por los miembros del grupo de trabajo. |
-| Drop | Tirar | Usado exclusivamente para tirar abajo alguna rama, carpeta, etc., de todo el repositorio. Solo utilizar cuando el equipo del proyecto acepto tal dropeo. |
+| Drop | Tirar | Usado exclusivamente para tirar abajo alguna rama, carpeta, etc., de todo el repositorio. Solo se utiliza cuando el equipo del proyecto acepta tal dropeo. |
 
 Esta norma se utilizara para mantener y seguir el modelo de los Conventional Commits, los cuales son una convención y especificación ligera para la estructuración y nombramiento de los commits realizados por un equipo. Proporciona un conjunto sencillo de reglas para crear un historial de confirmaciones explícito; lo que facilita la escritura de herramientas automatizadas encima. Esta convención es muy útil al querer describir las características, correcciones y cambios importantes realizados en los mensajes de confirmación. (Github & Netlify, 2024). 
 
@@ -286,7 +295,7 @@ donde,
 
 ### 5.1.3 Source Code Style Guide & Conventions.
 
-En esta sección, nuestro equipo de trabajo explicara e indicar las referencias que adoptaremos para nombrar y programar en los lenguajes de programación que se utilizar para el diseñado de nuestra solución de software mediante la Landing Page y el Web Applications. Ante esto, especificaremos todas las convenciones dadas para los siguientes lenguajes de programación o lenguajes de etiquetas junto a sus guías de seguimiento:
+En esta sección, nuestro equipo de trabajo explicara e indicar las referencias que adoptaremos para nombrar y programar en los lenguajes de programación que se utilizaran para el diseño de nuestra solución de software mediante la Landing Page y el Web Applications. Ante esto, especificaremos todas las convenciones dadas para los siguientes lenguajes de programación o lenguajes de etiquetas junto a sus guías de seguimiento:
 
 - Guía de Estilos y Convenciones de Codigo para HTML: https://www.w3schools.com/html/html5_syntax.asp 
 - Guía de Estilos de Google para HTML Y CSS: https://google.github.io/styleguide/htmlcssguide.html 
@@ -308,11 +317,11 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 - Utilizar etiquetas semánticas y atributos como "alt" en las imágenes para mejorar la accesibilidad y la indexación por parte de los motores de búsqueda/browsers.
 - Diseñar el HTML para que sea receptivo y se vea bien en una variedad de dispositivos y tamaños de pantalla, utilizando CSS adaptable y consultas de medios adecuados.
 - Utilizar modelos de accesibilidad para aumentar el alcance del público que interactua con las páginas web. Centrarse en seguir con el diseño para permitir que puedan acceder personas con discapacidades o con otras lenguas y/o creencias y culturas.
-- Se seguirán las convenciones recomendadas por Google para HTML, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
+- Se seguirán las convenciones recomendadas por Google para HTML, que incluyen el uso de indentaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
 
 2. **CSS**:
 
-- Se seguirán las convenciones recomendadas por Google para CSS, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
+- Se seguirán las convenciones recomendadas por Google para CSS, que incluyen el uso de indentaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
 - Utilizar nombres de clases descriptivos y coherentes para facilitar la comprensión del código y su mantenimiento a largo plazo. Se deben seguir metodologías como BEM (Block Element Modifier) y SMACSS (Scalable and Modular Architecture for CSS).
 - Utilizar nombres descriptivos para las clases CSS que reflejen su propósito o función en lugar de nombres genéricos o abreviaturas difíciles de entender.
 - Preferir nombres que reflejen la función o el propósito del elemento en lugar de su apariencia.
@@ -325,7 +334,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 3. **JavaScript**:
 
 - Utilizar nombres descriptivos que reflejen el propósito y la función de las variables y funciones para mejorar la comprensión del código a gran escala y durante todo su ciclo de vida.
-- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimismo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
 - Utilizar "const" para declarar variables que no cambiarán de valor y "let" para aquellas que sí lo harán, en lugar de "var", para evitar problemas de alcance y mantener la inmutabilidad cuando sea posible.
 - Documentar el código utilizando comentarios para explicar el propósito de las funciones, algoritmos complejos, decisiones de diseño y cualquier otra información relevante. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 - Limitar el uso de variables globales ya que pueden causar conflictos y dificultar el mantenimiento del código. Preferir encapsular variables y funciones dentro de módulos o funciones autoejecutables para evitar contaminar el espacio global.
@@ -341,7 +350,7 @@ Se tiene la intención de seguir todas estas directrices y normativas de codific
 - Evitar el uso excesivo del tipo "any", ya que elimina los beneficios del sistema de tipos de TypeScript. En su lugar, intentar ser lo más específico posible con los tipos de datos que se utilicen.
 - Utilizar uniones (|) y tipos de intersección (&) para modelar tipos complejos que puedan tener múltiples formas o combinaciones de tipos.
 - Aprovechar las generics de TypeScript para crear funciones y clases que sean flexibles y reutilizables con diferentes tipos de datos. Asimismo, aprovechar la capacidad de TypeScript para inferir tipos cuando sea posible, especialmente en situaciones donde la tipificación explícita podría ser redundante.
-- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimsmo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+- Adoptar el estilo de nomenclatura CamelCase para nombrar variables y funciones, comenzando con minúscula para las variables y con mayúscula para las funciones. Asimismo, utilizar espacios o tabulaciones de manera consistente y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
 - Habilitar la configuración "strict" en el archivo de configuración tsconfig.json para aprovechar al máximo las características de seguridad y verificación de TypeScript.
 - Documentar el código TypeScript utilizando comentarios JSDoc para describir el propósito, los parámetros y el valor de retorno de las funciones, clases y métodos. Sin embargo, al enviar a producción, todos esos comentarios deben eliminarse. En caso el comentario sea demasiado importante y aún se debe mantener en el ambiente de producción, lo mejor es dejarlo con la mayor descripción posible sobre su necesidad, usando un formato agradable y formal.
 
@@ -387,8 +396,7 @@ Además de estas referencias, se promoverá el uso de buenas prácticas y metodo
 En esta sección, describiremos la configuración necesaria para desplegar satisfactoriamente cada uno de los productos digitales de nuestra solución, incluyendo Landing Page, los Web Services y las Frontend Web Applications.
 
 1. Landing Page: Empezaremos por crear un repositorio en GitHub para almacenar los archivos HTML, CSS y JavaScript. Luego cada integrante del equipo trabajará en su propia rama "feature" para desarrollar nuestro landing page. Una vez completada una característica, se procederá a hacer el merge con la rama "develop" para que la landing page se encuentre actualizada. estableceremos la configuración en GitHub Pages para publicar la página de destino utilizando la rama "develop". A continuación, detallamos los pasos para llevar a cabo este despliegue en GitHub Pages:
-
-- Comenzaremos creando un repositorio público en GitHub y poniendole un nombre.
+- Comenzaremos creando un repositorio público en GitHub y poniéndole un nombre.
 - Configurar las ramas necesarias conforme al flujo de trabajo Gitflow estándar, que comprende main, release, develop, features y hotfix.
 - Dirigirse a la sección de ajustes y elegir la pestaña Pages.
 - Nos dirigimos al apartado de configuración para GitHub Pages.
@@ -398,23 +406,21 @@ En esta sección, describiremos la configuración necesaria para desplegar satis
 - Se realizarán merges entre la develop y los feature para integrar los avances.
 - Se observarán los cambios reflejados en el enlace provisto por GitHub Pages.
 - Finalmente, el landing estará desplegada, lista para ser visualizada y utilizada.
-
 2. Web Services (API):
 - Preparar el código fuente del servicio web, asegurando que esté correctamente estructurado y documentado.
-- Configurar un entorno de desarrolo o pruebas para realizar pruebas exhaustivas del servicio antes del desplieguee.
+- Configurar un entorno de desarrollo o pruebas para realizar pruebas exhaustivas del servicio antes del despliegue.
 - Desplegar el código en un servidor adecuado para el entorno de producción.
-- Configurar la seguridad y la autenticación según los requisitos del sistema.
-- Documentar la API utilizando OpenAPI Specification para facilitar su integración y uso por parte de otros sistemas.
-
-3. Frontend Web Applications:
-- Clonaremos el repositorio desde GitHub.
-- Compilaremos y empaquetaremos las aplicaciones frontend. En nuestro caso, utilizando Angular, ejecutaremos los comandos de construcción (npm run build) para generar los archivos estáticos.
-- Una vez empaquetadas, las Aplicaciones Frontend Angular pueden ser servidas utilizando un servidor de aplicaciones compatible con archivos estáticos, como Nginx o GitHub Pages para proyectos estáticos más simples.
+ -Configurar la seguridad y la autenticación según los requisitos del sistema.
+ -Documentar la API utilizando OpenAPI Specification para facilitar su integración y uso por parte de otros sistemas.
+3. Frontend Web Applications: 
+- Clonamos el repositorio desde GitHub.
+ -Compilamos y empaquetamos las aplicaciones frontend. En nuestro caso, utilizando Angular, ejecutaremos los comandos de construcción (npm run build) para generar los archivos estáticos.
+ -Una vez empaquetadas, las Aplicaciones Frontend Angular pueden ser servidas utilizando un servidor de aplicaciones compatible con archivos estáticos, como Nginx o GitHub Pages para proyectos estáticos más simples.
 - Si es necesario, configuraremos las rutas en el servidor de aplicaciones para que coincidan con las rutas esperadas por las aplicaciones frontend.
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
-En esta sección, describiremos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, los Web Services y las Frontend Web Applications. Abordaremos cada componente de manera individual a lo largo de los diferentes sprints, comenzando en este Sprint 1 con la implementación específica de la Landing Page. Una vez establecido nuestro Product Backlog, cada sprint se dividirá en secciones internas para abordar cada aspecto de la implementación y la colaboración del equipo.
+En esta sección, describiremos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, los Web Services y las Frontend Web Applications. Abordaremos cada componente de manera individual a lo largo de los diferentes sprints. Una vez establecido nuestro Product Backlog, cada sprint se dividirá en secciones internas para abordar cada aspecto de la implementación y la colaboración del equipo.
 
 ### 5.2.1 Sprint 1
 
@@ -454,11 +460,11 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
         </tr>
             <tr>
             <td>Sprint 1 – 1 Review Summary</td>
-            <td>El proceso del sprint 1 concluyo con un claro éxito en términos de avance de los productos softwares dados junto a la colaboración general del equipo y la comunicación. Los logros alcanzados junto a la retroalimentación con la recopilación durante esta revisión proporcionan una buena y sólida base para la construcción y realización del siguiente sprint (2), además de reforzar el compromiso del equipo con la calidad y la entrega responsable.</td>
+            <td>El proceso del sprint 1 concluyó con un claro éxito en términos de avance de los productos softwares dados junto a la colaboración general del equipo y la comunicación. Los logros alcanzados junto a la retroalimentación con la recopilación durante esta revisión proporcionan una buena y sólida base para la construcción y realización del siguiente sprint (2), además de reforzar el compromiso del equipo con la calidad y la entrega responsable.</td>
         </tr>
             <tr>
             <td>Sprint 1 – 1 Retrospective Summary</td>
-            <td>Para la retrospectiva del Sprint 1 fue necesario reflexionar sobre el desempeño general e individual de todos los miembros del equipo de trabajo, además de identificar todas las secciones posibles donde podemos mejorar además del uso de recomendaciones. Esto nos servira como una buena base para impulsar aun más la mejora continua y optimizar el trabajo del equipo en los próximos sprints durante el ciclo de vida del proyecto.</td>
+            <td>Para la retrospectiva del Sprint 1 fue necesario reflexionar sobre el desempeño general e individual de todos los miembros del equipo de trabajo, además de identificar todas las secciones posibles donde podemos mejorar además del uso de recomendaciones. Esto nos servirá como una buena base para impulsar aún más la mejora continua y optimizar el trabajo del equipo en los próximos sprints durante el ciclo de vida del proyecto.</td>
         </tr>
             <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
@@ -469,7 +475,7 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
         </tr>
               <tr>
             <td>Sprint 1 Velocity</td>
-            <td>Con el equipo para este sprint 1 decidimos aceptar 3 Story Points.</td>
+            <td>Con el equipo para este sprint 1 decidimos aceptar 5 Story Points.</td>
         </tr>
               <tr>
             <td>Sum of Story Points</td>
