@@ -512,7 +512,7 @@ El Sprint 1 está centrado en la implementación de las funcionalidades clave de
         <td>T01</td>
         <td>Diseño Atractivo de la Página de Inicio</td>
         <td>Crear una página de inicio atractiva y funcional que proporcione un resumen claro de las características principales y los beneficios de SportEase.</td>
-        <td>1 horas</td>
+        <td>1 hora</td>
         <td>Mauricio</td>
         <td>Done</td>
     </tr>
@@ -568,9 +568,9 @@ El Sprint 1 está centrado en la implementación de las funcionalidades clave de
     </tr>
     <tr>
         <td>US07</td>
-        <td>Diseño responsivo para dispositivos moviles</td>
+        <td>Diseño responsivo para dispositivos móviles</td>
         <td>T07</td>
-        <td>Experiencia Móvil Optima</td>
+        <td>Experiencia Móvil Óptima</td>
         <td>Adaptar el diseño de la página de inicio para que se vea correctamente en dispositivos móviles y brinde una experiencia de usuario óptima.</td>
         <td>2 horas</td>
         <td>Flavio</td>
@@ -597,7 +597,7 @@ El Sprint 1 está centrado en la implementación de las funcionalidades clave de
     </tr>
 </table>
 
-URL del Board en Trello: https://trello.com/b/NybJnMIm/open-source
+Con el fin de que la lista de tareas en el sprint pueda ser visualizada a más profundidad, se mostrara un enlace directo a la sección de trabajo designada por el equipo junto a todas las actividades planificadas de forma completa en Trello: https://trello.com/b/NybJnMIm/open-source
 ![Board Trello](/assets/trello.png)
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
